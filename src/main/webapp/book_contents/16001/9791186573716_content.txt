@@ -1,0 +1,225 @@
+Part 01. 디스코드? 미드저니?
+시작하기
+ㆍ 생성 AI?
+ㆍ Midjourney(미드저니)
+ㆍ Prompt(프롬프트)란?
+ㆍ 저작권 이슈
+ㆍ 상상의 세계로...
+
+Discord(디스코드)
+ㆍ Discord란?
+ㆍ Discord 설치
+ㆍ Discord 가입
+
+Midjourney(미드저니) 접속하기
+ㆍ Midjourney 화면 레이아웃
+ㆍ Midjourney Server의 주요 채널 살펴보기
+ㆍ 개인 작업환경 설정하기
+ㆍ Midjourney 구독하기
+ㆍ Copyright(저작권)
+
+
+Part 02. Prompt를 배우기 전에
+미드저니 시작하기
+ㆍ 이미지 생성 환경에 접속하기
+ㆍ 간단한 Prompt로 그림을 생성해 보자 -1
+ㆍ 간단한 Prompt로 그림을 생성해 보자 -2
+ㆍ 워크플로우(이미지 생성 과정)
+
+Command(명령어)
+ㆍ 중요 명령어
+· /blend
+· /describe(이미지를 텍스트 프롬프트로 변환)
+· /shorten
+· /settings (환경 세팅)
+· /show
+· /info(정보)
+· 생성 속도 설정
+ㆍ /prefer
+· /prefer auto_dm
+· /prefer option set
+· /prefer option list
+· /prefer suffix
+· /prefer remix
+· /prefer variability
+ㆍ 기타 명령어
+· /ask
+· /help
+· /invite
+· /private, /stealth, /public
+· /subscribe
+· /userid
+
+
+Part 03. Prompt로 하나씩 그려볼까?
+/Imagine?
+ㆍ 기본 Prompt
+ㆍ 고급 Prompt
+ㆍ Text Prompt(텍스트 프롬프트)
+ㆍ Image Prompt(이미지 프롬프트)
+ㆍ Prompt 기본 사용법
+ㆍ 간단한 예시 사용
+· 기법
+· 시대
+[Play Prompt]
+
+Part 04. 좀 더 꼼꼼하게 편집해 보자!
+Parameter(매개변수)
+ㆍ 가로 세로 비율 (-aspect, -ar)
+ㆍ 이미지 가중치 Image Weight ( --iw )
+ㆍ Stylize(--stylize --s)
+ㆍ chaos (--chaos, --c)
+ㆍ Weird (--weird, --w)
+ㆍ Version (--version, --v, --niji )
+ㆍ Quality ( --quality , --q )
+ㆍ Style
+· --style raw
+· --niji 5
+· --niji 5 --style original
+· --niji 5 --style cute
+· --niji 5 --style expressive
+· --niji 5 --style scenic
+ㆍ --seed
+ㆍ --no
+ㆍ --tile
+ㆍ --stop
+ㆍ --video
+ㆍ --repeat
+ㆍ --turbo / --fast / --relax
+[Play Prompt]
+
+
+Part 05. 디테일을 올려주는 고급 Prompt 활용법
+Advanced Prompt
+ㆍ Variations
+ㆍ High / Low Variation
+ㆍ Vary Region(부분 수정)
+ㆍ Remix
+ㆍ Vary Region + Remix
+ㆍ Multi Prompts ::
+· Multi Prompts란
+· Prompt Weight(가중치)
+· Negative Prompt weight
+· The sum of all prompt weights must be positive
+· Individual Image Weight(IIW)
+ㆍ Zoom out
+· Zoom out Basic
+· Custom Zoom + Remix
+ㆍ Pan
+ㆍ Style reference [V6 / Niji 6 Only]
+· --sref
+· 다중 이미지 참조(Multiple Reference Images)
+· 다중 이미지 가중치(Multiple Reference Weight)
+· 스타일 참조 가중치 (Style Reference Weight) Parameter : --sw
+ㆍ Minor Text Drawing(MTD) [V6 / Niji 6 Only]
+ㆍ Upscale(2x, 4x) [V6 / Niji 6 Only]
+ㆍ Upscale(Subtle / Creative) [V6 / Niji 6 Only]
+ㆍ Permutation Prompt { }(순열프롬프트)
+[Play Prompt]
+
+
+
+Part 06. 다양한 기법 활용하기
+Image Prompt Engineering
+ㆍ Prompt란
+ㆍ Prompt Basic
+· 간결한 문장
+· 정확한 단어
+ㆍ MUCH more sensitive
+· 효과적 단어와 나쁜 단어(Junk)
+· Call-Back
+ㆍ Framing word
+· Extreme close up
+· Close up
+· Medium Close up
+· Medium shot
+· Medium full shot
+· Full shot
+ㆍ Prompt Framing
+· Step 1
+· Step 2-1
+· Step 3-1
+· Step 3-2
+· Step 4
+· Step 5
+· Step 2-2
+ㆍ View / Angle / Lens
+· View / Angle
+· Fisheye(어안 렌즈)
+· Wild angle / view (광각 앵글 / 뷰)
+· Telephoto (망원 렌즈)
+· bokeh
+· Tilt-shift
+· bird eye
+ㆍ 기법
+· abstract(추상화)
+· Oil painting (유화)
+· Watercolor (수채화)
+· graffiti (낙서)
+· Impasto
+· Pop Art Mosaic
+· minimalism
+· simple line
+· Origami(종이접기)
+· Paper quilling
+· Symmetry(대칭)
+· Reflection(반사)
+· Coloring book
+· Silhouette(실루엣)
+· Anthropomorphic(의인화)
+· Double exposure(이중 노출)
+· Character spread sheet
+[Play Prompt]
+
+Part 07. 고급 활용 Tips
+Style Tuner(스타일 튜너)
+ㆍ Style Tuner?
+ㆍ Style Directions 생성
+· Style Directions 선택 및 Style code 생성
+· Style code 사용 및 적용 강도 조절
+· Style 공유 및 재사용, 재생성
+· 시동 Prompt (Trigger Prompt)
+· Random style code
+· Sticky style
+· Style code 결합
+· 비율 조절 Style Code 결합
+· Style Code Parameter 적용
+· /list_tuners
+
+Niji-journey(니지저니)
+ㆍ Niji-journey 특화 기능
+· /settings
+· Niji Style Tuner
+
+미드저니 웹사이트(Alpha Website)
+ㆍ Explore 탭
+ㆍ Create 탭
+ㆍ Achive 탭
+ㆍ Manage Uploads 탭
+
+Prompt Debugging
+Loop Prompting
+일관성 있는 캐릭터 생성하기
+건축물 컨셉 베리에이션
+Stable Diffusion Control-net Midjourney Ver.
+완성된 이미지의 디테일 변경
+
+
+
+Part 08. 부록
+유용한 사이트
+ㆍ Midjourney Feed
+ㆍ Facebook Group - Midjourney Official
+ㆍ Facebook Group - Midjourney Prompt Tricks
+ㆍ Facebook Group - Midjourney Korea
+ㆍ Facebook Group - AIcreator
+ㆍ Facebook Group - Stable Diffusion Korea
+
+유용한 Tools
+ㆍ Upscayl
+
+자판기 키워드 에센셜(Essential)
+기본 활용 키워드
+구성 키워드
+테마 키워드
+Style 키워드

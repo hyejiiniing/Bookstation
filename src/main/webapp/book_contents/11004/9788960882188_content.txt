@@ -1,0 +1,29 @@
+Part 01. Intro
+Chapter 01. 비주얼 라이브러리 & 채색과 드로잉
+
+Part 02. 디지털 페인팅
+Chapter 01. 포토샵 이해하기
+
+Part 03. 포토샵 채색 기초
+Chapter 01. 채색 기법 알아보기
+
+Part 04. 원리 이해하기
+Chapter 01. 빛과 색의 원리
+
+Part 05. 빛과 색
+Chapter 01. 빛
+Chapter 02. 색
+
+Part 06. 재질
+Chapter 01. 피부
+Chapter 02. 머리카락
+Chapter 03. 옷주름
+Chapter 04. 재질-기타
+
+Part 07. 후보정
+Chapter 01. 포토샵 보정하기
+
+Part 08. 튜토리얼
+Chapter 01. 채색 기초 - 골렘
+Chapter 02. 튜토리얼 - 마녀
+Chapter 03. 포토샵 응용편-여우

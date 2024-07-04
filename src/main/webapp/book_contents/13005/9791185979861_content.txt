@@ -1,0 +1,51 @@
+일본어---7
+기술문제---9
+독해문제---13
+청독해문제---41
+청해문제---57
+
+[일본어판]
+이과---59
+물리---61
+화학---83
+생물---101
+
+종합과목---117
+
+수학---147
+수학 코스1〈기본코스〉---149
+수학 코스2〈상급코스〉---163
+
+[영어판]
+Science---177
+Physics---179
+Chemistry---201
+Biology---219
+
+Japan and the World---235
+
+Mathematics---267
+Mathematics Course 1 (Basic Course)---269
+Mathematics Course 2 (Advanced Course)---283
+
+해답용지---296
+
+참고자료---303
+2023년도 일본유학시험 실시요강---305
+2023년도 일본유학시험(제2회)실시 지역별 응모자수, 수험자수 일람---308
+2023년도 일본유학시험(제2회) 시험장소 일람---309
+
+일본어 출제범위---310
+이과 출제범위---313
+종합과목 출제범위---324
+수학 출제범위---326
+
+EJU Syllabus for Japanese as a Foreign Language---331
+EJU Syllabus for Basic Academic Abilities (Science)---334
+EJU Syllabus for Basic Academic Abilities (Japan and the World)---345
+EJU Syllabus for Basic Academic Abilities (Mathematics)---347
+
+청독해문제 스크립트---352
+청해문제 스크립트---358
+
+정답표 The Correct Answers---369

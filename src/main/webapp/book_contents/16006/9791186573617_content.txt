@@ -1,0 +1,140 @@
+이 책을 보기 전에 …
+Part 01] 셰이더(Shader)란 무엇인가?
+1. 셰이더(Shader)란 무엇인가?
+2. 왜 그래픽 아티스트가 셰이더를 배워야 하는가?
+
+Part 02] URP와 셰이더 그래프
+1. 유니티 URP (Universal Render Pipeline)
+2. 셰이더 그래프 (Shader Graph)
+
+Part 03] 셰이더를 익히기 위한 기반 지식들
+1. 렌더링 파이프라인 (Rendering Pipeline : 렌더링의 순서)
+2. 모니터에 표현되는 색과 빛의 기본원리 (모니터의 색은 어떻게 표현되는가?)
+
+Part 04] 셰이더 그래프 만들기와 Property
+1. 오브젝트에 메터리얼(Material)과 셰이더를 적용해 봅시다
+2. 셰이더 그래프를 열어서 경로를 바꿔 봅시다
+3. Blackboard와 Graph Inspector를 이용하여 셰이더 Properties를 만들어 봅시다
+
+Part 05] Shader Graph 기본 조작하기 1 (색상출력)
+1. Shader Graph 기본 사용법
+2. 색상 출력하기
+
+Part 06] Shader Graph 기본 조작하기 2 (분해와 재조립 / 노드와 색상 연산과 감마 코렉션)
+1. 노드의 값을 분해하고 재조립하기(Split과 Combine)
+2. 노드(숫자)의 연산
+3. Color의 연산과 감마 코렉션
+
+Part 07]색상과 텍스쳐의 연산, Lerp
+1. 색상을 입력 받고, 밝기를 조절하는 기능을 만들어 봅시다.
+2. 텍스쳐를 출력해 봅시다
+3. 이미지를 흑백으로 만들어 봅시다
+4. Lerp 노드를 사용해 봅시다
+5. Lerp 노드를 응용해 봅시다.
+
+Part 08] UV를 다루는 방법을 배워봅시다
+1. UV의 기본개념
+2. UV를 시각적으로 해석해 보도록 합시다
+3. UV에 숫자를 더해 봅시다
+4. UV에 숫자를 곱해 봅시다
+5. Time으로 UV가 흘러가게 해 봅시다
+6. UV를 이용해서 불 이펙트를 만들어 보도록 합시다
+7. 좀 더 멋진 방법으로 불을 만들어 봅시다
+
+Part 09] 버텍스 컬러를 이용해 봅시다
+1. 버텍스 컬러를 적용해 봅시다.
+2. 버텍스 컬러를 이용한 작업을 해 봅시다
+3. 버텍스 컬러를 마스킹 기능으로 사용해 봅시다
+
+Part 10] Lit Shader Graph를 이용해 봅시다
+1. Lit Shader
+2. Lit Shader Graph 사용하기
+3. 9장의 배경을 Lit Shader로 만들어 응용해 봅시다
+
+Part 11] Lit 셰이더의 추가 기능과 응용기능을 사용해 봅시다
+1. Heightmap (Parallax Mapping)
+2. Detail Map
+3. [응용하기] 돌이 젖고 마르는 기능을 만들어 봅시다
+
+Part 12] Digital Light 이론
+1. 디지털 라이트의 분류
+2. 디지털 라이트의 원리
+3. 벡터 (Vector)
+4. 벡터의 특성
+5. 노말벡터 (Normal Vector)
+6. 벡터의 연산
+7. 벡터 연산을 이용한 디지털 조명 연산
+
+Part 13] 커스텀 라이트(Lambert Light)
+1. 커스텀 라이트 기본형 만들기
+2. 램버트 라이트 완성해 보기
+
+Part 14] Fresnel(프레넬)
+1. Fresnel이란?
+2. Fresnel을 구현해 봅시다
+3. Fresnel를 다듬어 완성해 봅시다
+4. Fresnel을 응용한 이펙트를 만들어 봅시다
+
+Part 15] 커스텀 라이트 2
+1. 퐁(Phong) 블린 / 퐁(Blinn-Phong) 반사 이론
+2. 퐁 반사(Phong Reflection) 만들기
+3. 블린 퐁 반사(Blinn-Phong Reflection) 만들기
+
+Part 16] 커스텀 라이트 완성
+1. Diffuse Reflection 연산
+2. Ambient Light / AO 연산
+3. Specular Reflection 연산
+4. Fresnel 연산
+5. Fresnel을 이용한 가짜 Specular 만들기
+6. 그림자 감쇠 (Shadow Attenuation)
+
+Part 17] NPR Rendering
+1. NPR 렌더링이란?
+2. 외곽선 만들기 이론
+3. 외곽선 만들기
+4. Render Feature를 이용해서 외곽선 추가하기
+5. Branch를 이용해 끊어지는 음영을 만들어 봅시다
+6. Ceiling을 이용해 끊어지는 음영을 만들어 봅시다
+7. Fresnel을 이용해서 외곽선을 만들어 봅시다
+8. Diffuse Warping 기법
+9. Diffuse Warping 기법을 응용해 봅시다
+
+Part 18] 큐브맵 리플렉션(Cubemap Reflection)
+1. 큐브맵을 적용해 봅시다.
+2. 커스텀 라이트로 금속 재질의 반사 만들기
+3. 커스텀 라이트로 비금속 재질의 반사 만들기
+4. 금속과 비금속을 구분하여 완성해 봅시다.
+
+Part 19] 알파와 뎁스 버퍼(Alpha & Depth buffer)
+1. Z버퍼(Depth buffer)와 불투명(Opaque)
+2. 반투명: 알파 블렌딩(Alpha Blending)
+3. 알파 테스팅/클리핑(Alpha Testing/Clipping)
+4. Depth Test
+5. Blending Mode
+6. Graph Settings
+
+Part 20] 응용하기
+1. 투명해지는 오브젝트 만들기
+2. 굴절되는 셰이더 만들기
+3. 원하는 타이밍에 눈이 깜빡이는 효과
+4. 흔들리는 풀 만들기
+5. 맷캡 (Matcap)
+6. 트라이플레너(Triplaner)
+7. 뎁스 페이드 (Depth Fade)
+
+Part 21] 물 만들기
+1. 환경을 만듭니다
+2. 기본적인 물 효과 만들기
+3. 물 표면 웨이브 만들기
+4. 굴절
+5. 뎁스(Depth)를 이용한 투명과 깊이
+
+Part 22] 스텐실(Stencil)
+1. 스텐실 옵션
+2. 스텐실 준비하기
+
+Part 23] 포스트 프로세스(Post Process)
+1. 포스트 프로세스를 위한 기본 작업
+2. 흑백 포스트 프로세스 만들기
+3. 블러 만들기
+4. 비 내리는 효과 만들기

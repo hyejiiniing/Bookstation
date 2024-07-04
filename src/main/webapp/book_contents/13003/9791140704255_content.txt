@@ -1,0 +1,315 @@
+Part 1 화상 회의 및 비대면 비즈니스 활용 패턴
+
+Chapter 01 ｜ 화상 회의 시작
+Pattern 001 Please, click on ~.
+Pattern 002 Please, join the~.
+Pattern 003 Don’t be late ~.
+Pattern 004 I will be attending ~.
+Pattern 005 It is about ~.
+Pattern 006 There are issues about ~.
+Pattern 007 Welcome to ~.
+Pattern 008 Please update ~.
+Pattern 009 Please be mindful of ~.
+Pattern 010 Before we start ~, ~.
+Review l Pattern 001~ 010
+
+Chapter 02 ｜ 화상 회의 진행하기
+Pattern 011 Can you see ~?
+Pattern 012 The meeting is going to last ~.
+Pattern 013 Don’t hesitate ~.
+Pattern 014 Let me share ~.
+Pattern 015 Would you mind if ~?
+Pattern 016 Could I interrupt you ~?
+Pattern 017 We don’t seem to ~.
+Pattern 018 Can we go back ~?
+Pattern 019 Have you considered ~?
+Pattern 020 I’m confused about ~.
+Review l Pattern 011 ~ 020
+
+Chapter 03 ｜ 주요 온라인 비즈니스 패턴
+Pattern 021 Could you provide me with ~?
+Pattern 022 In summary, ~.
+Pattern 023 I appreciate ~.
+Pattern 024 I encourage ~.
+Pattern 025 I still don’t understand ~.
+Review l Pattern 021 ~ 025
+
+Chapter 04 ｜ 비대면 고난도 패턴 활용하기
+Pattern 026 I’m having trouble ~.
+Pattern 027 Can someone help me troubleshoot ~?
+Pattern 028 Whatever ~.
+Pattern 029 As part of ~.
+Pattern 030 Whenever ~.
+Pattern 031 The staff is undergoing ~.
+Review l Pattern 026 ~ 031
+
+Part 2 전화(비대면) 업무 처리 패턴
+
+Chapter 05 ｜ 전화 걸어 용건 말하기
+Pattern 032 This is ~ from~.
+Pattern 033 May I speak to ~?
+Pattern 034 I’m calling (about/to) ~.
+Pattern 035 Can I leave a message ~?
+Pattern 036 I’m returning a call from ~.
+Pattern 037 Can I call you back ~?
+Pattern 038 I have a question (about) ~.
+Pattern 039 Could you tell me ~?
+Pattern 040 Could you repeat ~?
+Review l Pattern 032 ~ 040
+
+Chapter 06 ｜ 전화 응대하기
+Pattern 041 This is ~ speaking. How can I help you?
+Pattern 042 I’ll connect you to ~.
+Pattern 043 I’m afraid ~.
+Pattern 044 Hold on.
+Pattern 045 Shall I ~?
+Pattern 046 Did you say ~?
+Pattern 047 What’s the problem with ~?
+Pattern 048 May I take a message ~?
+Pattern 049 Could you please provide me with some more details about ~?
+Review l Pattern 041 ~ 049
+
+Part 3 회의(화상 회의) 및 메신저 필수 패턴
+
+Chapter 07 ｜ 회의 준비하기
+Pattern 050 We’ll hold a meeting ~.
+Pattern 051 We’re planning to ~.
+Pattern 052 ~ should be mentioned.
+Pattern 053 Can you make it to ~?
+Pattern 054 The purpose of the meeting is to ~.
+Pattern 055 Let’s start with ~.
+Review l Pattern 050 ~ 055
+
+Chapter 08 ｜ 회의하기
+Pattern 056 What’s your opinion on ~?
+Pattern 057 I suggest (that) ~.
+Pattern 058 So what you’re saying is ~?
+Pattern 059 It seems to me that ~.
+Pattern 060 Perhaps we should think about ~.
+Pattern 061 That may be right, but ~.
+Pattern 062 We see no alternative but to ~.
+Pattern 063 Please let me finish ~.
+Pattern 064 Can I say something about ~?
+Pattern 065 When is ~ scheduled to finish?
+Review l Pattern 056 ~ 065
+
+Chapter 09 ｜ 업무에 필요한 사항 논의하기
+Pattern 066 I’d like you to ~.
+Pattern 067 Are you done (with) ~?
+Pattern 068 ~ is behind(ahead of) schedule.
+Pattern 069 You don’t have to worry about ~.
+Pattern 070 When should ~ be finished by?
+Pattern 071 It would be a huge help to ~.
+Pattern 072 Can you give me the rundown on ~?
+Pattern 073 I’m sorry to bother you, but ~.
+Pattern 074 It is important to ~.
+Pattern 076 I have a problem with ~.
+Pattern 077 It is related to ~.
+Pattern 078 I’m sorry to ask you, but can we change ~?
+Pattern 079 Let’s move on to ~.
+Review l Pattern 066 ~ 079
+
+Part 4 협상(비대면 협상)을 위한 패턴
+
+Chapter 10 ｜ 협상 전개하기
+Pattern 080 It’s ~ today.
+Pattern 081 How long did it take ~?
+Pattern 082 You look ~.
+Pattern 083 We need to discuss ~ in detail.
+Pattern 084 Let’s review ~.
+Pattern 085 The (first, last, next) issue we’ll discuss is ~.
+Pattern 086 We are interested in ~.
+Pattern 087 We should resolve ~.
+Pattern 088 What matters most is ~.
+Pattern 089 Our proposal is to ~.
+Pattern 090 How about ~?
+Review l Pattern 080 ~ 090
+
+Chapter 11 ｜ 본격적으로 협상하기
+Pattern 091 We should reduce(raise) the price (by/to) ~.
+Pattern 092 ~ is not acceptable.
+Pattern 093 ~ is a low priority.
+Pattern 094 Considering ~, ~.
+Pattern 095 We’re willing to ~.
+Pattern 096 We’re not willing to ~.
+Pattern 097 Let me clarify ~.
+Pattern 098 I’d be willing to comply if you can ~.
+Pattern 099 I can go along with ~.
+Pattern 100 Could you expand on ~?
+Pattern 101 I understand your concern, but ~.
+Pattern 102 The way I see it, ~.
+Pattern 103 I’m receptive to ~.
+Pattern 104 The major obstacle seems to be ~.
+Pattern 105 ~ is not entirely our fault.
+Pattern 106 The bottom line is ~.
+Review l Pattern 091 ~ 106
+
+Chapter 12 ｜ 협상 마무리하기
+Pattern 107 Let me recap ~.
+Pattern 108 I think the meeting was ~.
+Review l Pattern 066 ~ 079
+
+Part 5 무역과 프레젠테이션 필수 패턴
+
+Chapter 13 ｜ 제품 및 시장 소개하기
+Pattern 109 We’ve just launched ~.
+Pattern 110 It is designed to ~.
+Pattern 111 Its key feature is ~.
+Pattern 112 A distinctive aspect of our product is ~.
+Pattern 113 Our target market is ~.
+Pattern 114 We should concentrate on ~.
+Pattern 115 We’re diversifying ~.
+Pattern 116 It is said that ~.
+Pattern 117 ~ will be released.
+Pattern 118 This product is famous for ~.
+Pattern 119 One of the features is ~.
+Pattern 120 ~ is superior (to) ~.
+Pattern 121 ~ is effective in ~.
+Pattern 122 This item is for ~.
+Review l Pattern 109 ~ 122
+
+Chapter 14 ｜ 제품에 대해 문의하기
+Pattern 123 I’d like to ask you about ~.
+Pattern 124 Where can I get ~?
+Pattern 125 ~ is/are getting popular.
+Pattern 126 ~ is/are out of stock.
+Pattern 127 How much does ~ weigh?
+Pattern 128 What does ~ look like?
+Pattern 129 What’s the price of ~?
+Review l Pattern 123 ~ 129
+
+Chapter 15 ｜ 주문하기
+Pattern 130 Could you give me an estimate on ~?
+Pattern 131 We’d like to place an order for ~.
+Pattern 132 Can you ship ~ by ~?
+Pattern 133 How soon can you deliver ~?
+Pattern 134 Can you make payment by~?
+Pattern 135 What’s the warranty period for ~?
+Pattern 136 What warranty do you offer on ~?
+Review l Pattern 130 ~ 136
+
+Chapter 16 ｜ 불만 및 문제 처리하기
+Pattern 137 ~ broke down.
+Pattern 138 I’m not happy with ~.
+Pattern 139 It’s against company policy to ~.
+Pattern 140 Can I get a refund on ~?
+Review l Pattern 137~ 140
+
+Chapter 17 ｜ 프레젠테이션 시작하기
+Pattern 141 Let’s give a warm welcome to ~.
+Pattern 142 I’m ~.
+Pattern 143 I’m working as ~.
+Pattern 144 I’m in charge of ~.
+Pattern 145 The purpose of my presentation is to ~.
+Pattern 146 My presentation is broken down into ~.
+Pattern 147 You can ask me questions ~.
+Pattern 148 The presentation will take ~.
+Review l Pattern 141 ~ 148
+
+Chapter 18 ｜ 프레젠테이션 전개하기
+Pattern 149 Let me start my presentation (with/by) ~.
+Pattern 150 Have you ever wondered ~?
+Pattern 151 Think for a moment about ~.
+Pattern 152 Let’s turn to ~.
+Pattern 153 It’s time to think about ~.
+Pattern 154 I’d like to emphasize ~.
+Pattern 155 I strongly recommend ~.
+Pattern 156 According to ~, ~.
+Pattern 157 Please take a look at ~.
+Pattern 158 ~ shows ~.
+Pattern 159 At any rate, ~.
+Pattern 160 In comparison with ~, ~.
+Review l Pattern 149 ~ 160
+
+Chapter 19 ｜ 요약 및 마무리하기
+Pattern 161 Let me sum up ~.
+Pattern 162 In conclusion, ~.
+Pattern 163 Does anybody have any questions on ~?
+Pattern 164 I really appreciate ~.
+Review l Pattern 161 ~ 164
+
+Part 6 비대면 업무의 핵심 이메일 패턴
+
+Chapter 20 ｜ 이메일 시작하기
+Pattern 165 It’s been a long time since ~.
+Pattern 166 I’m emailing you to ~.
+Pattern 167 I’d like to confirm ~.
+Pattern 168 We are a ~ company.
+Pattern 169 I am contacting you on behalf of ~.
+Pattern 170 I can’t thank you enough for ~.
+Pattern 171 I’d like to inquire about ~.
+Pattern 172 Regarding ~, ~.
+Pattern 173 In response to ~,~.
+Pattern 174 We have received no reply ~.
+Review l Pattern 165~ 174
+
+Chapter 21 ｜ 본론 말하기 1 – 희망 사항과 입장 밝히기
+Pattern 175 We’re aiming to ~.
+Pattern 176 I’d like to take part in ~.
+Pattern 177 I’d like to see you in person to ~.
+Pattern 178 I’m keen on ~.
+Pattern 179 We’d be pleased to ~.
+Pattern 180 I agree with you in that ~.
+Pattern 181 We’ve discussed ~.
+Pattern 182 We’ll make sure ~.
+Pattern 183 We can accept ~.
+Pattern 184 I understand that ~.
+Pattern 185 I was informed that ~.
+Pattern 186 We’ll consider ~.
+Pattern 187 We have a problem with ~.
+Pattern 188 In my view, ~.
+Pattern 189 By the way, ~.
+Pattern 190 As requested, ~.
+Pattern 191 First of all, ~.
+Review l Pattern 175 ~ 191
+
+Chapter 22 ｜ 본론 말하기 2 – 요청하고 강조하기
+Pattern 192 I hope ~.
+Pattern 193 I’d like to propose ~.
+Pattern 194 I’ll have to ~.
+Pattern 195 We need ~.
+Pattern 196 I’d appreciate it if ~.
+Pattern 197 I’d be grateful if you could ~.
+Pattern 198 We’d be grateful to have the opportunity to ~.
+Pattern 199 Please ~ as soon as possible.
+Pattern 200 Please inform us (about/if) ~.
+Pattern 201 If possible, I’d like to ~.
+Pattern 202 We require ~.
+Pattern 203 I’d like to remind you ~.
+Review l Pattern 192 ~ 203
+
+Chapter 23 ｜ 본론 말하기 3 – 감정 표현하기
+Pattern 204 I was impressed by ~.
+Pattern 205 It is a pleasure to ~.
+Pattern 206 I regret (to inform you) that ~.
+Pattern 207 It’s too difficult for us to ~.
+Pattern 208 We’re disappointed ~.
+Pattern 209 Please accept my apology for ~.
+l Review l Pattern 204 ~ 209
+
+Chapter 24 ｜ 본론 말하기 4 – 세부 사항 챙기기
+Pattern 210 I need to check if ~.
+Pattern 211 Could you please send us ~?
+Pattern 212 I’m wondering if ~.
+Pattern 213 Have you ~?
+Pattern 214 Would it be all right if ~?
+Pattern 215 If you have any further questions, ~.
+Pattern 216 ~ will be convenient for ~.
+Pattern 217 ~ will be delivered ~.
+Pattern 218 ~ give someone the details (of/about) ~.
+Pattern 219 If there are any problems (with) ~.
+Pattern 220 Can you ~ by ~?
+Pattern 221 ~ will start ~ (and end) ~.
+Pattern 222 I’ll need to make arrangements for ~.
+Pattern 223 We’re offering a ~ discount.
+Pattern 224 Please let me know your opinion about ~.
+Pattern 225 Do not hesitate to ~.
+Pattern 226 I’m eagerly awaiting ~.
+Pattern 227 Please keep in mind ~.
+Pattern 228 Please note that ~.
+Pattern 229 I’ve attached ~.
+Pattern 230 Please contact ~.
+Pattern 231 Please reply ~.
+Pattern 232 I look forward to ~.
+Pattern 233 I owe you ~.
+Review l Pattern 210 ~ 233

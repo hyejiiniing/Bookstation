@@ -1,0 +1,1010 @@
+Fruit (과일류)
+거봉 포도 Kyoho Grape 92
+고욤 Date Plum 72
+골드 키위 Golden Kiwi Fruit 69
+구스베리 Gooseberry 34
+구아라나 Guarana 122
+그리오트 Griotte 44
+그린 망고 Green Mango 59
+그린게이지 자두 Greengage 54
+금감(쿰코앗) Kumquat 105
+나랑히야 Naranjilla 82
+데이빗슨 플럼 Davidson’s Plum 46
+두리안 Durian 94
+두쿠 Duku 78
+라이베리 Riberry 39
+라카탄 바나나 Lacatan Banana 100
+람부탄 Rambutan 63
+레드 바나나 Red Banana 100
+레이니어 체리 Rainier Cherry 44
+렌 드 레네트 Reine des Reinettes 87
+루쿠마 Lucuma 50
+마라 드 부아 스트로베리 Mara des Bois Strawberry 33
+마룰라 Marula 41
+마몬치요 Mamoncillo 43
+마운틴 허클베리 Mountain Huckleberry 24
+마잔제 Mazhanje 41
+맘미 Mamee 79
+망고스틴 Mangosteen 67
+매리언베리 Marionberry 31
+모스카텔 건포도 Moscatel Raisin 117
+무스카딘 Muscadine 93
+무스카트 포도 Muscat Grape 93
+미라벨 자두 Mirabelle 54
+미라클베리 Miracle Berry 36
+바리 대추야자 Barhi Date 43
+바바코 Babaco 89
+배 Nashi Pear 84
+벌꿀에 절인 대추 Honeyed Jujube 124
+베르 Ber 91
+벨 Bael 77
+보이젠베리 Boysenberry 31
+블랙 멀베리(검은 오디) Black Mulberry 28
+블랙커런트(까막까치밥 열매) Blackcurrant 24
+블러드 오렌지 Blood Orange 111
+블렌하임 살구 Blenheim Apricot 55
+비파나무 열매 Loquat 72
+사탕수수 Sugar Cane 114
+사포딜라 Sapodilla 79
+산자나무(비타민나무) Sea Buckthorn 36
+살라크 Salak 60
+샤랑테 멜론 Charentais Melon 96
+샴페인 루바브(대황) Champagne Rhubarb 114
+서양모과 Medlar 81
+석류 Pomegranate 65
+소렌토 레몬 Sorrento Lemon 106
+수박 Watermelon 98
+스미르나 무화과 Smyrna Fig 81
+스트로베리 구아바 Strawberry Guava 70
+승도(僧桃) 복숭아 Nectarine 55
+시즈오카 멜론 Shizuoka Melon 96
+시트론 Citron 109
+아그발루모 Agbalumo 75
+아바카쉬 파인애플 Abacaxi Pineapple 103
+아사이 Acai 39
+아세롤라 Acerola 45
+아쟁 프룬 Prune d’Agen 117
+아조레스 파인애플 Azores Pineapple 103
+알폰소 망고 Alphonso Mango 59
+알프스 딸기 Alpine Strawberry 33
+암바렐라 Ambarella 53
+엘더플라워 Elderflower 22
+여지(리치, 라이치) Lychee 63
+와일드 라스베리(야생 나무딸기) Wild Raspberry 28
+왐피 Wampee 53
+용안 Longan 60
+유자 Yuzu 105
+일라와라 플럼 Illawarra Plum 48
+자문 Jamun 46
+자보티카바 Jabuticaba 92
+자파 오렌지 Jaffa Orange 111
+장미꽃잎 Rose Petal 22
+체리모야 Cherimoya 77
+카람볼라 Carambola 70
+카사바나나 Cassabanana 98
+카세이유 Casseille 34
+칼라만시 Calamansi 109
+칼라사 대추야자 Khalasah Date 124
+캐슈 애플 Cashew Apple 48
+케이프 꽈리 Cape Gooseberry 75
+코미스 배 Comice Pear 84
+콕스 오렌지 피핀 Cox’s Orange Pippin 87
+콴동 Quandong 121
+쿠푸아수 Cupuacu 78
+퀸스 Quince 89
+크랜베리(덩굴월귤) Cranberry 27
+크랩애플 Crabapple 91
+클라우드베리(호로딸기) Cloudberry 27
+클레멘타인 Clementine 106
+키 라임 Key Lime 108
+타마린드 Tamarind 122
+타마릴로 Tamarillo 82
+팔라 마니스 Pala Manis 118
+패션 프루트 Passion Fruit 65
+페쉬 드 비뉴 Peche de Vigne 56
+페키 Pequi 67
+포멜로 Pomelo 112
+피조아 Feijoa 69
+피탕가 Pitanga 45
+핑거 라임 Finger Lime 108
+핑크 그레이프프루트 Pink Grapefruit 112
+하치야 감 Hachiya Persimmon 118
+허니 잭 Honey Jack 94
+호코테 Red Mombin 50
+훈자 살구 Hunza Apricot 121
+
+
+강낭콩 French Bean 137
+게르킨 오이 피클 Pickled Gherkin 240
+고구마 Sweet Potato 210
+고마도후(胡麻豆腐, 참깨두부) Goma Dofu 254
+곰보버섯 Morel 231
+곰파 Wild Garlic Leaf 178
+그린 토마토(풋토마토) Green Tomato 144
+그물버섯 Cep 229
+근대 Swiss Chard 166
+금련화 Nasturtium 128
+김 Nori 251
+꽃상추 Frisee 164
+꾀꼬리버섯 Chanterelle 229
+나바라 피퀴요 고추 Navarra Piquillo Pepper 243
+남방개 Water Chestnut 146
+낫토 Natto 252
+냉동 콩 Frozen Pea 234
+누에콩 Broad Bean 138
+느타리버섯 Oyster Mushroom 224
+니옹 올리브 Nyons Olive 232
+달걀버섯 Oronge Mushroom 226
+더우미아오(豆苗, 완두콩 어린싹) Pea Shoot 161
+도라지 Bellflower Root 208
+동과(冬瓜, 겨울 수박) Winter Melon 157
+드럼스틱나무 꼬투리 Horseradish Pod 141
+라트 감자 Ratte Potato 216
+람파시오니 양파 Lampascioni Onion 236
+램프 Ramp 195
+로만 아티초크 Roman Artichoke 135
+로메인 상추 Cos Lettuce 164
+로제 드 로스코프 양파 Rose de Roscoff Onion 190
+록 삼피어 Rock Samphire 174
+루미냐노 완두콩 Lumignano Pea 136
+마 Japanese Yam 214
+마레 푸아트뱅 안젤리카 Marais Poitevin Angelica 184
+마쉬 삼피어(유럽 퉁퉁마디) Marsh Samphire 174
+마우이 양파 Maui Onion 190
+마이크로그린 Microleaf 159
+맛젖버섯 Saffron Milk Cap 226
+멜로키아 Melokhia 172
+모로코 스타일 올리브 Moroccan-style Olive 233
+무 Mooli 206
+무이 초이 Mui Choy 246
+물냉이 Watercress 161
+미역 Wakame 248
+민들레 Dandelion 177
+바나나 꽃 Banana Flower 135
+바사노 화이트 아스파라거스 Bassano White Asparagus 183
+방울 토마토 Cherry Tomato 145
+방울다다기양배추 Brussels Sprout 186
+배추 Bok Choy 1 71
+버터넛 스쿼시 Butternut Squash 154
+벨라 디 체리뇰라 올리브 Bella di Cerignola Olive 233
+보라색 싹 브로콜리 Purple Sprouting Broccoli 184
+보클뤼즈 그린 아스파라거스 Vaucluse Green Asparagus 183
+뷰티 하트 래디쉬 Beauty Heart Radish 198
+브라간사 양배추 Braganza Cabbage 187
+블랙 페리고르 트러플 Black Perigord Truffle 218
+블뢰 드 솔레이스 리크 Bleu de Solaise Leek 195
+비단 단호박 Silk Squash 153
+비터 멜론 Bitter Melon 153
+사우어크라우트 Sauerkraut 252
+사이쿄 미소 Saikyo Miso 256
+산 마르자노 토마토 San Marzano Tomato 145
+샐서피 Salsify 207
+샹트네이 당근 Chantenay Carrot 205
+서양쐐기풀 Nettle 177
+석이 Iwatake 221
+셀러리 하트 Celery Heart 196
+셀러리악 Celeriac 203
+송이버섯 Matsutake 222
+쇠비름 Purslane 163
+수영 Sorrel 163
+순무 Turnip 201
+순무청 Turnip Top 172
+스파게티 스쿼시 Spaghetti Squash 154
+실버스킨 양파 피클 Pickled Silverskin Onion 236
+실버퀸 스위트콘 Silver Queen Sweetcorn 142
+쑥갓 Shungiku 169
+아라카차 Arracacha 203
+아마란스 Amaranth 159
+아시아 가지 Asian Aubergine 149
+아키 Ackee 142
+애로우헤드 시금치 Arrowhead Spinach 166
+야생 루콜라 Wild Rocket 160
+에다마메(枝豆) Edamame 138
+연근 Lotus Root 208
+연두부 Silken Beancurd 253
+예루살렘 아티초크 Jerusalem Artichoke 213
+오이 Cucumber 152
+오크라 Okra 152
+완두콩 Mange-tout 136
+우엉 Gobo 210
+우조우자 잎 Uzouza Leaf 169
+원추리 Golden Needle 207
+위틀라코체 Huitlacoche 221
+유부 Yuba 254
+이루 Iru 255
+잎새버섯 Maitake 224
+자 초이 Ja Choy 246
+저지 로열 감자 Jersey Royal Potato 216
+저지 셜롯 Jersey Shallot 189
+적채 Red Cabbage 187
+주키니(서양호박) 꽃 Courgette Blossom 128
+죽순 Bamboo Shoot 181
+줄 줄기 Wild Rice Stem 180
+줄기상추 Celtuce 171
+중국 아티초크 Chinese Artichoke 213
+지중해 가지 Mediterranean Aubergine 149
+지카마 Jicama 201
+처우떠우푸(臭豆腐, 취두부) Stinky Tofu 253
+청나래고사리 Fiddlehead 178
+초록 제비콩 Green Flageolet 137
+추뇨 Chuno 245
+치커리 Chicory 165
+카르둔 Cardoon 131
+칼라마타 올리브 Kalamata Olive 232
+칼솟 Calcot 193
+케이퍼 베리 Caper Berry 239
+코끼리 마늘 Elephant Garlic 189
+코니숑 Cornichon 240
+콘샐러드 Lamb’s Lettuce 160
+콜라비 Kohlrabi 186
+콩나물/숙주 Bean Sprout 180
+키오자 비트뿌리 Chioggia Beetroot 198
+템페 무르니 Tempeh Murni 255
+토란 Eddo 214
+토마티요 Tomatillo 144
+톳 Hijiki 251
+투델라 상추 Tudela Lettuce Heart 165
+파 Spring Onion 193
+파스닙 Parsnip 205
+파카야 Pacaya 132
+판텔레리아 케이퍼 Pantelleria Caper 239
+팜 하트(야자 순) Palm Heart 131
+팽이버섯 Enokitake 222
+페루비안 퍼플 감자 Peruvian Purple Potato 217
+표고버섯 Shiitake 231
+프타이 콩 Petai Bean 141
+플랜틴 바나나 Plantain 150
+플로르 데 이소테 Flor de Izote 132
+피렌체 회향 Florence Fennel 196
+피콴테 고추 Piquante Pepper 245
+핑크 피어 애플 감자 Pink Fir Apple Potato 217
+함부르크 파슬리 Hamburg Parsley 206
+핫쵸 미소 Hatcho Miso 256
+해스 아보카도 Hass Avocado 150
+햇볕에 말린 토마토 Sun-dried Tomato 243
+호박 Pumpkin 157
+홉 줄기 Hop Shoot 181
+화이트 알바 트러플 White Alba Truffle 218
+
+
+갈매기 알 Gull Egg 344
+거위 알 Goose Egg 345
+고르곤촐라 Gorgonzola 336
+그뤼에르 Gruyere 313
+그예토스트 Gjetost 308
+꿩 알 Pheasant Egg 345
+드라이 잭 Dry Jack 325
+라브네 Labneh 264
+라클레트 뒤 발레 Raclette du Valais 312
+랑그르 Langres 278
+레이세카스 Leidsekaas 331
+레이패유스토 Leipajuusto 340
+로카마두르 Rocamadour 286
+로크포르 Roquefort 333
+르블로숑 Reblochon 294
+리코타 로마나 Ricotta Romana 273
+림버거 Limburger 281
+마루아유 Maroilles 297
+마스카르포네 Mascarpone 272
+만체고 Manchego 330
+말코손바닥사슴 치즈 Moose Cheese 323
+메추라기 알 Quail Egg 344
+모짜렐라 디 부팔라 캄파나 Mozzarella di Bufala Campana 274
+묑스테르 Munster 294
+미몰레트 비에유 Mimolette Vieille 315
+바슈랭 Vacherin 278
+버포드 브라운 달걀 Burford Brown Egg 346
+볼로그다 버터 Vologda Butter 270
+불레트 다베느 Boulette d’Avesnes 320
+브로슈 Brocciu 273
+브리 드 모 Brie de Meaux 283
+브리야-사바랭 Brillat-Savarin 276
+블뢰 도베르뉴 Bleu d’Auvergne 333
+사쿠라 치즈 Sakura Cheese 277
+상호르케 Sao Jorge 319
+샤비슈 Chabichou 288
+샵치거 Schabziger 308
+세라 다 에스트렐라 Serra da Estrela 292
+셀-쉬르-셰르 Selles-sur-Cher 302
+숙성 가우다 Aged Gouda 315
+스메타나 Smetana 263
+스모키 블루 Smokey Blue 335
+스퀴르 Skyr 267
+스틸튼 Stilton 335
+스팅킹 비숍 Stinking Bishop 290
+아드라한 Ardrahan 299
+아르수아-우요아 Arzua-Ulloa 324
+아제이탕 Azeitao 295
+아펜젤러 Appenzeller 312
+아푸에갈 피투 Afuega’l Pitu 304
+야그 Yarg 306
+양젖 요구르트 Sheep’s Milk Yoghurt 264
+에르브 Herve 281
+에멘탈러 Emmentaler 313
+에쉬레 버터 Beurre d’Echire 268
+에푸아스 Epoisses 277
+염소젖 버터 Goat’s Butter 268
+오바츠다 Obatzda 272
+오스취펙 Oscypek 343
+오쏘-이라티 Ossau-Iraty 318
+올라무츠 트바루스키 Olomoucke Tvar??ky 300
+우브리아코 Ubriaco 324
+이디아자발 Idiazabal 318
+체다 Cheddar 316
+체셔 Cheshire 316
+추르피 Churpi 323
+카디 버터 Cadi Butter 270
+카라크 자미드 Karak Jameed 326
+카망베르 페르미에 Camembert Fermier 283
+카브랄레스 Cabrales 338
+카수 마르주 Casu Marzu 304
+캐셜 블루 Cashel Blue 336
+커티지 치즈 Cottage Cheese 263
+케어필리 Caerphilly 306
+코니쉬 클로티드 크림 Cornish Clotted Cream 261
+쿠아하다 Cuajada 267
+크렘 프레쉬 디지니(이지니 프레쉬 크림) Creme Fraiche d’Isigny 261
+크로우디 Crowdie 276
+크로탱 드 샤비뇰 Crottin de Chavignol 284
+크시노티로 Xynotyro 326
+타르투스 샨클리쉬 Tartous Shanklish 320
+탈레지오 Taleggio 297
+테트 드 무안 Tete de Moine 311
+토르타 델 카사르 Torta del Casar 292
+톰 드 사부아 Tomme de Savoie 299
+티롤러 그라우캐제 Tiroler Graukase 288
+틸지터 Tilsiter 298
+파레니카 Parenica 343
+파르미지아노 레지아노 Parmigiano Reggiano 328
+파쉬케이 시르 Pa?ki Sir 319
+페코리노 디 포사 Pecorino di Fossa 331
+페코리노 로마노 Pecorino Romano 330
+페타 Feta 298
+포스텔 Postel 295
+프로볼로네 발파다나 Provolone Valpadana 325
+플뢰르 뒤 마키 Fleur du Maquis 302
+피 딴(皮蛋, 삭힌 알) Pei Dan 346
+피오레 사르도 Fiore Sardo 328
+피코동 Picodon 286
+핀스크 뤼게오스트 Fynsk Rygeost 340
+하르처 Harzer 284
+할루미 Halloumi 311
+호흐 이브릭 Hoch Ybrig 300
+
+
+강꼬치고기 Pike 357
+개구리 Frog 467
+갯가재 Mantis Shrimp 429
+거위목 따개비 Goose-necked Barnacle 441
+검은 갈치 Black Scabbard Fish 378
+게 알 Crab Roe 425
+게레치 Mojarra 353
+구마모토 굴 Kumamoto Oyster 453
+구이덕 Geoduck 446
+귀족 도미 Gilthead Bream 376
+그라블락스 Gravlax 408
+꼬치고기 Barracuda 372
+날치 Flying Fish 374
+노란꼬리 각시가자미 Yellowtail Flounder 384
+노랑촉수 Red Mullet 381
+달고기 John Dory 385
+대구 Cod 389
+대문짝 넙치 Turbot 386
+대서양 가자미 Halibut 386
+대짜은행게 Dungeness Crab 438
+도버 서대기 Dover Sole 384
+돌맛조개 Date-mussel 448
+레몬 서대기 Lemon Sole 385
+롤몹 Rollmop 400
+루바르 Luvar 374
+마론 Marron 430
+마트예스 청어 Maatjes Herring 407
+말린 새우 Dried Shrimp 464
+말린 전복 Dried Abalone 464
+맨 섬 키퍼 Isle of Man Kipper 404
+멍게 Violet 462
+메를루사 Hake 396
+메인 랍스터 Maine Lobster 437
+모스키아메 델 톤노 Mosciame del Tonno 416
+몰레체 Moleche 439
+몽생미셸 홍합 Mont St. Michel Mussel 449
+몽크피쉬 Monkfish 389
+무늬바리 Coral Trout 370
+무지개 송어 Rainbow Trout 363
+문어 Octopus 458
+물천구 Bombay Duck 415
+바다 송어 Sea Trout 365
+바라문디 Barramundi 372
+바위게 Stone Crab 441
+발리크 훈제 연어 Balik Smoked Salmon 408
+벨루가 캐비어 Beluga Caviar 427
+병어 Silver Pomfret 370
+보타르가 디 무기네 Bottarga di Muggine 416
+복어 Fugu 400
+부시리 Hiramasa Kingfish 369
+부채새우붙이 Moreton Bay Bug 434
+북극 곤들매기 Arctic Char 360
+북쪽분홍새우 Arctic Prawn 429
+붉바리 Hong Kong Grouper 369
+빨간퉁돔 Red Snapper 381
+새끼 대합 조개 Littleneck Clam 445
+새끼 뱀장어 Elver 351
+성게 Sea Urchin 461
+세반 송어 Ishkan Trout 363
+소금에 절인 대구 Salt Cod 415
+수르스트뢰밍 Surstromming 407
+수정고둥 Conch 467
+스코앗 랍스터 Squat Lobster 434
+스텔렛 철갑상어 Sterlet 354
+스튜키 블루 새조개 Stewkey Blue Cockle 445
+스팟티드 소러빔 Spotted Sorubim 354
+스페시알 질라르도 Speciale Gillardeau 450
+시그널 가재 Pattes Rouges Crayfish 430
+시드니 바위 굴 Sydney Rock Oyster 450
+시샤모(열빙어) Shisamo 367
+아귀 간 Monkfish Liver 418
+아브로스 스모키 Arbroath Smokie 414
+아카시타코(왜문어) Akashi Tako 458
+아키텐 캐비어 Caviar d’Aquitaine 427
+어린 꼴뚜기 Baby Squid 456
+연어알 Salmon Roe 422
+오드레세유 랍스터 Audresselles Lobster 433
+오징어 먹물 Squid Ink 462
+오징어 Ika 456
+와사비 토비코 Wasabi Tobiko 425
+유럽 농어 Sea Bass 393
+은대구 Black Cod 398
+이크라 Icre 421
+잉어 Carp 359
+잔더 Zander 357
+장어(우나기, うなぎ) Unagi 351
+잿방어 Kanpachi 395
+전갱이 Seki Aji 404
+정어리 Sardine 365
+죽합 Razor Clam 448
+줄농어 Striped Bass 393
+참다랭이(참치) Bluefin Tuna 398
+청새치 Blue Marlin 395
+체장메기 Golden Kingklip 377
+초록입 홍합 Green-shelled Mussel 449
+치어 Whitebait 367
+칠레 농어 Chilean Sea Bass 390
+칠성장어 Lamprey 377
+카즈노코(청어알) Kazunoko 422
+칸타브리아 보케로네 Cantabrian Boquerone 402
+코끼리 귀 고기 Elephant Ear Fish 359
+코리브리컨 랑구스틴 Corryvreckan Langoustine 433
+코퍼 강 왕연어 Copper River King Salmon 360
+콜리우르 앤초비 Collioure Anchovy 402
+큰가리비 Diver King Scallop 455
+타라모살라타 Taramosalata 421
+타르투포 디 마레 Tartufo di Mare 443
+탈린 킬루드 Tallinn Kilud 413
+털게 Hairy Crab 439
+텔린 드 카마르그 Telline de Camargue 443
+토헤로아 Toheroa 446
+투루 Turu 465
+틸라피아 Tilapia 353
+파랑비늘돔 Parrotfish 376
+포티드 쉬림프 Potted Shrimp 418
+피투 Pitu 437
+해만 가리비 Bay Scallop 455
+해삼 Sea Cucumber 461
+해파리 Jellyfish 465
+홍어 Skate 382
+황새치 Swordfish 390
+황여우시에(黃油蟹) Yellow Oil Crab 438
+훈제 검정통삼치 Smoked Snoek 414
+훈제 고등어 Smoked Mackerel 410
+훈제 송어 Smoked Trout 409
+훈제 장어 Smoked Eel 410
+훈제 힐사 Smoked Hilsa 409
+히로시마 굴 Hiroshima Oyster 453
+
+
+고베규 Kobe Beef 510
+골수 Bone Marrow 525
+구안치알레 Guanciale 568
+글루체스터 올드 스팟 돼지고기 Gloucester Old Spot Pork 501
+꺅도요 Snipe 489
+꿀벌 애벌레 Bee Larva 517
+꿩 Pheasant 482
+노루 Roe Deer 494
+도요타조 Tinamou 491
+돼지 족발 Pig’s Trotter 525
+라르도 디 콜로나타 Lardo di Colonnata 585
+라마 육포 Llama Charqui 594
+로모 이베리코 데 베요타 Lomo Iberico de Bellota 577
+루카니카 Loukanika 561
+룬자 Lountza 584
+뤼겐발더 테부르스트 Rugenwalder Teewurst 551
+리무쟁 송아지 Limousin Veal 507
+리예트 Rillette 533
+링귀사 Linguica 542
+말고기 Horsemeat 513
+말코손바닥사슴 Moose 494
+메르게즈 Merguez 553
+메추라기 Quail 478
+멧도요 Woodcock 489
+모르칠라 데 부르고스 Morcilla de Burgos 564
+모르칠라 둘체 Morcilla Dulce 564
+모체타 Mocetta 590
+미시시피 악어 Mississippi Alligator 514
+미티테이 Mititei 553
+바이스부르스트 Weisswurst 560
+방울뱀고기 Rattlesnake 514
+버번 레드 칠면조 Bourbon Red Turkey 476
+베스트팔렌 햄 Westphalian Ham 585
+베이징 황실 오리 Imperial Peking Duck 475
+베존카 크로토신스카 W?dzonka Krotoszy?ska 584
+보티파라 돌사 Botifarra Dolca 563
+볼라이유 드 브레스 Volaille de Bresse 472
+붉은 뇌조 Red Grouse 472
+뷘트너플라이쉬 Bundnerfleisch 589
+브래드넘 햄 Bradenham Ham 572
+브레사올라 델로솔라 Bresaola dell’Ossola 589
+빌사우 양 Villsau Mutton 506
+살라미 디 친기알레 Salami di Cinghiale 548
+살치촌 데 비크 Salchichon de Vic 538
+새끼 비둘기 Squab 478
+새끼양 콩팥 Lamb’s Kidney 520
+새끼양의 뇌 Lamb’s Brain 521
+샬랑 오리 Challans Duck 475
+세라노 햄 Serrano Ham 578
+소 양 Tripe 526
+소시송 다를 Saucisson 544
+소프레사 델 파수비오 Soppressa del Pasubio 547
+소프레사타 디 칼라브리아 Soppressata di Calabria 547
+송아지 간 Calf’s Liver 524
+송아지 스위트브레드 Veal Sweetbread 520
+쇠오리 Teal 485
+수오바스 Suovas 594
+순록 Reindeer 497
+슈바르츠발트 햄 Schwarzwalder Schinken 572
+스미스필드 햄 Smithfield Ham 570
+스팔라 코타 디 산 세콘도 Spalla Cotta di San Secondo 582
+스프링복 Springbok 497
+아르덴 햄 Jambon d’Ardenne 582
+아메리카들소 Bison 510
+아키타 히나이 토종닭 Akita Hinai-jidori Chicken 470
+알락오리 Gadwall 485
+알례이라스 데 미란델라 Alheiras de Mirandela 555
+앙두이 드 비르 Andouille de Vire 556
+애버딘-앵거스 비프 Aberdeen-Angus Beef 509
+양 머리 Sheep’s Head 526
+얼룩말 육포 Zebra Biltong 592
+에스카르고 드 부르고뉴 Escargot de Bourgogne 517
+염소 Goat 504
+윈난 햄 Yunnan Ham 570
+은두자 Nduja 534
+자고새 Partridge 482
+잠포네 디 모데나 Zampone di Modena 556
+장크트갈렌 브라트부르스트 St. Gallen Bratwurst 558
+절엽 개미 Leaf-cutter Ant 519
+젖먹이 돼지 Sucking Pig 501
+제쉬 드 모르토 Jesus de Morteau 555
+중국 소시지 Chinese Sausage 540
+참나무 장작불에 훈제한 등살 베이컨 Oak Smoked Back Bacon 567
+초리조 리오하노 Chorizo Riojano 536
+초리조 이베리코 데 베요타 Chorizo Iberico de Bellota 536
+카바노스 Kabanos 542
+카산카 Kaszanka 563
+칼라야 Qalaya 531
+캥거루고기 Kangaroo 514
+컴벌랜드 소시지 Cumberland Sausage 561
+켈리 브론즈ⓡ 칠면조 Kelly Bronze® Turkey 476
+코파 피아첸티나 Coppa Piacentina 575
+콩피 Confit 531
+쿨라텔로 디 지벨로 Culatello di Zibello 575
+타조 Ostrich 498
+태국 물장군 Giant Water Beetle 519
+토스카나 멧돼지 Tuscan Wild Boar 498
+툴루즈 거위 Toulouse Goose 481
+튀링거 레버부르스트 Thuringer Leberwurst 551
+튀링거 로스트브라트부르스트 Thuringer Rostbratwurst 558
+티롤러 슈펙 Tiroler Speck 586
+파스티르마 Pastirma 590
+파카 Paca 491
+파테 드 캉파뉴 Pate de Campagne 533
+판체타 Pancetta 578
+팻테일 새끼양 Fat-tailed Sheep 504
+펠리노 살라미 Felino Salami 538
+푸아 그라 드 카나르 Foie Gras de Canard 529
+프로슈토 디 산 다니엘레 Prosciutto di San Daniele 580
+피가텔루 Figatellu 560
+피노키오나 살라미 Finocchiona Salami 548
+피레네 샤무아 Isard 506
+피밀 베이컨 Peameal Bacon 567
+피에몬테 송아지 Piedmont Veal 507
+하몽 이베리코 데 베요타 Jamon Iberico de Bellota 577
+항기키외트 Hangikjot 568
+헝가리 거위 간 Hungarian Goose Liver 529
+호로호로새(기니 뿔닭) Guinea Fowl 470
+황소 볼살 Ox Cheek 524
+황소 불알 Bull’s Testicle 521
+회색기러기 Greylag Goose 481
+훈제한 황소 혓바닥 고기 Smoked Ox Tongue 592
+
+
+XO 소스 XO Sauce 737
+가람 마살라 Garam Masala 679
+가리(がり, 초생강) Gari 714
+가츠오부시(かつおぶし) Katsuobushi 717
+강황 Turmeric Root 635
+거위 지방 Goose Fat 696
+계피 Cinnamon 660
+고량강 Galangal 635
+고추냉이(와사비) Wasabi 632
+골파 Chive 608
+과테말라 카르다몸 Guatemalan Cardamom 660
+굴 소스 Oyster Sauce 737
+그래인 오브 파라다이스 Grains of Paradise 670
+그리스 수도원 올리브 오일 Greek Monastery Olive Oil 688
+그리스 오레가노 Greek Oregano 624
+길로이 마늘 Gilroy Garlic 636
+김치 Kimchi 711
+나폴리 파슬리 Neapolitan Parsley 615
+네피텔라 Nepitella 606
+누오크 맘 Nuoc Mam 741
+뉴멕시코 칠리 New Mexico Chilli 641
+달마시아 세이지 Dalmatian Sage 627
+대마유 Hemp Oil 690
+더우반장(두반장) Doubanjiang 718
+디종 머스터드 Moutarde de Dijon 707
+딜 Dill 600
+라벤더 Lavender 639
+라스베리 식초 Raspberry Vinegar 703
+라스-엘-하누트 Ras-el-Hanout 680
+라우 람 Rau Ram 616
+러비지 Lovage 615
+레드 와인 식초 Varietal Red Wine Vinegar 698
+레드 팜 오일 Red Palm Oil 696
+레몬 머틀 Lemon Myrtle 627
+레몬 절임 Preserved Lemon 714
+레몬 타임 Lemon Thyme 604
+레몬그라스 Lemongrass 623
+로즈메리 Rosemary 600
+루타 Rue 620
+리구리안 바질 Ligurian Basil 607
+마요네즈 Mayonnaise 772
+말라브 Mahlab 668
+망고 처트니 Mango Chutney 712
+매자 Barberry 644
+맬든 소금 Maldon Salt 675
+머스터드 오일 Mustard Oil 693
+모 머스터드 Moutarde de Meaux 707
+모로컨 민트 Moroccan Mint 602
+모스타르다 디 프루타 Mostarda di Frutta 708
+모치고메 식초(もち米酢) Mochi Gome Su 704
+몰레 Mole 726
+무하마라 Muhammara 733
+바나나 케첩 Banana Ketchup 725
+바닐라 꼬투리 Vanilla Pod 667
+바바 가누쉬 Baba Ghanoush 733
+바이에른 스위트 머스터드 Bavarian Sweet Mustard 708
+버주스 Verjuice 703
+베르베르 Berbere 680
+보리지(서양지치) Bor 639
+볼도 잎 Boldo Leaf 618
+볼리비아 레인보우 칠리 Bolivian Rainbow Chilli 641
+부쉬 토마토 Bush Tomato 645
+붐부 카창 Bumbu Kacang 734
+블랙 라임 Black Lime 645
+블랙 커민 Black Cumin 669
+블레이드 메이스 Blade Mace 670
+사프란 Saffron 663
+산초나무 어린잎(키노메, 木の芽) Kinome 610
+살람 잎 Salam Leaf 620
+새둥지 Bird’s Nest 630
+생강 Spring Ginger 634
+샨시 숙성 식초 Shanxi Extra Aged Vinegar 704
+서양고추냉이 Horseradish 632
+세이보리 Savory 621
+셰리 식초 Sherry Vinegar 699
+쉬토 Sheto 739
+스미르나 월계수 잎 Smyrna Bay Leaf 618
+스위트 마조람 Sweet Marjoram 624
+스타 아니스 Star Anise 667
+스페인 에스테이트 올리브 오일 Spanish Estate Olive Oil 686
+시로쇼유(白 しょうゆ) Shiro Shoyu 740
+시오카라 Shiokara 717
+시치미 토우가라시(七味唐辛子) Shichimi Togarashi 682
+싱글 에스테이트 포도씨유 Single Estate Grapeseed Oil 694
+쓰촨 후추 Sichuan Peppercorn 653
+아나르다나 Anardana 662
+아르간 오일 Argan Oil 690
+아보카도 오일 Avocado Oil 693
+아사푀티다 Asafoetida 669
+아세토 발사미코 트라디치오날레 Aceto Balsamico Tradizionale 699
+아요완 Ajowan 655
+아이바르 Ajvar 732
+아이올리 Aioli 722
+알레포 고추 Aleppo Pepper 656
+암추르 Amchur 644
+애플 사이다 식초 Cider Vinegar 700
+양하(襄荷), (日: 묘가, 茗荷) Myoga 634
+에르브 드 프로방스(프로방스 허브) Herbes de Provence 628
+에파소테 Epazote 621
+오향분(五香粉) Chinese Five Spice 679
+올스파이스 Allspice 659
+옻 Sumac 655
+우메보시(梅干) Umeboshi 721
+우스터 소스 Worcestershire Sauce 745
+월넛 오일 Walnut Oil 684
+유채씨유 Rapeseed Oil 695
+이스트 추출물 스프레드 Yeast Extract 734
+이탈리아 엑스트라 버진 올리브 오일 Italian Extra Virgin Olive Oil 686
+잇꽃나무 씨 Annatto Seed 668
+정향 Clove 672
+제노바 페스토 Genoese Pesto 731
+주니퍼 Juniper 662
+차조기 잎 Shiso Leaf 612
+참기름 Sesame Oil 695
+처빌 Chervil 598
+치미추리 Chimichurri 742
+치비크와 Cwikla 711
+치포슬 칠리 Chipotle Chilli 642
+카사리프 Cassareep 721
+카피르 라임 잎 Kaffir Lime Leaf 612
+칼라 나마크 Kala Namak 676
+캐러웨이 Caraway 656
+커리 가루 Curry Powder 678
+커리 잎 Curry Leaf 616
+케찹 Kecap 741
+코리앤더 씨 Coriander Seed 659
+코리앤더 잎(고수, 향채) Coriander Leaf 598
+코린트 식초 Corinthian Vinegar 698
+코코넛 밀크 Coconut Milk 718
+쿨란트로 Culantro 607
+큐베브 후추 Cubeb Pepper 672
+타라곤 식초 Tarragon Vinegar 700
+타르타르 소스 Tartare Sauce 725
+타마리 쇼유(たまりしょうゆ) Tamari Shoyu 740
+타바스코 소스 Tabasco Sauce 745
+타프나드 Tapenade 732
+타히니 Tahini 729
+테라시 Terasi 739
+텔리체리 페퍼콘 Tellicherry Peppercorn 651
+파드득나물(미츠바, 三葉) Mitsuba 610
+파테 디 카르치오피 Pate di Carciofi 731
+판단 잎 Pandan Leaf 623
+판치 호론 Panch Phoron 678
+프레쉬 그린 페퍼콘 Fresh Green Peppercorn 651
+프렌치 타라곤 French Tarragon 604
+플뢰르 드 셀 드 게랑드 Fleur de Sel de Guerande 675
+피멘톤 데 라 베라 Pimenton de La Vera 648
+피칼릴리 Piccalilli 712
+필레 File 628
+핑크 페퍼콘 Pink Peppercorn 653
+하바네로 칠리 Habanero Chilli 642
+하이시안장 Hoisin Sauce 736
+헝가리 파프리카 Hungarian Paprika 648
+헤이즐넛 오일 Hazelnut Oil 684
+호로파 Fenugreek 606
+호박씨유 Pumpkin Seed Oil 694
+홀리 바질 Holy Basil 602
+황장 Yellow Bean Sauce 736
+회향 꽃가루 Fennel Pollen 647
+회향 씨 Fennel Seed 647
+후무스 Hummus 729
+훈제 천일염 Smoked Sea Salt 676
+
+
+가르반소스 페드로시야노 Garbanzos Pedrosillano 769
+그르노블 호두 Grenoble Walnut 760
+기름골 Tiger Nut 770
+당면 Fen Si Noodle 787
+듀럼 밀 스파게티 Durum Wheat Spaghetti 784
+라크사 누들 Laksa Noodle 787
+마르코나 아몬드 Marcona Almond 756
+마카다미아 Macadamia Nut 753
+메밀 Buckwheat Groat 776
+바스마티 라이스 Basmati Rice 772
+바오밥나무 씨 Baobab Seed 755
+밤 Chestnut 760
+보리쌀 Pearl Barley 779
+브라질넛 Brazil Nut 762
+사누키 우동 Sanuki Udon Noodle 786
+야생 그린 헤이즐넛 Wild Green Hazelnut 759
+연밥 Lotus Seed 750
+와일드라이스 Wild Rice 774
+와틀 씨 Wattleseed 750
+우르드 Urd 767
+은행 Ginkgo Nut 755
+이란 피스타치오 Iranian Pistachio 759
+잣 Pine Nut 753
+재스민 라이스 Jasmine Rice 772
+카르나롤리 라이스 Carnaroli Rice 773
+칼라스파라 봄바 라이스 Calasparra Bomba Rice 773
+캐슈넛 Cashew Nut 756
+코코 드 메르 Coco de Mer 764
+쿠스쿠스 Couscous 780
+키소바(きそば) Kisoba Noodle 786
+킹 코코넛 King Coconut 764
+타야린 Tajarin 782
+토르텔리 디 주카 Tortelli di Zucca 784
+톨로사 콩 Tolosa Bean 768
+파솔리아 기간데스 Fasolia Gigandes 769
+팥 Azuki Bean 768
+폴렌타 Polenta 780
+퓌 렌즈콩 Puy Lentil 767
+프레골라 파스타 Fregola Pasta 782
+프리카 Freekeh 779
+피칸 Pecan 762
+해바라기 씨 Sunflower Seed 749
+호박씨 Pumpkin Seed 749
+흑미 Purple Rice 774
+
+
+가지안테프 바클라바 Gaziantep Baklava 876
+과일 케이크 Fruit Cake 860
+난 Nan 798
+뉘른베르거 엘리젠렙쿠헨 Nurnberger Elisenlebkuchen 837
+데니쉬 패스트리 Danish Pastry 873
+데블스 푸드 케이크 Devil’s Food Cake 855
+도보스 토르테 Dobos Torte 855
+로겐폴콘브로트 Roggenvollkornbrot 811
+루세카터 Lussekatter 827
+룩브라우트 Rugbraud 812
+리에주 와플 Liege Waffle 844
+린처 토르테 Linzer Torte 866
+림파 빵 Limpa Bread 808
+마데이라 케이크 Madeira Cake 860
+마들렌 드 코메르시 Madeleine de ommercy 844
+맛초 Matzo 834
+메이드 오브 아너 Maid of Honour 853
+멜튼 모우브레이 포크 파이 Melton Mowbray Pork Pie 793
+모찌(もち) Mochi 880
+몰트 로프 Malt Loaf 824
+민스 파이 Mince Pie 874
+밀푀유 Millefeuille 875
+바르바리 Barbari 798
+바미 Bammy 816
+바바 Baba 851
+바움쿠헨 Baumkuchen 859
+바즐러 레커를리 Basler Leckerli 837
+바트루스키 Vatrushka 878
+배라 브리스 Bara Brith 826
+배스 올리버 Bath Oliver 833
+벌꿀 케이크 Honey Cake 851
+베를리너 도넛 Berliner Doughnut 848
+베이글 Bagel 818
+벨기에 프렌지페인 패스트리 Belgian Frangipane Pastry 871
+부터촙프 Butterzopf 805
+브라우니 Brownie 847
+브랜디 스냅 Brandy Snap 839
+브리오슈 Brioche 823
+블리니 Blini 830
+비른브로트 Birnbrot 827
+비알리 Bialy 818
+사모사 Samosa 791
+샌프란시스코 사워도우 San Francisco Sourdough 800
+소다 브레드 Soda Bread 803
+쇼트브레드 Shortbread 842
+슈바르츠밸더 키르쉬토르테 Schwarzwalder Kirschtorte 859
+슈톨른 Stollen 828
+스르투폴리 디 나폴리 Struffoli di Napoli 880
+스브리솔로나 Sbrisolona 878
+스코츠 팬케이크 Scots Pancake 830
+스콘 Scone 847
+아레파 데 초클로 Arepa de Choclo 831
+아마레토 디 사로노 Amaretto di Saronno 839
+아펜젤러 비버 Appenzeller Biber 840
+아펠슈투르델 Apple Strudel 871
+에클레르 Eclair 873
+엠파나다 Empanada 791
+오트케이크 Oatcake 833
+유에삥(月餠, 월병) Mooncake 848
+인제라 Injera 794
+잉글리쉬 머핀 English Muffin 819
+자허-토르테 Sacher-Torte 856
+제르베 마카롱 Gerbet Macaroon 875
+쥘라취 Gullac 876
+찰라 Challah 805
+초콜릿 칩 쿠키 Chocolate Chip Cookie 842
+치아바타 Ciabatta 806
+치즈케이크 Cheesecake 861
+카브링 Kavring 815
+코니쉬 패이스티 Cornish Pasty 790
+쿠겔홉프 Kugelhopf 824
+쿨레비아카 Kulebiaka 793
+크내케브뢰트 Knackebrod 834
+크럼펫 Crumpet 819
+크루아상 Croissant 820
+타르토프레즈 Tarte aux Fraises 869
+타르트 타탱 Tarte Tatin 853
+토르타 디 카스타녜 Torta di Castagne 864
+토르타 카프레제 디 만도를레 Torta Caprese di Mandorle 864
+토티야 Tortilla 794
+트리클 타르트 Treacle Tart 869
+파네 디 알타무라 Pane di Altamura 803
+파네 시칠리아노 Pane Siciliano 815
+파네 카라사우 Pane Carasau 796
+파네토네 Panettone 828
+파슈카 Pashka 862
+파스테이스 데 나타 Pasteis de Nata 874
+파시아이슬레피아 Paasiaisleipa 826
+판 데 코코 Pan de Coco 823
+패블로바 Pavlova 862
+팽 오 르뱅 나튀렐 Pain au Levain Naturel 800
+포카치아 Focaccia 806
+포테이토 애플 케이크 Potato Apple Cake 861
+품퍼니켈 Pumpernickel 811
+플로렌틴 Florentine 840
+하도우 Hardough 808
+호퍼 Hopper 831
+
+
+가나슈 초콜릿 Ganache Chocolate 917
+감귤 껍질 설탕절임 Candied Citrus Peel 884
+그라니타 시칠리아나 Granita Siciliana 937
+그린 월넛 글리코 Green Walnut Gliko 919
+너도밤나무 허니듀 Beech Honeydew 931
+녹차 아이스크림 Green Tea Ice Cream 939
+댐슨자두 잼 Damson Jam 927
+돈캐스터 버터스카치 Doncaster Butterscotch 890
+둘쎄 데 레체 Dulce de Leche 918
+디비스 Dibis 934
+라스굴라 Rasgulla 897
+라파두라 Rapadura 937
+레몬 소르베 Lemon Sorbet 938
+레몬 커드 Lemon Curd 922
+레크바르 Lekvar 922
+로완 젤리 Rowan Jelly 926
+로지나 Lowzina 892
+뤼베커 마치판 Lubecker Marzipan 915
+리코리스 드롭 Liquorice Drop 888
+마누카 꿀 Manuka Honey 933
+마롱 글라세 Marron Glace 885
+마시멜로 Marshmallow 899
+메이플 시럽 Maple Syrup 931
+메이플 캔디 Maple Candy 888
+멤브리요 Membrillo 921
+몽텔리마르 누가 Montelimar Nougat 902
+무스코바도 설탕 Muscovado Sugar 936
+무화과 잼 Fig Jam 926
+밀크 초콜릿 Milk Chocolate 911
+배 드롭 Pear Drop 894
+버터민트 Buttermint 890
+블랙 버터 Black Butter 919
+블랙스트랩 당밀 Blackstrap Molasses 934
+비쉬 민트 Vichy Mint 891
+사워 체리 잼 Sour Cherry Jam 927
+살렙 아이스크림 Salep Ice Cream 940
+생강 설탕절임 Crystallized Ginger 884
+세비야 오렌지 마멀레이드 Seville Orange Marmalade 924
+소금 캐러멜 Salt Caramel 909
+소프트 캐러멜 Soft Caramel 909
+솜사탕 Candyfloss 899
+시드르 꿀 Sidr Honey 933
+싱글 에스테이트 초콜릿 Single Estate Chocolate 911
+아그라즈 Agraz 938
+아마르디네 Amardine 921
+아메이사스 델바스 Ameixas d’Elvas 885
+야생 비치 플럼 프리저브 Wild Beach Plum Preserve 928
+자두 슬라트코 Plum Slatko 928
+재거리 Jaggery 936
+젤라토 Gelato 939
+젤리 빈 Jelly Bean 894
+지안두야 Gianduja 917
+초콜릿 속에 들어가는 말린 과일 Dried Fruit in Chocolate 913
+초콜릿 스프레드 Chocolate Spread 918
+치클 껌 Chicle Gum 891
+카쉬타 Kashta 940
+카주 카틀리 Kaju Katli 905
+코니쉬 퍼지 Cornish Fudge 908
+코코아 열매 Cocoa Bean 913
+쿰 소한 Qum Sohan 901
+크레올 프랄린 Creole Praline 916
+터키쉬 딜라이트 Turkish Delight 901
+투론 데 히호나 Turron de Jijona 902
+트러플 Truffle 915
+티타우라 Titaura 886
+페퍼민트 록 Peppermint Rock 892
+폰던트 Fondant 897
+프랄린 Praline 916
+피스타 부르피 Pista Burfi 906
+합쉬 할와 Habshi Halwa 905
+허니콤 토피 Honeycomb Toffee 908
+헤더 꿀 Heather Honey 932
+휘메토스 꿀 Hymettus Honey 932

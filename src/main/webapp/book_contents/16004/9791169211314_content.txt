@@ -1,0 +1,83 @@
+1장 피해의 현장
+우크라이나 전쟁의 비극_Hybrid Warfare
+사이버 공격, 루비콘 강을 건너다_Cyber-Physical
+잉글랜드는 왜 해적 국가였는가?_State-Sponsored Attack
+역사상 최대의 절도_Cyber Crime
+8000만 달러를 훔친 도둑_Scenario
+민주주의 시스템을 뒤흔들다_Hybrid Attack
+양보할 수 없는 원칙_Principle
+
+2장 리더의 미션
+위기에 대처하는 리더십_Leadership
+사이버 보안은 경영이다_Management
+전문가와 전문경영인_Subject Matter Expert
+기술 리더십_Technology Leadership
+기술 인력 전쟁_Role Model
+왜 국가 안보의 문제인가?_National Security
+‘포드 V 페라리’에서 배우는 교훈_Accountability
+
+3장 위협의 근원
+취약점_Vulnerability, Exploit, Zero-day
+소프트웨어로 돌아가는 세상_Software
+디지털 혁명의 시작, 반도체_Exponential Growth
+컴퓨터가 연결되어 돌아가는 세상_Network
+성문을 활짝 열다_Internet
+MP3에서 비트코인까지_Digital
+프라이버시의 탄생_New Technology
+
+4장 보안의 퍼스펙티브
+모르는 것을 지킬 수는 없다_Governance
+상상력의 실패_Risk
+가장 어려운 시험 문제는?_Risk Management Framework
+보안 등급의 세 가지 기준_CIA
+사이버 보안을 바라보는 눈_Business Impact
+신동엽 가족이 받은 축복_Security Control
+유럽의 고성에서 배우는 교훈_Threat Model
+보안의 퍼스펙티브_Perspective
+
+5장 빌드업
+안전한 빌드업은 기본이다_Deterrence vs. Buildup
+기초가 허무하게 무너질 때_Foundation
+음식에 독이 들어간다면?_Software Supply Chain
+호텔 금고와 목욕탕 사물함_Identity Access Management
+적벽대전 승패의 갈림길_Third Party
+어느 약사의 프로다운 행동_Assurance
+치명상을 피하라_Cyber Resilience
+
+6장 한국이 부족한 것은
+사고당한 경험도 실력이다_Root Cause Analysis
+소프트웨어 인력과 생태계_Software Ecosystem
+정부와 민간의 협력_Secrecy vs. Sharing
+정치인의 큰 목소리_Priority
+현장에 답이 있다_Security Practice
+결국 사람의 문제다_Skill Set
+왜 IT 분야에는 여성이 적을까?_Diversity
+정보보호 산업을 위한 고언_Cybersecurity Industry
+
+7장 융합의 마인드
+눈에 보인다고 내 것인가?_Physical vs. Cyber
+공급자에서 소비자의 시대로_Business Model
+보안은 혁신의 걸림돌인가?_Seamless vs. Frictionless
+매화축제와 BTS의 공통점_Platform
+무대 위에 오른 프라이버시_Surveillance vs. Privacy
+축구 전술의 변화_Offense vs. Defense
+봉준호 감독의 균형감_Liberal Arts & Technology
+카카오택시가 편리한 이유_O2O
+
+8장 보안의 특성
+사이버 공격의 행동 대원, 악성코드_Malware
+팬데믹으로 드러난 민낯_Weakest Link
+사이버 공격은 은밀하게 진행된다_Insidious
+불편함의 생활화_Legacy
+피해자의 눈물_Victim
+다이어트는 습관을 바꿔주는 것_Sustainability
+만병통치약은 없다_Cyber Hygiene
+
+9장 미래를 위한 고민
+생태계를 지켜라_Systemic Cyber Risk
+죽음을 앞둔 어느 정치가의 고민_Paradigm Change
+부메랑으로 돌아온 사이버 무기_Cyber Weapon
+보이지 않는 위협_Safety vs. Security
+ChatGPT의 등장_Game Changer
+규제와 혁신_Law & Regulation
+AI, 데이터 그리고 사이버 보안_Core vs. Context

@@ -1,0 +1,30 @@
+ABOUT amuhibi 아무히비에 대하여 … 2
+
+KNIT_01 크로스CROSS … 6
+KNIT_02 다이아몬드 요크DIAMOND YOKE … 8
+KNIT_03 엠비 스웨터EMBI SWEATER … 10
+KNIT_04 아란 & 허니콤 브리오슈ARAN & HONEYCOMB BRIOCHE … 12
+KNIT_05 그랜파 재킷GRANDPA’S JACKET … 14
+KNIT_06 레드 카디건RED CARDIGAN … 18
+KNIT_07 후디드 롱 카디건HOODED LONG CARDIGAN … 20
+KNIT_08 다이아몬드 베스트DIAMOND VEST … 22
+KNIT_09 케이블 & 카노코CABLE & KANOKO … 24
+KNIT_10 오픈 사이드 베스트OPEN SIDE VEST … 26
+KNIT_11 티렉스 스웨터T-REX SWEATER … 28
+KNIT_12 핸드웜 풀오버HANDWARM PULLOVER … 30
+KNIT_13 아란 양말ARAN SOCKS … 32
+KNIT_14 아란 비니ARAN CAP … 34
+KNIT_15 로피 보닛LOPI’S BONNET … 36
+KNIT_16 체크무늬 모헤어 삭스CHECKED MOHAIR SOCKS … 37
+KNIT_17 포레스트 & 피스 삭스FOREST & PEACE … 38
+
+amuhibi NOTE_01 바늘과 실에 대하여 … 16
+amuhibi NOTE_02 삭스얀에 대한 여러 가지 … 33
+amuhibi NOTE_03 자투리 실 활용법 / 마무리와 관리 … 48
+amuhibi Q&A 궁금증 해결 … 53
+
+POINT PROCESS 포인트 프로세스 … 40
+ABOUT YARN 이 책에서 사용한 실 … 46
+ABOUT CHECK SHEET 체크 시트에 대하여 … 50
+HOW TO KNIT 작품을 뜨는 방법 … 57
+BASIC TECHNIQUE GUIDE 뜨개의 기초 … 98

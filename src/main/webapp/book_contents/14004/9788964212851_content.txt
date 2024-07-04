@@ -1,0 +1,12 @@
+CHAPTER 1 화학공학 기술자들이 진출하는 분야
+CHAPTER 2 공학 계산 입문
+CHAPTER 3 공정과 공정변수
+CHAPTER 4 물질수지 기초
+CHAPTER 5 단일상계
+CHAPTER 6 다상계
+CHAPTER 7 에너지 및 에너지수지
+CHAPTER 8 비반응공정의 수지
+CHAPTER 9 반응공정의 수지
+CHAPTER 10 과도상태 공정의 수지
+부록 A 계산 기법
+부록 B 물성표

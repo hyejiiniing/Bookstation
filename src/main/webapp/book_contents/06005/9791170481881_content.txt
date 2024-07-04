@@ -1,0 +1,96 @@
+2000. 머리말
+2001. 극단화를 통한 풀이
+2002. 직관(直觀: Intuition) Vs. 통찰(洞察: Insight)
+2100. 기본 개념
+2101. EV(기댓값, Expected Value)
+2102. 드로잉 핸즈(Drawing Hands)
+2103. 에퀴티(Equity)
+2104. 아웃(Out)
+2105. 테이블의 환경
+2106. 레인지(Range: 범위)
+2107. 리크(Leak: 결함)
+2108. 베리언스(Variance: 변화량)
+2109. 3-Bet(쓰리벳) 그리고 4-Bet(포벳)
+2110. 포지션(Position: 액션 순서)
+2111. 국제 통용 포지션 용어
+2112. 『홀덤의 정석』 포지션 용어
+2200. 실전에 들어가기에 앞서
+2210. 뱅크롤 관리(Bankroll Management)
+2211. 테이블 선택
+2220. 포커와 인공지능(人工知能: Artificial Intelligence)
+2221. 허드(HUD: Heads Up Display)
+2222. GTO(Game Theory Optimal) Vs. Exploit
+2230. 오프라인 홀덤
+2231. 텔(Tell: 몸짓)
+2232. 카드 프로텍터(Protector)
+2300. 확률과 팟오즈
+2310. 드로우 유형
+2311. FD(Flush Draw)
+2312. UD(Up & Down Straight Draw)
+2313. GS(Gut Shot Straight Draw)
+2314. 2GS(Double Gut Shot)
+2315. 2V(2 Over)
+2316. 1V(1 Over)
+2317. 1P(Middle Paired)
+2320. 몬스터 드로우
+2321. ‘UD + FD’ 그리고 ‘FD + 2GS’
+2322. FD + GS
+2323. FD+1V 또는 2V
+2324. GS+FD+2V
+2325. 1P+FD
+2326. 1P+UD
+2327. UD+FD+2V
+2330. 팟오즈(Pot Odds)
+2331. 팟오즈를 쓰기 어려운 상황
+2332. 팟오즈 계산이 필히 요구되는 상황
+2340. Effective Stack Size & Implied Odds
+2350. SPR(Stack to Pot Ratio)
+2400. 베팅의 목적
+2410. 벨류벳(Value Bet)
+2420. 블러프(Bluff: 공갈)
+2430. 어그레션(Aggression)
+2431. 포기하게 만드는 것
+2440. 오버벳(Over Bet)
+2500. 스타팅 핸드와 레인지
+2510. 프리플랍 차트(Preflop Chart)
+2520. 도미네이션(Domination: 압도)
+2521. Pocket Pair(포켓페어) Vs. 2V(투오버)
+2522. Pocket Pair(포켓페어) Vs. Low Pocket(로우포켓페어)
+2523. Pocket Pair(포켓페어) Vs. 2U(투언더)
+2524. Pocket Pair(포켓페어) Vs. 1V(원오버)
+2525. 2V(투오버) Vs. 2U(투언더)
+2526. 프리플랍 최강의 도미네이션
+2600. 틸트(Tilt)
+2610. 틸트의 구분
+2611. 정의(正義)의 정의(定義)
+2612. 운(Luck)
+2613. 라이벌(Rival)
+2620. 틸트의 극복
+2621. 정의감에 빠진 틸트
+2622. 불운의 틸트(또는 위닝 틸트)
+2623. 불필요한 라이벌 의식
+2700. 플레이어의 유형
+2710. Tight Aggressive
+2711. 솔리드(Solid)
+2712. 샤크(Shark)
+2713. 독수리(Eagle)
+2714. 황소(Bully)
+2720. Tight Passive
+2721. 바위(Rock)
+2730. Loose Aggressive
+2731. 멧돼지(Boar)
+2732. 매니악(Maniac)
+2733. 싸이코(Psycho)
+2734. 도적(Rogue)
+2740. Loose Passive
+2741. 피쉬(Fish)
+2742. 덩키(Donkey) 또는 서커(Sucker)
+2800. 기타 요소
+2810. 레이크(Rake)
+2820. 스트레들(Straddle)
+2821. 버튼 스트레들
+2822. 미시시피 스트레들(Mississippi Straddle)
+2830. Run it Twice(두 번 돌리기)
+2840. 딜러 및 Waitress 팁(Tip or Toke)
+2900. 텍사스 홀덤에 대한 연구, 접근, 훈련
+2999. 『홀덤의 정석』 〈초급편〉을 마무리하며

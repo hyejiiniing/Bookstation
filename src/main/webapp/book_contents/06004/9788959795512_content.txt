@@ -1,0 +1,182 @@
+012 강아지 관련 용어 해설
+018 견종 그룹 Groups Comment
+020 개의 피모와 컬러
+024 개의 몸과 귀
+025 이 책을 보는 방법 Explanatory notes
+
+028 닥스훈트 Dachshund
+034 치와와 Chihuahua
+038 푸들 Poodle
+042 요크셔테리어 Yorkshire Terrier
+046 빠삐용 Papillon
+050 웰시 코기 팸브룩 Welsh Corgi Pembroke
+054 시추 Shih Tzu
+058 포메라니안 Pomeranian
+062 래브라도 리트리버 Labrador Retriever
+066 미니어처 슈나우저 Miniature Schnauzer
+070 시바견 Shiba
+072 말티즈 Maltese
+074 카발리어 킹 찰스 스패니얼Cavalier King Charles Spaniel
+076 비글 Beagle
+078 골든 리트리버 Golden Retriever
+080 퍼그 Pug
+082 프렌치 불독 French Bulldog
+084 미니어처 핀셔 Miniature Pinscher
+086 아메리칸 코커스패니얼 American Cocker Spaniel
+088 셰틀랜드 십독 Shetland Sheepdog
+090 잭 러셀 테리어 Jack Russell Terrier
+092 보더 콜리 Border Collie
+094 보스턴 테리어 Boston Terrier
+096 웨스트 하일랜드 화이트 테리어 West Highland White Terrier
+098 페키니즈 Pekingese
+100 버니즈 마운틴 도그 Bernese Mountain Dog
+102 이탈리안 그레이하운드 Italian Greyhound
+104 불독 Bulldog
+106 잉글리시 코커스패니얼 English Cocker Spaniel
+108 플랫 코티드 리트리버 Flat Coated Retriever
+110 와이어 폭스 테리어 Wire Fox Terrier
+112 달마시안 Dalmatian
+114 재패니즈 스피츠 Japanese Spitz
+116 케언 테리어 Cairn Terrier
+118 친 Chin
+120 저먼 셰퍼드 독 German Shepherd Dog
+122 도베르만 Dobermann
+124 피레니안 마운틴 도그 Pyrenean Mountain Dog
+126 비숑 프리제 Bichon Frise
+128 시베리안 허스키 Siberian Husky
+130 복서 German Boxer
+131 보르조이 Borzoi
+132 스코티시 테리어 Scottish Terrier
+133 바셋 하운드 Basset Hound
+134 아이리시 레드 세터 Irish Red Setter
+135 와이머라너 Weimaraner
+136 세인트 버나드 Saint Bernard Dog
+137 미니어처 불 테리어 Miniature Bull Terrier
+138 그레이트 데인 Great Dane
+139 뉴펀들랜드 Newfoundland
+140 잉글리시 스프링거 스패니얼 English Springer Spaniel
+141 바센지 Basenji
+142 로트와일러 Rottweiler
+143 휘핏 Whippet
+144 아프간하운드 Afghan Hound
+145 아키타견 Akita
+146 차이니스 크레스티드 도그 Chinese Crested Dog
+147 카이 Kai
+148 노포크 테리어 Norfolk Terrier
+149 웰시 코기 카디건 Welsh Corgi Cardigan
+150 살루키 Saluki
+151 에어데일 테리어 Airedale Terrier
+152 올드 잉글리시 십독 Old English Sheepdog
+153 오스트레일리안 셰퍼드 Australian Shepherd
+154 쁘띠 바셋 그리펀 벤딘Petit Basset Griffon Vendeen
+155 브뤼셀 그리펀 Brussels Griffon
+156 사모예드 Samoyed
+157 티베탄 스패니얼 Tibetan Spaniel
+158 토이 맨체스터 테리어 Toy Manchester Terrier
+159 재패니즈 테리어 Japanese Terrier
+160 러프 콜리 Rough Collie
+161 비어디드 콜리 Bearded Collie
+162 폴리시 롤랜드 십독 Polish Lowland Sheepdog
+163 댄디 디몬트 테리어 Dandie Dinmont Terrier
+164 벨지안 셰퍼드 독 테뷰런 Belgian Shepherd Dog Tervueren
+165 라사 압소 Lhasa Apso
+166 볼로네즈 Bolognese
+167 실리엄 테리어 Sealyham Terrier
+168 알래스칸 말라뮤트 Alaskan Malamute
+169 웰시 테리어 Welsh Terrier
+170 아메리칸 스태포드셔 테리어 American Staffordshire Terrier
+171 베들링턴 테리어 Bedlington Terrier
+172 레온베르거 Leonberger
+173 차우차우 ChowChow
+174 레이크랜드 테리어 Lakeland Terrier
+175 티베탄 테리어 Tibetan Terrier
+176 불 테리어 Bull Terrier
+177 스태포드셔 불 테리어 Staffordshire Bull Terrier
+178 스키퍼키 Schipperke
+179 벨지안 셰퍼드 독 그로넨달 Belgian Shepherd Dog Groenedael
+180 오스트레일리안 캐틀 도그 Australian Cattle Dog
+181 아이리시 울프하운드 Irish Wolfhound
+182 쿠이커혼제 Kooikerhondje
+183 케리 블루 테리어 Kerry Blue Terrier
+184 나폴리탄 마스티프 Neapolitan Mastiff
+185 잉글리시 세터 English Setter
+186 풀리 Puli
+187 벨지안 셰퍼드 독 마리노이즈 Belgian Shepherd Dog Malinois
+188 스탠더드 슈나우저 Standard Schnauzer
+189 기슈견 Kishu
+190 자이언트 슈나우저 Giant Schnauzer
+191 브리타니 스패니얼 Brittany Spaniel
+192 보더 테리어 Border Terrier
+193 불 마스티프 Bull Mastiff
+194 노리치 테리어 Norwich Terrier
+195 오스트레일리안 켈피 Australian Kelpie
+196 보르도 마스티프 Bordeaux Mastiff
+197 포르투갈 워터 도그 Portuguese Water Dog
+198 샤페이 Shar Pei
+199 파슨 러셀 테리어 Parson Russell Terrier
+200 그레이하운드 Greyhound
+201 클럼버 스패니얼 Clumber Spaniel
+202 오스트레일리안 테리어 Australian Terrier
+203 로디지안 리지백 Rhodesian Ridgeback
+204 보비에 드 플란더스 Bouvier Des Flanders
+205 체서피크 베이 리트리버 Chesapeake Bay Retriever
+206 그레이트 재패니즈 도그 Great Japanese dog
+207 케이스혼드 Keeshond
+208 헝가리안 쇼트헤어드 비즐라 Hungarian Shorthaired Vizsla
+209 라지 먼스터랜더 Large Munsterlander
+210 저먼 쇼트헤어드 포인터 German Shorthaired Pointer
+211 컬리 코티드 리트리버 Curly Coated Retriever
+212 킹 찰스 스패니얼 King Charles Spaniel
+213 노르웨이안 엘크하운드 Norwegian Elkhound grey
+214 노바 스코샤 덕 톨링 리트리버 Nova Scotia Duck Tolling Retriever
+215 홋카이도견(아이누견) Hokkaido
+216 슬루기 Sloughi
+217 스페니시 마스티프 Spanish Mastiff
+218 타이 리지백 도그 Thai Ridgeback Dog
+219 아펜핀셔 Affenpinscher
+220 아이리시 테리어 Irish Terrier
+221 벨지안 그리펀 Belgian Griffon
+222 스무스 콜리 Smooth Collie
+223 스무스 폭스 테리어 Smooth Fox Terrier
+224 시코쿠견 Shikoku
+225 쁘띠 브라바콘 Petit Brabancon
+226 잉글리시 포인터 English Pointer
+227 도고 아르헨티노 Dogo Argentino
+228 디어하운드 Deerhound
+229 푸미 Pumi
+230 피레니안 마스티프 Pyrenean Mastiff
+231 파라오 하운드 Pharaoh Hound
+232 마스티프 Mastiff
+233 아이리시 소프트 코티드 휘튼 테리어 Irish Soft Coated Wheaten Terrier
+234 고든 세터 Gordon Setter
+235 저먼 와이어헤어드 포인터 German Wirehaired Pointer
+236 피레니안 십독 Pyrenean Sheepdog
+237 스카이 테리어 Skye Terrier
+238 화이트 스위스 셰퍼드 독 White Swiss Shepherd Dog
+239 맨체스터 테리어 Manchester Terrier
+240 로첸 Lowchen
+241 오스트레일리안 실키 테리어 Australian Silky Terrier
+242 벨지안 셰퍼드 독 라케노이즈 Belgian Shepherd Dog Laekenois
+243 웰시 스프링거 스패니얼 Welsh Springer Spaniel
+244 페루비안 헤어리스 도그 Peruvian Hairless Dog
+245 도사견 Tosa
+246 블러드하운드 Bloodhound
+247 이비잔 하운드 Ibizan Hound
+248 저먼 헌팅 테리어 German Hunting Terrier
+249 필드 스패니얼 Field Spaniel
+250 마렘마 십독 Maremma and Abruzzes Sheepdog
+251 브리아드 Briard
+252 티베탄 마스티프 Tibetan Mastiff
+253 브라질리언 가드 독 Brazilian Guard Dog
+254 아이리시 레드 앤 화이트 세터 Irish Red and White Setter
+255 코튼 드 튜레어 Coton de Tulear
+256 한국 진도견 Korea Jindo Dog
+257 에스트렐라 마운틴 독 Estrela Mountain Dog
+258 베르나 하운드 Berner Hound
+259 쿠바츠 Kuvasz
+260 멕시칸 헤어리스 도그 Mexican Hairless Dog
+261 코몬도르 Komondor
+262 베르제 드 보스 Berger de Beauce
+263 노르웨이안 부훈트 Norwegian Buhund
+
+264 찾아보기

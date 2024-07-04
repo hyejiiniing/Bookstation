@@ -1,0 +1,129 @@
+[I'm 패턴]
+Day 1 I'm on ~ 나 ~하는 중이야
+Day 2 I'm afraid of ~ 나는 ~이 두려워
+Day 3 I'm about to ~ 막 ~하려던 참이야
+Day 4 I'm here to ~ 나 여기 ~하러 왔어
+Day 5 I'm not here to ~ 나 여기 ~하러 온 게 아니야
+Day 6 I'm ready to ~ 나 ~할 준비 됐어
+Day 7 I'm sorry ~ ~해서 미안해 / ~라니 유감이야
+Day 8 I'm worried about ~ 나 ~가 걱정돼
+Day 9 I'm interested in ~ 나 ~에 관심 있어
+
+[I'm -ing 패턴]
+Day 10 I'm going to ~ 나 ~할 거야
+Day 11 I'm not going to ~ 나 ~하지 않을 거야
+Day 12 I'm trying to ~ 나 ~하려고 하고 있어
+Day 13 I'm not trying to ~ 나 ~하려는 게 아니야
+Day 14 I'm getting ~ 나 점점 ~하고 있어
+Day 15 I'm willing to ~ 나 기꺼이 ~할 거야
+Day 16 I'm looking for ~ 나 ~를 찾고 있어
+
+[Are you 패턴]
+Day 17 Are you ready to ~? ~할 준비 됐어?
+Day 18 Are you going to ~? 너 ~할 거야?
+Day 19 Are you trying to ~? 너 ~하려는 거야?
+Day 20 Aren't you ~? 너 ~지 않아?
+
+[I want 패턴]
+Day 21 I want to ~ 나 ~하고 싶어
+Day 22 I don't want to ~ 나 ~하고 싶지 않아
+Day 23 You don't want to ~ ~하지 않는 게 좋을 거야
+Day 24 Do you want to ~? ~하고 싶어?
+Day 25 I just wanted to ~ 나 단지 ~하고 싶었어
+
+[I think / know / mean 패턴]
+Day 26 I think ~ ~인 것 같아
+Day 27 Do you think ~? ~인 것 같아?
+Day 28 Don't you think ~? ~라고 생각하지 않아?
+Day 29 I know it's ~ ~라는 것을 알아
+Day 30 I don't know why ~ 왜 ~인지 모르겠어
+Day 31 I mean, ~ 내 말은, ~라는 거야
+Day 32 I didn't mean to ~ ~하려는 의도는 아니었어
+
+[I like 패턴]
+Day 33 I like your ~ 너의 ~가 마음에 들어
+Day 34 I like to ~ 나 ~하는 것 좋아해
+Day 35 I don’t like to ~ 나 ~하는 것 좋아하지 않아
+Day 36 It's like ~ 마치 ~ 같아
+Day 37 It sounds like ~ ~인 것처럼 들려
+Day 38 I'd like to ~ ~하고 싶어요
+Day 39 Would you like to ~? ~하시겠어요?
+
+[Can I / I can't 패턴]
+Day 40 Can I get ~? ~(해) 줄 수 있어요?
+Day 41 Can I get you ~? ~ 가져다줄까요?
+Day 42 Can't you ~? 안/못 ~해?
+Day 43 You can have ~ ~ 가져도/먹어도 돼
+Day 44 I can't think of ~ ~이 생각나지 않아
+Day 45 I can't wait to ~ 빨리 ~하고 싶어
+Day 46 I can't stand ~ ~을 견딜 수 없어
+Day 47 It can't be ~ 그게 ~일 리가 없어
+
+[It's 패턴]
+Day 48 It's just ~ 그냥 ~일 뿐이야
+Day 49 It's not just ~ 그냥 ~이 아니야
+Day 50 It's nice to ~ ~하게 돼서 좋아
+Day 51 It's time to ~ 이제 ~할 때야
+Day 52 It's hard to ~ ~하기 어려워
+Day 53 It's worth ~ ~할 만한 가치가 있어
+
+[There's / That's / This is 패턴]
+Day 54 There's ~ ~가 있어
+Day 55 Is there ~? ~가 있어?
+Day 56 There's nothing ~ ~인 것이 아무것도 없어
+Day 57 There was a lot of ~ ~이 많았어
+Day 58 There must be ~ 분명 ~가 있을 거야
+Day 59 That's what ~ 그게 바로 ~인 거야
+Day 60 That's why ~ 그게 바로 ~인 이유야
+Day 61 This is the only ~ 이것이 유일한 ~야
+
+[I have / You have 패턴]
+Day 62 I've got ~ 나 ~이 있어
+Day 63 I've already ~ 나 이미 ~했어
+Day 64 I've never ~ ~한 적이 전혀 없어
+Day 65 Have you ever ~? (한 번이라도) ~해본 적 있어?
+Day 66 You have to ~ 너 ~해야 해
+Day 67 You don't have to ~ ~하지 않아도 돼
+Day 68 Do I have to ~? 나 ~해야 해?
+Day 69 You will have to ~ 너 ~해야 할 거야
+Day 70 You may have to ~ 너 ~해야 할지도 몰라
+
+[What / Who 패턴]
+Day 71 What a ~! 정말 ~다!
+Day 72 What are you going to ~? 너 무엇을 ~할 거야?
+Day 73 What happened to ~? ~에(게) 무슨 일이 있었어?
+Day 74 What do you think of ~? ~에 대해 어떻게 생각해?
+Day 75 What do you know about ~? ~에 대해 무엇을 알고 있어?
+Day 76 What can I ~? 내가 무엇을 ~할 수 있을까?
+Day 77 What should I ~? 내가 무엇을 ~해야 하지?
+Day 78 Who else ~? 또 누가 ~해?
+Day 79 Who wants to ~? 누구 ~하고 싶은 사람?
+
+[How 패턴]
+Day 80 How about ~? ~는 어때?
+Day 81 How much is ~? ~은 얼마야?
+Day 82 How was ~? ~는 어땠어?
+Day 83 How can you ~? 어떻게 ~할 수 있어?
+Day 84 How do you know ~? ~를 어떻게 알아?
+Day 85 How often do you ~? 얼마나 자주 ~해?
+
+[Where / Why 패턴]
+Day 86 Where is ~? ~은 어디 있어?
+Day 87 Where do you ~? 너 어디에(서) ~해?
+Day 88 Why should I ~? 내가 왜 ~해야 해?
+Day 89 Why don't you ~? ~해 보는 게 어때?
+Day 90 Why didn't you ~? 왜 ~ 안 했어?
+Day 91 Why are you so ~? 너 왜 그렇게 ~인 거야?
+
+[표현이 더 풍부해지는 추가 패턴]
+Day 92 I feel ~ ~인 느낌이 들어
+Day 93 Feel free to ~ 부담 갖지 말고 ~해
+Day 94 You look ~ 너 ~해 보여
+Day 95 Let's go ~ 우리 ~에/하러 가자
+Day 96 Let's not ~ 우리 ~하지 말자
+Day 97 I was able to ~ 나 ~할 수 있었어
+Day 98 I'll take care of ~ 내가 ~을 맡을게
+Day 99 Thank you for ~ ~해줘서 고마워
+Day 100 Don't make me ~ 날 ~하게 만들지 마
+
+[별책 10분 스피킹 핸드북]

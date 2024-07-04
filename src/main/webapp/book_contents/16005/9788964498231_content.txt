@@ -1,0 +1,121 @@
+GUI 설정 및 사용
+1. GUI 옵션
+1.1 화면 테마 변경
+1.2 가변 폭 글꼴의 변경
+1.3 시스템별 색상 구분
+1.4 드롭다운 리스트에 키 표시
+1.5 시스템 정보 확인
+2. 서버 연결 설정
+3. 로그온 후 기본 설정
+3.1 메뉴와 화면에 대한 기본 설정
+3.2 사용자 기본 정보 설정
+3.3 빠른 잘라내기/붙여넣기
+3.4 즐겨찾기 Download/Upload
+3.5 서버 시스템의 정보 확인
+** 기본 명령어
+
+주요 모듈 소개
+1. FI(Finance)
+1.1 GL계정, 고객/구매처, 자산마스터
+1.2 전표의 이해
+1.3 전표 개별 항목의 상세 정보
+* 부가세 신고를 위한 추가 개발
+2. CO(Controlling)
+3. TR(Treasury)
+3.1 머니마켓(Money Market)
+3.2 현금 관리(Cash Management)
+* 입출금 관리를 위한 펌뱅킹 시스템
+4. SD(Sales and Distribution)
+4.1 영업 영역(Sales Area)
+4.2 영업 절차의 이해
+* 수출입 업무 처리를 위한 시스템
+5. MM(Material Management)
+5.1 구매 조직(Purchasing Organization), 공장(Plant), 저장 창고(Storage Location)
+5.2 구매 절차의 이해
+
+기본 사용 방법
+1. Search Help(탐색 도움말)
+1.1 개인 리스트 관리
+1.2 탐색 도움말 생성
+* 탐색 도움말 필드 설명
+2. ALV의 활용
+2.1 레이아웃 변경
+2.2 레이아웃 선택
+2.3 레이아웃 저장
+* Table Control
+3. 변형(Variant) 관리
+
+유지보수 기능
+1. 퀵 뷰어(SQVI)
+1.1 퀵 뷰어로 조회 리포트 생성
+1.2 퀵 뷰어에 트랜잭션 코드 연결
+2. Maintenance Table/View(SM30)
+2.1 유지보수 화면 생성
+2.2 트랜잭션 코드에 연결(SE93)
+* 유지보수 화면에 기능 추가하기(SE54)
+3. View Cluster(SM34)
+3.1 View Cluster 생성
+3.2 종속성을 가지는 view 항목 추가
+3.3 Transaction 코드 부여(SE93)
+4. LSMW (Legacy System Migration Workbench)
+4.1 LSMW 기본 작업 생성
+4.2 LSMW 메뉴 기능
+5. SPRO
+5.1 SPRO의 개요
+5.2 SPRO의 개요
+5.3 SPRO 경로 파일로 다운로드
+6. MASS
+
+시스템 관련
+1. 영역 메뉴(Area Menu)
+1.1 영역 메뉴 생성(SE43)
+1.2 영역 메뉴 편집
+1.3 즐겨찾기, 기본 메뉴로 등록
+1.4 영역 메뉴 파일로 다운로드
+*T-code 포함 영역 메뉴 찾기
+2. 작업 관리(SM35, SM36, SM37)
+2.1 배치 작업 관리(SM35)
+2.2 스케줄링 작업 등록(SM36)
+2.3 작업로그 확인(SM37)
+*실행 중인 작업 강제종료
+3. Transport 관리(SE09)
+3.1 CTS 기본 관리
+3.2 요청 변경일 정보 추가
+3.3 버전 확인 및 롤백
+3.4 동일 Instance 내 전송 요청으로 복사
+3.5 CTS Import (STMS)
+3.6 CTS로 테이블 데이터 전송
+3.7 CTS로 화면 변형 전송
+*Lock 오브젝트 관리(SM12)
+4. 서버 설정 및 확인
+4.1 서버 모니터링(SM51)
+4.2 프로파일 매개변수(RZ10)
+4.3 DB 연결(DBCO)
+*기타 시스템 관련 툴
+
+ABAP 개발 관련
+
+1. ABAP 기본 툴(Dictionary 와 Workbench)
+1.1 ABAP Dictionary(SE11)
+**Table 데이터 직접 수정하는 3가지 방법
+1.2 Development Workbench(SE80)
+2. 디버깅(Debugging)
+2.1 디버깅 기본방법
+2.2 반복문 중단하기
+2.3 Watchpoint 설정
+2.4 Function 디버깅 중 테스트값 저장
+3. 기타 개발 관련 툴
+3.1 메세지 관리(SE91)
+3.2 성능추적(ST05)
+3.3 Dump 분석(ST22)
+3.4 트랜잭션 레코드(SHDB)
+4. 아이콘 확인 (SE38)
+5. 유용한 함수 모음
+5.1 날짜 관련 함수
+5.2 문자, 숫자 관련 함수
+5.3 팝업창 함수
+5.4 통화 및 Conversion 함수
+5.5 파일 관련 함수
+5.6 모듈별 함수
+5.7 기타 유용한 함수
+6. 시스템 테이블

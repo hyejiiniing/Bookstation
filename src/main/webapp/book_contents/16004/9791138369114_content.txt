@@ -1,0 +1,25 @@
+Chapter 01. 실습환경 구축
+
+Section 01. 실습 프로그램 설치 과정
+Section 02. 실습 프로그램 구축 과정
+
+Chapter 02. OWASP Top 10
+
+Section 01. OWASP Top 10
+
+Chapter 03. WebGoat 모의 해킹 실습
+
+Section 01. General
+Section 02. Broken Access Control
+Section 03. Cryptographic Failures
+Section 04. Injection
+Section 05. Security Misconfiguration
+Section 06. Identity & Auth Failure
+Section 07. Software & Data Integrity
+Section 08. Security Logging Failures
+Section 09. Server-side Request Forgery
+
+Chapter 04. Appendix
+
+Section 01. 웹 해킹 요약 노트
+Section 02. 생성형 AI와 시큐어 코딩

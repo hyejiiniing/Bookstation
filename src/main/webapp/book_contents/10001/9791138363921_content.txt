@@ -1,0 +1,23 @@
+PART 1 박물관학 이론
+CHAPTER 01 박물관의 이해
+CHAPTER 02 박물관의 역사
+CHAPTER 03 박물관의 유형과 등록
+CHAPTER 04 박물관학
+CHAPTER 05 박물관 경영
+CHAPTER 06 박물관 소장품
+CHAPTER 07 박물관 전시
+CHAPTER 08 박물관 교육
+CHAPTER 09 박물관 마케팅
+CHAPTER 10 박물관 건축
+
+PART 2 박물관학 관련 법령
+CHAPTER 01 박물관 및 미술관 진흥법
+CHAPTER 02 문화재보호법
+CHAPTER 03 ICOM 전문직원 윤리강령
+
+PART 3 박물관학 기출문제
+CHAPTER 01 2019 기출문제
+CHAPTER 02 2020 기출문제
+CHAPTER 03 2021 기출문제
+CHAPTER 04 2022 기출문제
+CHAPTER 05 2023 기출문제

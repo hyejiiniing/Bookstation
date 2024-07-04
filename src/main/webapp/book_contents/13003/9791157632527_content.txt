@@ -1,0 +1,26 @@
+제1부 객실 부문
+Chapter 1. Reservation ServiceⅠ(객실예약의 서비스)
+Chapter 2. Reservation Service Ⅱ(객실예약의 서비스)
+Chapter 3. Operator's Service ( 교환원의 서비스)
+Chapter 4. Concierge Service ( 컨시어지 서비스)
+Chapter 5. Door man/Bell man ServiceⅠ( 도어맨벨/맨서비스 )
+Chapter 6. Door man/Bell man ServiceⅡ ( 도어맨벨/맨서비스 )
+Chapter 7. Front ServiceⅠ( 프런트 서비스)
+Chapter 8. Front Service Ⅱ ( 프런트 서비스)
+Chapter 9. Housekeeping Service ( 하우스키핑 서비스)
+
+제2부 식음료 부문
+Chapter 10. Room Service ( 룸 서비스)
+Chapter 11. Food & Beverage ServiceⅠ ( 식음료 서비스)
+Chapter 12. Food & Beverage Service Ⅱ ( 식음료 서비스)
+Chapter 13. Food & Beverage Service Ⅲ ( 식음료 서비스)
+
+제3부 Review
+Chapter 14. ActivityⅠ (Making dialogue)
+Chapter 15. Activity Ⅱ (Making dialogue)
+
+Appendix
+OPIc by Jenny Baek
+OPIc Vocaburary
+Hotel Glossary
+Answer Key

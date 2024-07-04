@@ -1,0 +1,53 @@
+수업에서 바로 활용하는 ChatGPT 교과서
+
+Chapter 00 ChatGPT와 생성형 AI
+01 ChatGPT와 생성형 AI
+02 ChatGPT의 특징
+03 ChatGPT 및 생성형 AI 활용 방안
+04 ChatGPT를 활용하는 데 필요한 능력
+
+Chapter 01 빅데이터의 활용과 ChatGPT
+01 1 ChatGPT 활용 학습을 준비해요
+02 Tome 활용 수업을 준비해요
+03 빅데이터를 ChatGPT에 활용해요
+
+Chapter 02 AskUp을 활용해 디지털 오답 노트 만들기
+01 AskUp 활용 수업을 준비해요
+02 EBSi와 AskUp을 활용해요
+
+Chapter 03 ChatGPT와 Stable Diffusion을 활용한 나만의 그림 갤러리 만들기
+01 Stable Diffusion 활용 학습을 준비해요
+02 구글 프레젠테이션 활용 학습을 준비해요
+03 ChatGPT와 Stable Diffusion으로 갤러리를 만들어보아요
+
+Chapter 04 ChatGPT와 Vrew를 활용하여 내가 설명하고 싶은 내용을 영상으로 만들어보기
+01 Vrew 활용 학습을 준비해요
+02 ChatGPT와 Vrew를 활용하여 글을 영상으로 만들어요
+
+Chapter 05 ChatGPT와 D-ID를 활용한 더빙 뉴스 영상 만들기
+01 D-ID 활용 학습을 준비해요
+02 ChatGPT와 D-ID로 더빙 뉴스 영상을 만들어요
+
+Chapter 06 AIVA와 Vrew를 활용한 오디오북 만들기
+01 IVA 활용 학습을 준비해요
+02 ChatGPT와 Vrew로 글쓰기 및 영상 제작을 해보아요
+
+Chapter 07 Bard를 활용해 AI 딜레마 토론 자료 만들기
+01 Bard 활용 학습을 준비해요
+02 Gamma 활용 학습을 준비해요
+03 Moral Machine과 Bard를 활용해요
+
+Chapter 08 Bard를 활용해 공익광고 영어 포스터 만들기
+01 PicFinder 활용 수업을 준비해요
+02 빅카인즈를 ChatGPT에 활용해요
+
+Chapter 09 스프레드시트와 ChatGPT의 만남
+01 구글 스프레드시트 활용 학습을 준비해요
+02 ChatGPT의 API 키를 시트에 연동해요
+03 다양한 기능을 가진 스프레드시트를 만들어보아요
+
+Chapter 10 슬기로운 ChatGPT 플러그인 활용법
+01 ChatGPT 플러그인 사용을 준비해요
+02 ChatGPT 플러그인을 사용해요
+
+부록 용어 사전

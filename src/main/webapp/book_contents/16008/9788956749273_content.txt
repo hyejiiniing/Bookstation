@@ -1,0 +1,172 @@
+PART 01 작업 능률을 올려주는 기본 예제 50가지
+SECTION 01 엑셀 2021의 시작과 종료
+SECTION 02 엑셀의 화면 구성
+SECTION 03 빠르게 시작하기
+SECTION 04 엑셀 온라인 서식 파일 활용하고 저장하기
+SECTION 05 PDF 파일로 저장하기
+SECTION 06 암호 사용하여 저장하기
+SECTION 07 빠른 실행 도구 모음 설정
+SECTION 08 리본 메뉴 탭 만들기
+SECTION 09 워크시트의 화면 표시 변경하기
+SECTION 10 호환 모드 문서를 Excel 통합 문서로 변환하기
+SECTION 11 데이터 선택하기
+SECTION 12 문자 데이터 입력
+SECTION 13 한자 입력하기
+SECTION 14 기호 입력
+SECTION 15 숫자 데이터 입력
+SECTION 16 날짜와 시간 입력
+SECTION 17 메모 삽입하기
+SECTION 18 수식 입력
+SECTION 19 데이터 편집 및 옵션 버튼
+SECTION 20 숫자 일정하게 자동 채우기
+SECTION 21 날짜 단위 자동 채우기
+SECTION 22 시간 단위 자동 채우기
+SECTION 23 문자와 숫자가 함께 있는 데이터 자동 채우기
+SECTION 24 사용자 지정으로 자동 채우기
+SECTION 25 빠른 채우기로 데이터 빠르게 입력하기
+SECTION 26 글꼴 서식 변경하기
+SECTION 27 맞춤 서식 변경하기
+SECTION 28 맞춤 서식 텍스트 줄 바꿈 지정하기
+SECTION 29 금액을 자동으로 한글로 표시하기
+SECTION 30 숫자를 자릿수 지정하여 표시하기
+SECTION 31 숫자를 원, 천 원, 백만 원 단위로 표시하기
+SECTION 32 만 원 단위로 쉼표 표시하기, 만 원 단위로 변경하기
+SECTION 33 표시 형식_날짜 분리하여 표시하기
+SECTION 34 표시 형식_날짜 형식 변경, 누적된 시간 표시하기
+SECTION 35 표시 형식_문자 데이터 표시하기
+SECTION 36 표시 형식_양수;음수;0의 서식으로 지정하기
+SECTION 37 행/열 너비 조정하기
+SECTION 38 너비 유지하여 붙여넣기, 그림으로 연결하여 붙여넣기
+SECTION 39 연산으로 붙여넣기
+SECTION 40 서식 복사로 빠르게 모양 변경하기
+SECTION 41 셀 스타일과 표 서식 적용하기
+SECTION 42 표 서식에서 수식 적용하기
+SECTION 43 표 서식 범위로 변경하기
+SECTION 44 셀 편집하여 데이터 정리하기
+SECTION 45 행과 열 삽입, 삭제, 숨기기
+SECTION 46 워크시트 이름, 탭 색 변경하기
+SECTION 47 워크시트 이동/복사하기
+SECTION 48 시트 숨기기와 숨기기 취소
+SECTION 49 여러 개의 시트를 한꺼번에 그룹 작업하기
+SECTION 50 시트 보호
+
+PART 02 야근을 없애는 활용 예제 50가지
+SECTION 01 데이터 이동하고 그림 복사하기
+SECTION 02 데이터 유효성 검사로 영문 모드 변경과 목록 설정하기
+SECTION 03 워드아트로 제목 만들고 개체 편집하기
+SECTION 04 틀 고정하여 제목 행 유지하기
+SECTION 05 인쇄해야 할 영역 1페이지로 지정하기
+SECTION 06 제목 행 설정하고, 인쇄 영역 설정하기
+SECTION 07 머리글과 바닥글 설정하기
+SECTION 08 여러 개의 시트 동시에 인쇄하기
+SECTION 09 값이 차이나는 데이터를 혼합 차트로 표시하기
+SECTION 10 중간 생략 차트
+SECTION 11 원형 대 원형 차트 만들기
+SECTION 12 누적 가로 막대형 차트 만들기
+SECTION 13 빈 데이터를 꺾은선 그래프로 표현하기
+SECTION 14 스파크라인 삽입하기
+SECTION 15 텍스트 줄 바꿈된 셀 나누기
+SECTION 16 숫자 날짜 올바른 형식 변환하기
+SECTION 17 다양한 기준으로 정렬하기
+SECTION 18 사용자 지정 목록으로 정렬하기
+SECTION 19 중복 데이터 서식 변경하고 삭제하기
+SECTION 20 병합되어 있는 셀 해제하여 빈 셀 없애기
+SECTION 21 인쇄하지 않고 화면에서 비교하기
+SECTION 22 열/행 숨기기 한 데이터 복사하기
+SECTION 23 원하는 데이터 서식 변경하기
+SECTION 24 조건부 서식으로 데이터 막대 만들기
+SECTION 25 사이값, 유효성 검사로 조건부 서식 지정하기
+SECTION 26 다양한 조건으로 필터링하기
+SECTION 27 조건부 서식된 결과로 자동 필터하기
+SECTION 28 대량의 데이터 빠르게 통합하기
+SECTION 29 여러 시트에 있는 데이터 통합하기
+SECTION 30 부분합하기
+SECTION 31 부분합의 요약 복사하기
+SECTION 32 데이터베이스를 관리하기 위한 규칙
+SECTION 33 추천 피벗 테이블, 피벗 차트 만들기
+SECTION 34 크로스탭 피벗 테이블 만들기
+SECTION 35 숫자 데이터 그룹 지정하여 피벗 테이블 만들기
+SECTION 36 날짜 데이터 그룹 지정하여 피벗 테이블 만들기
+SECTION 37 두 개의 피벗 테이블과 슬라이서 연결하고 사용하기
+SECTION 38 슬라이서 편집하고 시간 표시 막대 사용하기
+SECTION 39 피벗 테이블에서 수식 사용하기
+SECTION 40 보안에 취약한 피벗 테이블 값으로 복사하기
+SECTION 41 빈 행 삽입하기
+SECTION 42 분리된 데이터에서 하나의 열로 합치기
+SECTION 43 하나의 열에서 데이터 분리하기
+SECTION 44 다중 페이지 목록을 하나의 데이터로 편집하기
+SECTION 45 고급 필터로 OR 조건 필터링하기
+SECTION 46 매크로 개발 도구 생성 및 준비
+SECTION 47 매크로 포함 문서 저장하고 열기
+SECTION 48 상대 참조와 절대 참조의 차이점 알아보기
+SECTION 49 절대 참조로 매크로 기록하기
+SECTION 50 상대 참조로 매크로 기록하기
+
+PART 03 복잡한 계산을 쉽게 하는 함수 예제 50가지
+SECTION 01 함수의 구조 및 연산자
+SECTION 02 참조 셀, 방향에 따라 상대적으로 이동하는 상대 참조
+SECTION 03 참조된 셀, 절대 움직이지 않는 절대 참조
+SECTION 04 행 고정/열 고정 혼합 참조 사용하기
+SECTION 05 시트 이동하며 수식 이용하기
+SECTION 06 이름 정의하고 수식 사용하기
+SECTION 07 자동 합계 구하기
+SECTION 08 수식만 연결하여 붙여넣기
+SECTION 09 표 서식에서 계산하고 요약 행 추가하기
+SECTION 10 LARGE, SMALL함수
+SECTION 11 중간값, 최빈값 구하기 - MEDIAN/MODE.SNGL
+SECTION 12 반올림, 올림, 내림하기-ROUND, ROUNDUP, ROUNDDOWN
+SECTION 13 ROW, SUMPRODUCT 함수
+SECTION 14 문자열 합치기 - CONCATENATE/CONCAT
+SECTION 15 길이 찾고, 대소문자 구분하여 찾기 - LEN/FIND
+SECTION 16 조건에 맞는 결과값 입력하기- IF
+SECTION 17 AND 함수, OR 함수로 2개 이상의 조건으로 비교하는 함수
+SECTION 18 두 개 이상의 조건으로 비교하여 다른 값 입력하기 - 중첩 IF/IFS
+SECTION 19 순위 매기기 - RANK.EQ/RANK.AVG
+SECTION 20 백분율 순위 구하기 - PERCENTRANK.INC
+SECTION 21 COUNT 함수, COUNTA 함수, COUNTBLANK 함수로 개수 세기
+SECTION 22 조건에 만족하는 개수 구하기 - COUNTIF/COUNTIFS
+SECTION 23 조건에 만족하는 합계 구하기 - SUMIF/SUMIFS
+SECTION 24 조건에 만족하는 평균 구하기 - AVERAGEIF/AVERAGEIFS
+SECTION 25 도수분포표(빈도수) 만들기 - FREQUENCY
+SECTION 26 텍스트 분리하기 - LEFT/MID/RIGHT
+SECTION 27 숫자로 변환하고 표시 형식 변경하기 - VALUE
+SECTION 28 원하는 목록 찾아 지정하기 - CHOOSE/MID
+SECTION 29 표시 형식 설정하기 - TEXT
+SECTION 30 홀수 값만 추출하여 새 시트에 붙여넣기 - MOD
+SECTION 31 출력용 데이터 변환하기 - REPLACE
+SECTION 32 생년월일 만들기 - DATE/MID
+SECTION 33 오늘 날짜와 현재 시간 표시하기 - TODAY/NOW
+SECTION 34 날짜에서 연, 월, 일 추출하기 - YEAR/MONTH/DAY
+SECTION 35 휴일을 선택하고 종료일 구하기 - WORKDAY.INTL
+SECTION 36 두 날짜 사이 경과 일 구하기 - DATEDIF
+SECTION 37 토요일, 일요일 채우기 변경하기 - WEEKDAY
+SECTION 38 예정일 구하기 - EDATE/EOMONTH
+SECTION 39 SUBTOTAL 함수로 필터링 결과 한 번에 알아보기
+SECTION 40 IFERROR 함수로 오류 해결하기
+SECTION 41 위치 알아보기 - MATCH
+SECTION 42 데이터 추출하기 - VLOOKUP/HLOOKUP
+SECTION 43 유사 일치 데이터 추출하기 - VLOOKUP
+SECTION 44 행 번호와 열 번호 일치하는 데이터 추출하기 - INDEX
+SECTION 45 선택한 월만 추출해서 보기 - OFFSET
+SECTION 46 단일 정렬/다중 정렬 하기 - SORT/SORTBY
+SECTION 47 조건에 맞는 범위 추출하기 - FILTER
+SECTION 48 고유 값 추출하기 - UNIQUE
+SECTION 49 두 숫자 사이의 난수를 배열로 반환하기 - RANDARRAY
+SECTION 50 기준값의 왼쪽 데이터값 추출하기 - XLOOKUP
+
+PART 04 업무에 바로 활용하는 실무 예제 15가지
+PROJECT 01 주간 업무 보고서 만들기
+PROJECT 02 출근부 겸 일급 계산부 만들기
+PROJECT 03 경력 증명서 만들기
+PROJECT 04 퇴사 현황 파악하기
+PROJECT 05 재고상품 파악해서 주문하기
+PROJECT 06 작업복 신청 집계표 만들기
+PROJECT 07 다운로드한 외부 데이터 목록 일괄 정리하기
+PROJECT 08 선택한 데이터로 개수, 합계, 평균 알아보기
+PROJECT 09 병합된 셀 번호 매기기
+PROJECT 10 부서별 번호 매기기
+PROJECT 11 출고 시트와 입고 시트를 비교해 미입고 차량 추출하기
+PROJECT 12 통합하여 분석 차트 표현하기
+PROJECT 13 한 행에 입력된 데이터를 두 행으로 만들기
+PROJECT 14 하나의 열에 두 개의 데이터가 있을 때 나란히 한 행으로 만들기
+PROJECT 15 데이터 기능을 대체하는 함수

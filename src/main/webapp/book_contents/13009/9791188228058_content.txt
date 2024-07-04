@@ -1,0 +1,31 @@
+1 be동사 과거
+01 be동사 과거 Ⅰ
+02 be동사 과거 Ⅱ
+
+2 일반동사 과거
+01 일반동사 과거형
+02 일반동사 과거형의 부정문과 의문문
+
+3 과거진행형과 비인칭주어 It
+01 과거진행형
+02 비인칭주어 It
+
+4 조동사 Ⅰ
+01 can, may
+02 can, be able to, may의 부정문과 의문문
+
+5 조동사 Ⅱ
+01 must, have to, had better
+02 must, have to, had better의 부정문
+
+6 의문사 Ⅰ
+01 Who, What, Which
+02 Who, Whose, What, Which
+
+7 의문사 Ⅱ
+01 When, Where, Why
+02 How
+
+8 접속사
+01 and, or, but
+02 before, after, so because

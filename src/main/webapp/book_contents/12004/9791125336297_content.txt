@@ -1,0 +1,70 @@
+01 접두사
+DAY 01 pro- pre- fore- post- in¹- 18
+DAY 02 out- over- extra- mis- 24
+DAY 03 re- inter- dia- trans- 30
+DAY 04 de- under- ex- 36
+DAY 05 un- dis- in²- 42
+DAY 06 super- up- sub- anti- ante- 49
+DAY 07 com- sym- multi- ab- 55
+DAY 08 en- tele- auto- per- se- 60
+DAY 09 ad- a- with- geo- 67
+DAY 10 contra- mono-/uni- bi-/du-/twi- tri- 그 외의 숫자 접두사 73
+02 접미사
+DAY 11 명사형 접미사 82
+DAY 12 형용사형 접미사 1 91
+형용사형 접미사 2 95
+DAY 13 형용사형 접미사 2 98
+동사형 접미사 102
+부사형 접미사 104
+03어근
+DAY 14 ag alt alter ang ann apt 108
+DAY 15 art aster aud/ey band bar bio 114
+DAY 16 cap¹ cap² car 120
+DAY 17 cast cause cede centr cern cert 127
+DAY 18 char cid cide circul cit civi claim 134
+DAY 19 clin clud cogn cord corp 140
+DAY 20 crea cred cult cur dam 146
+DAY 21 deb der dict dom don 153
+DAY 22 duc electr equ/ident ess estim fa 159
+DAY 23 fac fals fare 166
+DAY 24 fend fer fid fin flect flict 173
+DAY 25 flo flu form fort frag fund 179
+DAY 26 fus gard gener gest gra 186
+DAY 27 grad graph grat grav hab hered 193
+DAY 28 host hum insul it ject jus 200
+DAY 29 labor lack lat lax/ly lect¹ lect² 207
+DAY 30 leg lev liber lig limin 213
+DAY 31 liter loc log long lus 220
+DAY 32 magni mand manu mechan 225
+DAY 33 medi memor ment merc merge 231
+DAY 34 meter migr min mir 237
+DAY 35 mit mod mort 241
+DAY 36 mov mun mut nat neg norm 247
+DAY 37 not nounce nov numer nutri od oper opt 252
+DAY 38 ordin ori par¹ par² par³ part 258
+DAY 39 pass path patr ped pel pen 264
+DAY 40 pend per pet phan 270
+DAY 41 plaud ple pleas plic plor 276
+DAY 42 polit popul port pos 282
+DAY 43 poss preci prehend press prim 288
+DAY 44 priv prob proper punct put quir 294
+DAY 45 rang rat rect rot rupt 300
+DAY 46 sacr scend sci scrib sect sens 308
+DAY 47 sequ sert serv sid 314
+DAY 48 sign simil soci sol solv 320
+DAY 49 soph spect sper spher 325
+DAY 50 spir spond sta 330
+DAY 51 sta sting 337
+DAY 52 strict struct sult sum 343
+DAY 53 sure surg tach tact tail tain 349
+DAY 54 techn temper tempor tempt tend termin 355
+DAY 55 terr¹ terr² test text theo thesis ton tort 361
+DAY 56 tract trad trem tribut tru 368
+DAY 57 trud turb und urb us vad vag val van 374
+DAY 58 var venge vent vert 381
+DAY 59 via vict vid vig vis 388
+DAY 60 viv voc vol volv vot ward 395
+
+한번에 외우는 핵심 다의어 403
+혼동하기 쉬운 중요 어휘 410
+INDEX 425

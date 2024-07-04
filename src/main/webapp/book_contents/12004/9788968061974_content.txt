@@ -1,0 +1,199 @@
+〈권두부록〉 어법 학습에 꼭 필요한 용어와 문법 기초
+
+UNIT 01 주어와 동사의 수일치
+Point 01 주어와 수식어를 구분하라!
+CASE 1 주어 + (전치사 + 명사) + 동사
+CASE 2 주어 + (v-ing ~) + 동사 / 주어 + (to-v ~) + 동사
+CASE 3 주어 + (p.p.~) + 동사
+CASE 4 주어 + [관계사절 ~] + 동사 / 주어 + (형용사(구)~) + 동사
+CASE 5 주어 + 삽입어 + 동사
+Point Exercise
+Point 02 관계사절 내 동사의 수는 선행사를 찾아라!
+CASE 1 선행사 + 관계대명사 + 동사
+CASE 2 선행사 + 수식어구 + 관계대명사 + 동사
+Point Exercise
+Point 03 주어가 동사 뒤에 나오는 구문에 주의하라!
+CASE 1 부사(구) + 동사 + 주어
+CASE 2 부정어(구) + (조)동사 + 주어
+CASE 3 There + 동사 + 주어
+Point Exercise
+Point 04 주어 형태에 주목하라!
+CASE 1 v-ing구, to-v구, 명사절 주어 + 단수동사
+CASE 2 each, every + 단수동사 / both ~ + 복수동사
+CASE 3 the 형용사 + 복수동사
+CASE 4 부분 표현 + of + 명사(N)
+Point Exercise
+UNIT Exercise
+
+UNIT 02 명사/대명사의 일치
+Point 05 대명사의 형태에 주의하라!
+CASE 1 명사-대명사의 수일치
+CASE 2 인칭대명사 vs. 소유대명사
+CASE 3 인칭대명사 vs. 재귀대명사
+Point Exercise
+Point 06 명사의 종류에 따라 수식어를 구별하라!
+CASE 1 셀 수 있는 명사의 수식어 vs. 셀 수 없는 명사의 수식어
+CASE 2 셀 수 있는[없는] 명사의 공통 수식어(구)
+Point Exercise
+UNIT Exercise
+갈무리 1
+
+UNIT 03 동사의 시제
+Point 07 단순과거와 현재완료의 구별은 부사를 찾아라!
+CASE 1 단순과거 vs. 현재완료(계속)
+Point Exercise
+Point 08 현재시제가 미래를 나타내는 부사절에 주의하라!
+CASE 1 시간을 나타내는 부사절
+CASE 2 조건을 나타내는 부사절
+Point Exercise
+UNIT Exercise
+
+UNIT 04 조동사와 법
+Point 09 조동사 + have p.p.는 가리키는 때와 의미에 주의하라!
+CASE 1 「조동사 + 동사원형」 vs. 「조동사 + have p.p.」
+CASE 2 「조동사 + have p.p.」에서 조동사 간의 의미 차이
+Point Exercise
+Point 10 가정법의 핵심은 시제이다!
+CASE 1 가정법 과거 vs. 가정법 과거완료
+CASE 2 that절에 should를 쓰는 특수 가정법
+Point Exercise
+UNIT Exercise
+갈무리 2
+
+UNIT 05 능동태 vs. 수동태
+Point 11 동사의 태는 주어와의 의미 관계를 파악하라!
+CASE 1 능동태 vs. 수동태
+CASE 2 「수동태 + 명사」 구조
+CASE 3 관계대명사절의 능동태 vs. 수동태
+CASE 4 be used to-v vs. be used to v-ing
+Point Exercise
+Point 12 to부정사/동명사의 태는 의미상 주어부터 찾아라!
+CASE 1 to부정사의 태
+CASE 2 동명사의 태
+Point Exercise
+UNIT Exercise
+
+UNIT 06 분사의 능동 vs. 수동
+Point 13 수식받는 명사와의 의미 관계를 파악하라!
+CASE 1 능동(v-ing) vs. 수동(p.p.)
+Point Exercise
+Point 14 분사구문의 의미상 주어를 찾아라!
+CASE 1 능동(v-ing) vs. 수동(p.p.)
+CASE 2 with + (대)명사 + 분사
+Point Exercise
+Point 15 감정동사의 의미상 주어를 찾아라!
+CASE 1 능동(v-ing) vs. 수동(p.p.)
+Point Exercise
+UNIT Exercise
+갈무리 3
+
+UNIT 07 동사와 준동사
+Point 16 동사부터 찾아라!
+CASE 1 문장의 동사 vs. 준동사
+CASE 2 do vs. be
+Point Exercise
+Point 17 동사별로 취하는 목적어 형태를 알아두라!
+CASE 1 동사의 목적어: to부정사 또는 동명사
+CASE 2 동사의 목적어: to부정사와 동명사 모두 가능
+CASE 3 가목적어와 진목적어
+Point Exercise
+Point 18 목적격보어는 동사와 목적어를 동시에 고려하라!
+CASE 1 목적어와 목적격보어가 능동관계 vs. 수동관계
+Point Exercise
+UNIT Exercise
+
+UNIT 08 병렬구조와 비교구문
+Point 19 등위접속사 + 네모는 병렬구조를 묻는다!
+CASE 1 등위접속사 and, or, but으로 연결된 병렬구조
+Point Exercise
+Point 20 비교구문의 종류별 의미와 표현에 주목하라!
+CASE 1 원급 vs. 비교급 vs. 최상급
+CASE 2 as 형용사/부사 as
+CASE 3 비교 대상의 병렬구조
+Point Exercise
+UNIT Exercise
+갈무리 4
+
+UNIT 09 쓰임상의 구분 Ⅰ
+Point 21 형용사와 부사 역할을 구분하라!
+CASE 1 형용사 vs. 부사
+CASE 2 의미와 쓰임에 주의해야 할 부사
+CASE 3 형용사를 보어로 취하는 동사
+Point Exercise
+Point 22 전치사와 접속사를 혼동하지 마라!
+CASE 1 전치사 자리와 접속사 자리
+CASE 2 to v-ing vs. v
+CASE 3 like vs. alike
+Point Exercise
+UNIT Exercise
+
+UNIT 10 쓰임상의 구분 Ⅱ
+Point 23 접속사, 관계대명사, 관계부사의 역할을 구분하라!
+CASE 1 that vs. what Ⅰ- 둘 다 명사절을 이끄는 경우
+CASE 2 that vs. what Ⅱ - that이 관계대명사인 경우
+CASE 3 보충 설명하는 관계사절
+CASE 4 관계대명사의 격과 선행사 구분
+CASE 5 관계대명사 vs. 대명사
+CASE 6 관계대명사 vs. 관계부사/전치사 + 관계대명사
+UNIT Exercise
+갈무리 5
+
+PART II 밑줄 어법
+UNIT 01 동사 밑줄
+포인트 감 잡기
+1 주어 - 동사의 수일치
+2 시제
+3 조동사와 법
+4 태
+5 병렬구조
+UNIT Exercise
+
+UNIT 02 명사 / 대명사 밑줄
+포인트 감 잡기
+1 대명사의 일치
+2 명사와 수식어의 수일치
+UNIT Exercise
+갈무리 1
+
+UNIT 03 형용사 / 부사 밑줄
+포인트 감 잡기
+1 형용사, 부사 자리 구분
+2 비교급 수식 부사
+UNIT Exercise
+
+UNIT 04 비교구문 밑줄
+포인트 감 잡기
+1 원급, 비교급, 최상급 형태 구분
+2 비교대상의 병렬구조
+3 비교급 관용 표현
+UNIT Exercise
+갈무리 2
+UNIT 05 v-ing / p.p. 밑줄
+포인트 감 잡기
+1 능동ㆍ수동 구분
+2 동사 자리 vs. 준동사 자리
+3 병렬구조
+4 문장의 주요소로 쓰이는 v-ing
+5 빈출 표현
+UNIT Exercise
+
+UNIT 06 부정사 밑줄
+포인트 감 잡기
+1 목적격보어로 쓰이는 부정사
+2 동사의 목적어: to부정사
+3 진주어 / 진목적어
+4 to부정사의 역할 / to부정사 관련 표현
+UNIT Exercise
+갈무리 3
+
+UNIT 07 전치사 / 접속사 밑줄
+포인트 감 잡기
+1 전치사, 접속사 구분
+2 주의해야 할 전치사와 접속사
+UNIT Exercise
+UNIT 08 wh- / that 밑줄
+포인트 감 잡기
+1 wh-
+2 that 1
+UNIT Exercise
+갈무리 4

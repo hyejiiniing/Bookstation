@@ -1,0 +1,40 @@
+ㆍ prologue
+ㆍ how to use this book
+
+Chapter 1. 오선보의 구성 요소
+01. 음자리표(Clef)
+02. 조표와 임시표
+03. 박자표와 음의 길이
+04. 반복 기호
+05. 아티큘레이션과 세로줄
+연습 문제 1
+
+Chapter 2. 선율·화성의 구성 요소
+01. 음정(Interval)
+02. 음정의 변화
+03. 복합 음정
+04. 조성(Tonality)
+05. 5도권, 이명동음조, 관계조
+06. 스케일(Scale)
+07. 3화음(Triad Chord)
+08. 7화음(7th Chord)
+09. 텐션(Tension)
+10. 모드(Mode)
+연습 문제 2
+
+Chapter 3. 화성 진행의 구성 요소
+01. 다이아토닉 코드(Diatonic Chord)
+02. 마이너 다이아토닉 코드
+03. 코드 진행
+04. 세컨더리 도미넌트(Secondary Dominant)
+05. Related iim7
+06. 증4도 대리 화음(Substitute Dominant)
+07. 모달 인터체인지(Modal Interchange)
+08. 특수 스케일
+09. 전조(조바꿈)와 이조(조옮김)
+연습 문제 3
+
+Chapter 4. 종합 문제
+01. 종합 문제 1
+02. 종합 문제 2
+답안

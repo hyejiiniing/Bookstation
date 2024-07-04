@@ -1,0 +1,62 @@
+: BASIC LESSON 1
+01. 기본 재료
+02. 맛과 풍미를 더하는 재료
+03. 응고제
+04. 필수 도구
+
+: BASIC LESSON 2
+01. 생크림의 휘핑 정도에 따른 사용
+02. 시트 재단
+03. 샌딩
+04. 아이싱
+05. 크림의 사용 기한
+06. 케이크 깔끔하게 자르기
+07. 조각 케이크 포장하기
+
+CLASS 01. 제누아즈 GENOISE
+01. 딸기 케이크 STRAWBERRY CAKE
+02 딸기 바나나 레몬 케이크 STRAWBERRY & BANANA & LEMON CAKE
+03. 피스타치오 딸기 케이크 PISTACHIO & STRAWBERRY CAKE
+04. 블루베리 레몬 케이크 BLUEBERRY & LEMON CAKE
+05. 청포도 요거트 케이크 GREEN GRAPE & YOGURT CAKE
+06. 토마토 우유 케이크 TOMATO & MILK CAKE
+07. 살구 코코넛 케이크 APRICOT & COCONUT CAKE
+08. 자두 케이크 PLUM CAKE
+09. 샹그리아 케이크 SANGRIA CAKE
+10. 얼그레이 오렌지 케이크 EARL GREY & ORANGE CAKE
+11. 바닐라 타탕 케이크 VANILLA & TATIN CAKE
+12. 메이플 호두 케이크 MAPLE & WALNUT CAKE
+13. 맘모스 케이크 MAMMOTH CAKE
+14. 흑당 강정 크럼블 케이크 MUSCOVADO GANGJEONG CRUMBLE CAKE
+15. 흑당, 럼, 그리고 밤 MUSCOVADO & RUM & CHESTNUT CAKE
+16. 흑임자 카페 케이크 BLACK SESAME & CAFE CAKE
+17. 피넛버터 젤리 케이크 PEANUT BUTTER & JELLY CAKE
+18. 유자 쇼콜라 케이크 YUJA & CHOCOLAT CAKE
+19. 둘세 피칸 금귤 케이크 DULCEY & PECAN & KUMQUAT CAKE
+20. 산딸기 케이크 WILD BERRY CAKE
+21. 단호박 오렌지 케이크 SWEET PUMPKIN & ORANGE CAKE
+22. 당근 케이크 CARROT CAKE
+
+CLASS 02. 비스퀴 BISCUIT
+23. 딸기 쑥 케이크 STRAWBERRY & MUGWORT CAKE
+24. 금귤 민트 프로마주 KUMQUAT & MINT FROMAGE
+25. 키위 바나나 쇼콜라 케이크 KIWI & BANANA & CHOCOLAT CAKE
+26. 모카 크럼블 케이크 MOCHA CRUMBLE CAKE
+27. 고르곤졸라 케이크 GORGONZOLA CAKE
+28. 무화과 프레지에 FIG FRAISIER
+29. 오이 멜론 케이크 CUCUMBER & MELON CAKE
+
+CLASS 03. 수플레 SOUFFLE
+30. 피오 케이크 PISTACHIO & ORANGE CAKE
+31. 말차파시통통 케이크 MATCHA & RED BEANS CAKE
+32. 유자 단자 케이크 YUZA DANJA CAKE
+
+CLASS 04. 시폰 CHIFFON
+33. 순백 토르테 PURE WHITE TORTE
+34. 진저 파인 케이크 GINGER & PINEAPPLE CAKE
+35. 홍시 망고 케이크 PERSIMMON & MANGO CAKE
+
+CLASS 05. 티라미수 TIRAMISU
+36. 클래식 티라미수 CLASSIC TIRAMISU
+37. 수박 티라미수 WATERMELON TIRAMISU
+38. 수정과 티라미수 SUJEONGGWA TIRAMISU

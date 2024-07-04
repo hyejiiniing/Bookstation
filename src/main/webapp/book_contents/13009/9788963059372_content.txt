@@ -1,0 +1,53 @@
+1장 Morning Routine 아침 일과
+WEEK 01 기상 - It’s time to wake up. 일어날 시간이야.
+WEEK 02 배변 - Do you need to go to the bathroom? 화장실 가야 해?
+WEEK 03 아침 식사1 - Let's eat breakfast. 아침 먹자.
+WEEK 04 아침 식사2 - Just try one bite. 한 입만 먹어 봐.
+WEEK 05 양치 - Did you brush your teeth? 양치했어?
+WEEK 06 세수 - Go wash your face. 가서 세수해.
+WEEK 07 날씨 - How’s the weather today? 오늘 날씨 어때?
+WEEK 08 옷 입기 - What do you want to wear? 뭐 입고 싶어?
+
+2장 School 어린이집/유치원/학교
+WEEK 09 등원 준비 - You’re going to be late for school. 학교 늦겠다.
+WEEK 10 등원 - See you later, alligator. 나중에 봐요, 악어야.
+WEEK 11 하원 - How was school today? 오늘 학교는 어땠어?
+WEEK 12 학원 - Don't you have a promotion test this week? 이번 주에 승급 심사가 있지 않아?
+
+3장 Indoor Activities 실내 활동
+WEEK 13 미술 - It’s arts and crafts time. 미술 시간이야.
+WEEK 14 숨바꼭질 - Let’s play hide and seek. 숨바꼭질하자.
+WEEK 15 병원놀이 - Do you want to play doctor? 병원놀이 할래?
+WEEK 16 소방차 놀이 - Let’s play with fire trucks. 소방차 가지고 놀아요.
+WEEK 17 정리하기 - Put your things away. 물건을 제자리에 갖다 놓아요.
+WEEK 18 빨래 돕기 - Could you help me fold the laundry? 빨래 개는 걸 도와줄 수 있어?
+WEEK 19 책 읽기 - Which book do you want to read? 어떤 책을 읽고 싶어?
+WEEK 20 공부하기 - You have to finish your homework. 숙제를 다 마쳐야지.
+WEEK 21 영상 시청 - May I watch some TV? TV 좀 봐도 돼요?
+
+4장 Outdoor Activities 야외 활동
+WEEK 22 놀이터 - Let’s stop by the playground. 놀이터 들렀다 가자.
+WEEK 23 산책 - I want to go for a walk. 산책하러 가고 싶어.
+WEEK 24 길 건너기 - Raise your hand when crossing the street. 길을 건널 때 손을 들어.
+WEEK 25 차 안 - Put on your seat belt, please. 안전벨트를 매렴.
+WEEK 26 대중교통 - Can you find bus 7-1? 7-1번 버스를 찾을 수 있어?
+WEEK 27 장 보기 - I am going to the supermarket. 마트에 갈 거야.
+
+5장 Evening Routine 저녁 일과
+WEEK 28 간식 시간 - Do you want a snack? 간식 먹을래?
+WEEK 29 저녁 식사 - Please help me set the table. 식탁 차리는 걸 도와주렴.
+WEEK 30 목욕 - Get in the bathtub. 욕조에 들어가.
+WEEK 31 잠자기 - It’s past your bedtime. 너 잠잘 시간 지났어.
+
+6장 Daily Routine Extras 일상생활 추가
+WEEK 32 부상 - I hurt my knee. 무릎을 다쳤어요.
+WEEK 33 감기 - I don’t feel well. 몸이 안 좋아요.
+WEEK 34 감정 - What’s wrong, honey? 무슨 일이니, 아가야?
+WEEK 35 예절 - What’s the magic word? 어떻게 말해야 하지?
+
+7장 Special Events 특별 행사
+WEEK 36 생일 Happy birthday to you. 생일 축하해.
+WEEK 37 새해 - Do you have a New Year’s resolution? 새해 결심은 있어?
+WEEK 38 밸런타인데이 - Will you be my Valentine? 내 밸런타인이 되어 줄래?
+WEEK 39 핼러윈 - Trick or Treat! 과자 안 주면 장난칠 거예요!
+WEEK 40 크리스마스 - Would you like to decorate the Christmas tree? 크리스마스트리를 장식할래?

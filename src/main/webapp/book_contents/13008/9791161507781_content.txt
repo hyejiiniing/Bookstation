@@ -1,0 +1,87 @@
+[기초발음편]
+기초발음01. Dios mío. 세상에나.
+기초발음02. Café dulce. 달달한 커피.
+기초발음03. Me llamo Erica. 제 이름은 에리카예요.
+기초발음04. Ahora o nunca. 지금 아니면 못 해.
+기초발음05. Sin sal, por favor. 소금 빼고 주세요.
+기초발음06. Práctica (1)
+기초발음07. ¡Hola! 안녕하세요!
+기초발음08. ¿Cómo estás? 어떻게 지내?
+기초발음09. ¡Hasta luego! 다음에 봐!
+기초발음10. ¡Muchas gracias! 정말 감사합니다!
+기초발음11. ¡Muy bien! 매우 좋아요!
+기초발음12. Práctica (2)
+
+[본편]
+01. Yo soy Sara. 나는 사라예요.
+02. Nosotros somos coreanos. 우리는 한국인이에요.
+03. Él es estudiante. 그는 학생이에요.
+04. ¿Eres Erica? 너는 에리카니?
+05. Lucas no es actor. 루카스는 배우가 아니에요.
+06. Práctica ① 연습문제
+07. Él es alto. 그는 키가 커요.
+08. Erica es amable. 에리카는 친절해요.
+09. Estoy alegre. 나는 기뻐요.
+10. Estamos muy cansados. 우리는 매우 피곤해요.
+11. Lucas está en casa. 루카스는 집에 있어요.
+12. Práctica ② 연습문제
+13. Yo hablo español. 나는 스페인어를 말해요.
+14. Lucas canta bien. 루카스는 노래를 잘해요.
+15. Yo aprendo pilates. 나는 필라테스를 배워요.
+16. Nosotros comemos pasta y pizza. 우리는 파스타와 피자를 먹어요.
+17. Ellos viven en Madrid. 그들은 마드리드에 살아요.
+18. Práctica ③ 연습문제
+19. Este hombre es Marcos. 이 남자는 마르코스예요.
+20. Lucas es mi familia. 루카스는 내 가족이에요.
+21. Marcos trabaja en un restaurante. 마르코스는 한 식당에서 일해요.
+22. El amigo de Erica cocina bien. 에리카의 그 친구는 요리를 잘해요.
+23. La hermana de Marcos es una actriz famosa. 마르코스의 여자 형제는 유명한 배우예요.
+24. Práctica ④ 연습문제
+25. Somos cuatro personas. 우리들은 4명이에요.
+26. Ahora es la una. 지금 1시예요.
+27. Son doscientos euros. 200유로예요.
+28. Hoy es lunes. 오늘은 월요일이에요.
+29. Este mes es diciembre. 이번 달은 12월이에요.
+30. Práctica ⑤ 연습문제
+31. Hay una cafetería aquí. 여기에 카페가 하나 있어요.
+32. Hay que disfrutar la vida. 인생을 즐겨야 해요.
+33. Él tiene una cita. 그는 약속이 있어요.
+34. Tengo mucha prisa. 나는 많이 급해요.
+35. Tienes que esperar un poco. 너는 조금 기다려야 해.
+36. Práctica ⑥ 연습문제
+37. Marcos va a México. 마르코스는 멕시코에 가요.
+38. Vamos a caminar. 우리 걷자.
+39. Yo hago ejercicio con un amigo. 나는 친구 한 명과 운동해요.
+40. ¡Mañana hace buen tiempo! 내일은 날씨가 좋아요!
+41. ¿Puedo hacer una reserva? 예약할 수 있나요?
+42. Práctica ⑦ 연습문제
+43. Queremos una cerveza. 우리는 맥주를 원해요.
+44. Quiero comer pollo frito. 나는 치킨을 먹고 싶어요.
+45. ¿Puedo pedir la paella? 빠에야를 주문해도 될까요?
+46. Él sabe cocinar comida coreana. 그는 한국 음식을 요리할 줄 알아요.
+47. Ella conoce ese restaurante español. 그녀는 그 스페인 식당에 가 봤어요.
+48. Práctica ⑧ 연습문제
+49. Los quiero mucho. 나는 그들을 많이 사랑해.
+50. Él nos pregunta todo. 그는 우리에게 다 물어봐요.
+51. Ella no me habla. 그녀는 나에게 말하지 않아요.
+52. Te lo doy. 나는 그것을 너에게 줄게.
+53. Erica es mi primera amiga española. 에리카는 나의 첫 번째 스페인 친구예요.
+54. Práctica ⑨ 연습문제
+55. ¿Quiénes son ellos? 그들은 누구인가요?
+56. ¿Cuándo comemos? 우리는 언제 밥을 먹나요?
+57. ¿Dónde está Lucas? 루카스는 어디에 있나요?
+58. ¿Qué es esto? 이것은 무엇인가요?
+59. ¿Cuál quiere usted? 어떤 것을 원하시나요?
+60. Práctica ⑩ 연습문제
+61. ¿Cómo andamos? 어떻게 지내?
+62. ¿Cuánto cuestan estas manzanas? 이 사과들은 얼마인가요?
+63. ¿Por qué estás ocupado? 너는 왜 바쁘니?
+64. Voy a casa de Erica en autobús. 버스를 타고 에리카 집에 가요.
+65. Yo aprendo español para viajar. 나는 여행 가려고 스페인어를 배워요.
+66. Práctica ⑪ 연습문제
+67. España está lejos de aquí. 스페인은 여기서 멀리 있어요.
+68. México es más grande que Corea. 멕시코는 한국보다 더 커요.
+69. Hoy hace tanto calor como ayer. 오늘은 어제만큼 더워요.
+70. ¡Eres el mejor! 네가 최고야!
+71. Lo importante es la mente. 중요한 것은 마음이에요.
+72. Práctica ⑫ 연습문제

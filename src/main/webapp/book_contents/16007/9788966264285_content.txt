@@ -1,0 +1,28 @@
+Chapter 1 친한 친구와의 대화
+Chapter 2 부호와 조합
+Chapter 3 점자와 이진 부호
+Chapter 4 전등을 분해해 봅시다
+Chapter 5 가까운 거리에서 이야기하기
+Chapter 6 논리와 스위치
+Chapter 7 전신과 릴레이
+Chapter 8 릴레이와 논리 게이트
+Chapter 9 우리가 사용하는 열 개의 숫자들
+Chapter 10 십진수 이외의 것
+Chapter 11 비트, 비트, 비트
+Chapter 12 바이트와 16진수
+Chapter 13 ASCII에서 유니코드까지
+Chapter 14 논리 게이트로 덧셈하기
+Chapter 15 실제로도 그럴까?
+Chapter 16 그렇다면 뺄셈은 어떨까요?
+Chapter 17 피드백과 플립플롭
+Chapter 18 시계를 만들어 봅시다
+Chapter 19 메모리를 만들어 봅시다
+Chapter 20 연산을 자동화시키기
+Chapter 21 산술 논리 장치
+Chapter 22 레지스터와 버스
+Chapter 23 CPU의 제어 신호들
+Chapter 24 루프, 분기, 그리고 호출
+Chapter 25 주변 장치들
+Chapter 26 운영체제
+Chapter 27 코딩
+Chapter 28 월드 브레인

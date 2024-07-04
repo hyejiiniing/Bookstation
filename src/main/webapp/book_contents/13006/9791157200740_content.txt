@@ -1,0 +1,6 @@
+Part 01 Pattern 001-020
+Part 02 Pattern 021-040
+Part 03 Pattern 041-060
+Part 04 Pattern 061-080
+Part 05 Pattern 081-100
+Part 06 Pattern 101-120

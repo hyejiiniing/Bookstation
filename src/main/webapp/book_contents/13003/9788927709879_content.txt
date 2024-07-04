@@ -1,0 +1,12 @@
+Mission 01. Preparing for a Meeting
+Mission 02. Giving Directions
+Mission 03. Picking Up a Client at the Airport
+Mission 04. Ordering Office Supplies
+Mission 05. Applying for a Training Session
+Mission 06. Asking for Time Off
+Mission 07. Dealing with a Customer’s Inquiry
+Mission 08. Asking for Some Repairs
+Mission 09. Sending a Sample
+Mission 10. Preparing for a Business Trip
+Mission 11. Holding a Work Party
+Mission 12. Asking for Expense Reimbursement

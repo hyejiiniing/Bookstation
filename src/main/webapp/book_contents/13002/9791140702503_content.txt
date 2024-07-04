@@ -1,0 +1,340 @@
+Part 1 네이티브가 즐겨 쓰는 생기초 패턴
+
+Chapter 01 I’m ~.
+Pattern 001 I’m kind of ~.
+Pattern 002 I’m here to ~.
+Pattern 003 I’m about to ~.
+Pattern 004 I’m dying to ~.
+Pattern 005 I’m okay with ~.
+Pattern 006 I’m ready to ~.
+Pattern 007 I’m good at ~.
+Pattern 008 I’m on ~.
+Pattern 009 I’m happy with ~.
+Review Pattern 001 ~ 009
+
+Chapter 02 Do you ~?
+Pattern 010 Do you like ~?
+Pattern 011 Do you know ~?
+Pattern 012 Do you want to ~?
+Pattern 013 Do you feel like ~?
+Pattern 014 Do you think ~?
+Pattern 015 Do you need ~?
+Pattern 016 Do you remember ~?
+Review Pattern 010 ~ 016
+
+Chapter 03 think ~.
+Pattern 017 think ~.
+Pattern 018 don’t think ~.
+Pattern 019 think I’m going to ~.
+Pattern 020 think we should ~.
+Pattern 021 think I’ve got ~.
+Pattern 022 I’m thinking about ~.
+Pattern 023 I thought you ~.
+Review Pattern 017 ~ 023
+
+Chapter 04 like ~.
+Pattern 024 I like ~.
+Pattern 025 I like to ~.
+Pattern 026 I like -ing ~.
+Pattern 027 I really like ~.
+Pattern 028 I like your ~..
+Pattern 029 I don’t like ~.
+Pattern 030 I don’t really like ~.
+Pattern 031 I like the way ~.
+Pattern 032 I’d like ~.
+Review Pattern 024 ~ 032
+
+Chapter 05 Would you like ~? / Would you mind -ing ~?
+Pattern 033 Would you like ~?
+Pattern 034 Would you like to ~?
+Pattern 035 Would you like some ~?
+Pattern 036 Would you like me to ~?
+Pattern 037 What would you like to ~?
+Pattern 038 Where would you like to ~?
+Pattern 039 Would you like to think about ~?
+Pattern 040 Would you mind -ing ~?
+Review Pattern 033 ~ 040
+
+Part 2 현지에서 활용도가 높은 기본 패턴
+
+Chapter 06 Don’t ~.
+Pattern 041 Don’t be ~.
+Pattern 042 Don’t be so ~.
+Pattern 043 Don’t forget to ~.
+Pattern 044 Don’t try to ~.
+Pattern 045 Don’t even ~.
+Pattern 046 Don’t even think about ~.
+Pattern 047 Don’t hesitate to ~.
+Pattern 048 Don’t you ever ~.
+Review Pattern 041 ~ 048
+
+Chapter 07 I’m sorry ~.
+Pattern 049 I’m sorry to ~.
+Pattern 050 I’m sorry about ~.
+Pattern 051 I’m sorry for ~.
+Pattern 052 I’m sorry I can’t ~.
+Pattern 053 I’m sorry, but ~.
+Pattern 054 I’m sorry to say ~.
+Pattern 055 I’m so sorry if I ~.
+Pattern 056 I feel sorry for ~.
+Review Pattern 049 ~ 056
+
+Chapter 08 Let me ~.
+
+Pattern 057 Let me ~.
+Pattern 058 Let me tell you ~.
+Pattern 059 Let me explain ~.
+Pattern 060 Let me know ~.
+Pattern 0 61 Let me see if ~.
+Pattern 062 Let me check ~.
+Pattern 063 Let me show ~.
+Pattern 064 Let me think about ~.
+Review Pattern 057 ~ 064
+
+Chapter 09 There is ~. / There are ~.
+Pattern 065 There is some ~.
+Pattern 066 There are so many ~.
+Pattern 067 There are a lot of ~.
+Pattern 068 There are a number of reasons ~.
+Pattern 069 Are there any ~?
+Pattern 070 Is there anything ~?
+Pattern 071 Are there many ~?
+Review Pattern 065 ~ 071
+
+Chapter 10 That’s ~.
+Pattern 072 That’s why ~.
+Pattern 073 That’s because ~.
+Pattern 0 74 That’s what ~.
+Pattern 075 That’s how ~.
+Pattern 0 76 That’s where ~.
+Pattern 077 That’s the way ~.
+Pattern 078 That’s no way to ~.
+Pattern 079 That’s exactly what ~.
+Pattern 080 That’s all I ~.
+Review Pattern 072 ~ 080
+
+
+Part 3 현지 일상생활에서 매일 쓰는 필수 기본 동사 패턴
+
+Chapter 11 Tell
+Pattern 081 Tell me ~.
+Pattern 082 Don’t tell me ~.
+Pattern 083 Let me tell you about ~.
+Pattern 084 I told you to ~.
+Pattern 085 I told you not to ~.
+Pattern 086 I was told to ~.
+Pattern 087 I can tell by ~.
+Pattern 088 You are telling me ~.
+Review Pattern 081 ~ 088
+
+Chapter 12 Know
+Pattern 089 I know ~.
+Pattern 090 I know what you ~.
+Pattern 091 I know how to ~.
+Pattern 092 Do you know how to ~?
+Pattern 093 I’ve known ~.
+Pattern 094 I’ll let you know ~.
+Review Pattern 089 ~ 094
+
+Chapter 13 감정표현 동사
+
+Pattern 095 Care for ~?
+Pattern 096 I don’t care ~.
+Pattern 097 He cares about ~.
+Pattern 098 Do you mind if I ~? ~
+Pattern 099 I don’t mind ~.
+Pattern 100 I didn’t mean to ~.
+Pattern 101 Do you mean ~?
+Pattern 102 That means ~?
+Pattern 103 Thank you for ~.
+Pattern 104 Thanks a lot for ~.
+Review Pattern 095 ~104
+
+Chapter 14 감각표현 동사
+
+Pattern 105 I feel ~.
+Pattern 106 I don’t feel like ~.
+Pattern 107 You look ~.
+Pattern 108 Feel free to ~.
+Pattern 109 It looks like ~.
+Pattern 11 0 It seems like ~.
+Pattern 111 That sounds ~.
+Pattern 112 It tastes ~.
+Review Pattern 105 ~112
+
+Chapter 15 네이티브만 쓰는 동사
+
+Pattern 113 I wish I could ~.
+Pattern 114 I wish I were ~.
+Pattern 115 I swear ~.
+Pattern 116 I’ll see if ~.
+Pattern 117 I was wondering if ~.
+Pattern 118 I guess I was ~.
+Pattern 119 Hit ~.
+Pattern 120 Forget about ~.
+Pattern 121 I’m heading ~.
+Pattern 122 Please remind me to ~.
+Review Pattern 113 ~122
+
+Part 4 Perfect Timing(퍼펙트 타이밍) Perfect 의문사 패턴
+
+Chapter 16 What ~?
+Pattern 123 What if ~?
+Pattern 124 What makes you ~?
+Pattern 125 What do you think of ~?
+Pattern 126 What do you want to ~?
+Pattern 127 What are you trying to ~?
+Pattern 128 What’s the best way to ~?
+Pattern 129 What do you mean by ~?
+Pattern 130 What happened to ~?
+Review Pattern 123 ~130
+
+Chapter 17 Where ~? / When ~?
+Pattern 131 Where are ~?
+Pattern 132 Where did you get ~?
+Pattern 133 Where have you ~?
+Pattern 134 Where is the best place to ~?
+Pattern 135 Where should we ~?
+Pattern 136 When did you ~?
+Pattern 137 When was the last time ~?
+Pattern 138 When is the best time ~?
+Review Pattern 131 ~138
+
+Chapter 18 Who ~? / Which ~?
+Pattern 139 Who wants to ~?
+Pattern 14 0 I wonder who ~.
+Pattern 141 I wonder which ~.
+Pattern 142 It doesn’t matter which ~.
+Pattern 143 Can anyone tell me which ~?
+Pattern 144 Is there anyone who ~?
+Pattern 145 Which way is ~?
+Review Pattern 139 ~145
+
+Chapter 19 How ~?
+Pattern 146 How come ~?
+Pattern 147 How could you ~?
+Pattern 148 How did ~ go?
+Pattern 149 How often do you ~?
+Pattern 150 How long have you been ~?
+Pattern 151 How long will you ~?
+Pattern 152 How many times ~?
+Pattern 153 How am I supposed to ~?
+Pattern 154 How long before ~?
+Review Pattern 146 ~154
+
+Chapter 20 의문사 변형 패턴
+Pattern 155 Everyone knows why ~.
+Pattern 156 How about if ~?
+Pattern 157 Call me when ~.
+Pattern 158 We’ll never know when ~.
+Pattern 159 Where do you think I should ~?
+Pattern 160 I can’t imagine who ~.
+Pattern 161 I can’t decide which ~.
+Pattern 162 When would be a good time ~?
+Review Pattern 155 ~162
+
+Part 5 상황에 맞게 골라 쓰는 네이티브 패턴
+
+Chapter 21 I’d better ~.
+Pattern 163 I’d better ~.
+Pattern 164 I’d better not ~.
+Pattern 165 You’d better ~.
+Pattern 166 You’d better hope ~.
+Pattern 167 I think you’d better ~. ~
+Pattern 168 I guess we’d better ~.
+Pattern 169 It’s better than ~.
+Pattern 170 It’s better for me to ~.
+Review Pattern 163 ~170
+
+Chapter 22 I have p.p. ~.
+Pattern 171 I have heard ~.
+Pattern 172 I have never heard ~.
+Pattern 173 I have seen ~.
+Pattern 174 I have been ~.
+Pattern 175 I have never ~.
+Pattern 176 I have already ~.
+Pattern 177 I have just finished ~.
+Pattern 178 I haven’t ~.
+Pattern 179 I haven’t been -ing ~.
+Review Pattern 171 ~179
+
+Chapter 23 I’m sure ~.
+Pattern 180 I’m sure ~.
+Pattern 181 I’m quite sure ~.
+Pattern 182 I’m not sure ~.
+Pattern 183 I’m not sure of ~.
+Pattern 184 I’m not sure what ~.
+Pattern 185 Are you sure ~?
+Pattern 186 Are you sure you don’t ~?
+Pattern 187 I know, but I’m sure ~.
+Review Pattern 180 ~187
+
+Chapter 24 All I ~.
+Pattern 188 All I need is ~.
+Pattern 189 All I know is ~..
+Pattern 190 All I can say is ~.
+Pattern 191 All I’m saying is ~.
+Pattern 192 All you have to do is ~.
+Review Pattern 188 ~192
+
+Chapter 25 No one ~. / Nobody ~..
+Pattern 193 No one ~.
+Pattern 194 No one will ~.
+Pattern 195 Nobody can ~.
+Pattern 196 Nobody said ~.
+Pattern 197 No one would ~.
+Pattern 198 No one gives ~.
+Pattern 199 Nobody cares ~.
+Pattern 200 No one can know about ~.
+Review Pattern 193 ~ 200
+
+Part 6 온라인 활용도 100% 기본 패턴
+
+Chapter 26 What I really ~.
+
+Pattern 201 What I really want is ~.
+Pattern 202 What I really need is ~.
+Pattern 203 What I really think is ~.
+Pattern 204 What I really mean is ~.
+Pattern 205 What I really care about is ~.
+Pattern 206 What I really need from you is ~.
+Review Pattern 201 ~ 206
+
+Chapter 27 Say
+Pattern 207 I’d like to say ~.
+Pattern 208 Please say ~.
+Pattern 209 I’m just saying that ~.
+Pattern 210 What I’m trying to say is ~.
+Pattern 211 What do you say ~?
+Pattern 212 Are you saying ~?
+Pattern 213 I wouldn’t say ~.
+Review Pattern 207 ~ 213
+
+Chapter 28 필수 부사 패턴
+Pattern 214 I’m absolutely ~.
+Pattern 215 This is totally ~.
+Pattern 216 I’d rather ~.
+Pattern 217 I’m definitely -ing ~.
+Pattern 218 I probably ~.
+Pattern 219 I’ll never ~.
+Pattern 220 Is there enough ~?
+Review Pattern 214 ~ 220
+
+Chapter 29 It’s time ~.
+Pattern 221 It’s time to ~.
+Pattern 222 It’s time for ~.
+Pattern 223 My time is ~.
+Pattern 224 Take some time ~.
+Pattern 225 Maybe it’s time ~.
+Pattern 226 The best time to ~.
+Pattern 227 This is the last time ~.
+Review Pattern 221 ~ 227
+
+Chapter 30 화상회의 필수 네이티브 패턴
+Pattern 228 Whatever ~.
+Pattern 229 Whoever ~.
+Pattern 230 Whenever ~.
+Pattern 231 Wherever ~.
+Pattern 232 No matter what ~.
+Pattern 233 No matter how ~.
+Review Pattern 228 ~ 233

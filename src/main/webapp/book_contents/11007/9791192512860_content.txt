@@ -1,0 +1,66 @@
+Chapter 1 GR III / GR IIIx의 기본을 알자
+Section 01 GR III / GR IIIx의 각 부위 명칭을 알아보자
+Section 02 GR III / GR IIIx를 준비하자
+Section 03 GR III / GR IIIx의 촬영 자세를 익히자
+Section 04 GR III / GR IIIx의 기본 조작을 익히자
+Section 05 터치패널 조작을 익히자
+Section 06 우선 촬영부터 해보자
+Section 07 촬영한 이미지를 확인해보자
+Section 08 촬영한 이미지를 삭제하자
+Section 09 촬영 모드를 알아보자
+Column 동영상을 촬영해보자
+
+Chapter 2 초점과 구도의 기본을 알자
+Section 01 초점의 기본을 알아보자
+Section 02 포커스의 기본 조작을 이해하자
+Section 03 얼굴/눈 검출로 촬영해보자
+Section 04 측거점을 지정하여 촬영해보자
+Section 05 MF 방식을 이해하자
+Section 06 구도의 기본 표현을 이해하자
+Section 07 크롭을 잘 활용하자
+Section 08　포지션과 앵글을 이해하자
+Column ADJ 레버를 잘 활용하자
+
+Chapter 3 노출을 활용해 작품을 만들어보자
+Section 01 노출의 기본을 알아보자
+Section 02 측광 모드로 노출을 맞추자
+Section 03 노출 모드를 설정하고 촬영하자
+Section 04 프로그램 AE 모드를 사용해보자
+Section 05 셔터 우선 AE 모드를 사용해보자
+Section 06 조리개 우선 AE 모드를 사용해보자
+Section 07 수동 노출 모드를 사용해보자
+Section 08 노출 보정을 잘 활용하자
+Section 09 ISO 감도를 잘 활용하자
+Section 10 빛의 차이를 이해하자
+
+Chapter 4 GR III / GR IIIx의 개성적인 기능을 즐기자
+Section 01 화상 컨트롤을 잘 활용하자
+Section 02 화이트 밸런스를 설정하자
+Section 03 다이나믹 레인지 보정을 사용하자
+Section 04 컨버전 렌즈를 잘 활용하자
+Section 05 ND 필터를 사용하자
+Section 06 완전 누름 스냅을 사용하자
+Section 07 인터벌 합성을 사용하자
+Section 08 다중 노출로 촬영해보자
+Section 09 주변 광량 보정을 사용하자
+Section 10 좋아하는 설정을 등록하자
+
+Chapter 5 장면별 촬영 기법
+Section 01 야외에서 인물을 찍자
+Section 02 실내에서 인물을 찍자
+Section 03 도시의 스냅을 찍자
+Section 04 테이블 사진을 예쁘게 찍자
+Section 05 꽃을 아름답게 찍자
+Section 06 자연 풍경을 인상적으로 찍자
+Section 07 저녁 풍경을 감성적으로 찍자
+Section 08 야경을 예쁘게 찍자
+Section 09 요리를 맛있게 찍자
+Section 10 매크로의 세계를 찍자
+
+Chapter 6 촬영 외의 기능도 잘 활용하자
+Section 01 스마트폰과 연동하자
+Section 02 재생 데이터를 관리해보자
+Section 03 동영상을 편집해보자
+Section 04 RAW 현상의 기본을 알아보자
+Section 05 카메라 내에서 RAW 현상을 해보자
+Section 06 JPEG 이미지를 편집해보자

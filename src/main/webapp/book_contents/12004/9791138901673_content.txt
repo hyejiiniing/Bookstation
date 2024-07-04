@@ -1,0 +1,54 @@
+DAY 01 0001 ~ 0020 Special Selection 다의어 1
+DAY 02 0021 ~ 0040 Special Selection 다의어 2
+DAY 03 0041 ~ 0060 Special Selection 다의어 3
+DAY 04 0061 ~ 0080 Special Selection 다의어 4
+DAY 05 0081 ~ 0100 Special Selection 다의어 5
+DAY 06 0101 ~ 0120 Special Selection 다의어 6
+DAY 07 0121 ~ 0140 Special Selection 다의어 7
+DAY 08 0141 ~ 0160 Special Selection 다의어 8
+DAY 09 0161 ~ 0180 Special Selection 다의어 9
+DAY 10 0181 ~ 0200 Special Selection 다의어 10
+DAY 11 0201 ~ 0220 Special Selection 다의어 11
+DAY 12 0221 ~ 0240 Special Selection 다의어 12
+DAY 13 0241 ~ 0260 Special Selection 다의어 13
+DAY 14 0261 ~ 0280 Special Selection 다의어 14
+DAY 15 0281 ~ 0300 Special Selection 다의어 15
+DAY 16 0301 ~ 0320 Special Selection 다의어 16
+DAY 17 0321 ~ 0340 Special Selection 다의어 17
+DAY 18 0341 ~ 0360 Special Selection 다의어 18
+DAY 19 0361 ~ 0380 Special Selection 다의어 19
+DAY 20 0381 ~ 0400 Special Selection 다의어 20
+DAY 21 0401 ~ 0420 Special Selection 다의어 21
+DAY 22 0421 ~ 0440 Special Selection 다의어 22
+DAY 23 0441 ~ 0460 Special Selection 다의어 23
+DAY 24 0461 ~ 0480 Special Selection 다의어 24
+DAY 25 0481 ~ 0500 Special Selection 다의어 25
+DAY 26 0501 ~ 0520 Special Selection 동사구 1
+DAY 27 0521 ~ 0540 Special Selection 동사구 2
+DAY 28 0541 ~ 0560 Special Selection 동사구 3
+DAY 29 0561 ~ 0580 Special Selection 동사구 4
+DAY 30 0581 ~ 0600 Special Selection 동사구 5
+DAY 31 0601 ~ 0620 Special Selection 동사구 6
+DAY 32 0621 ~ 0640 Special Selection 동사구 7
+DAY 33 0641 ~ 0660 Special Selection 동사구 8
+DAY 34 0661 ~ 0680 Special Selection 동사구 9
+DAY 35 0681 ~ 0700 Special Selection 동사구 10
+DAY 36 0701 ~ 0720 Special Selection 동사구 11
+DAY 37 0721 ~ 0740 Special Selection 동사구 12
+DAY 38 0741 ~ 0760 Special Selection 동사구 13
+DAY 39 0761 ~ 0780 Special Selection 동사구 14
+DAY 40 0781 ~ 0800 Special Selection 동사구 15
+DAY 41 0801 ~ 0820 Special Selection 동사구 16
+DAY 42 0821 ~ 0840 Special Selection 동사구 17
+DAY 43 0841 ~ 0860 Special Selection 동사구 18
+DAY 44 0861 ~ 0880 Special Selection 동사구 19
+DAY 45 0881 ~ 0900 Special Selection 동사구 20
+DAY 46 0901 ~ 0920 Special Selection 혼동하기 쉬운 단어 짝 1
+DAY 47 0921 ~ 0940 Special Selection 혼동하기 쉬운 단어 짝 2
+DAY 48 0941 ~ 0960 Special Selection 혼동하기 쉬운 단어 짝 3
+DAY 49 0961 ~ 0980 Special Selection 혼동하기 쉬운 단어 짝 4
+DAY 50 0981 ~ 1000 Special Selection 혼동하기 쉬운 단어 짝 5
+고난도 -ing 형용사
+선지에 나오는 중요한 명사 구분
+전치사적으로 쓰이는 표현
+out이 들어가는 동사 합성어

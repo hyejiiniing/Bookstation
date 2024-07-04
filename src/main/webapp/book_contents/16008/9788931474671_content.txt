@@ -1,0 +1,55 @@
+Chapter 01 Power Automate란 무엇인가?
+Section 01 Microsoft Power Platform
+Section 02 Power Automate 구성 요소
+Section 03 Power Automate 활용 사례
+
+Chapter 02 Power Automate 시작하기
+Section 01 Power Automate 홈페이지 살펴보기
+Section 02 Power Automate 모바일 앱 살펴보기
+Section 03 첫 번째 클라우드 흐름 만들기
+Section 04 클라우드 흐름 수정하고 테스트하기
+
+Chapter 03 파일 업무 자동화
+Section 01 파일 백업하기
+Section 02 선택한 파일 포맷 변환하기
+Section 03 일괄 파일 포맷 변환하기
+Section 04 알림 보내기
+
+Chapter 04 이메일 업무 자동화
+Section 01 이메일 첨부 파일 자동 저장하기
+Section 02 고객으로부터 이메일을 받으면 Teams 알림 보내기
+Section 03 반복 이메일 자동화하기
+Section 04 연락처 만들기
+
+Chapter 05 엑셀 업무 자동화
+Section 01 엑셀 표 자동 저장하기
+Section 02 엑셀 합계 구하기
+Section 03 엑셀 목록으로 자동 이메일 발송하기
+
+Chapter 06 워드와 PDF 업무 자동화
+Section 01 엑셀 파일에서 워드 파일 만들기
+Section 02 연차 사용 안내 메일 발송 흐름 만들기
+
+Chapter 07 신청 업무 자동화
+Section 01 설문 작성 및 엑셀 파일 만들기
+Section 02 설문 결과를 엑셀에 저장하고 이메일 회신하는 흐름 만들기
+Section 03 코로나 자가진단 설문 및 엑셀 파일 작성하기
+Section 04 안내 메일 발송 및 Team 채널 게시 흐름 만들기
+
+Chapter 08 협업 업무 시스템 만들기
+Section 01 코로나 자가진단 흐름 Lists에 추가 저장하기
+Section 02 코로나 자가진단 흐름 설정 변경하기
+Section 03 근태 승인 목록 만들기
+Section 04 근태 승인 흐름 만들기
+Section 05 근태 승인 테스트
+
+Chapter 09 AI를 활용한 업무 자동화
+Section 01 AI Builder란 무엇인가?
+Section 02 명함에서 정보 추출하기
+Section 03 문서 정보 추출 AI 모델 만들기
+Section 04 계약서에서 정보 추출하기
+
+Chapter 10 Power Automate 유용한 지식
+Section 01 흐름 공유하기
+Section 02 흐름 모니터링하기
+Section 03 표현식에 대해 알아보자

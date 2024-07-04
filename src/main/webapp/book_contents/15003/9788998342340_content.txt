@@ -1,0 +1,7 @@
+JOURNEY 1 오스트레일리아
+JOURNEY 2 동남아시아
+JOURNEY 3 유라시아
+JOURNEY 4 유럽
+JOURNEY 5 아프리카
+JOURNEY 6 남미와 북미
+JOURNEY FINAL 일본

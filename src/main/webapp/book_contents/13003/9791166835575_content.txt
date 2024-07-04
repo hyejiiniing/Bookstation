@@ -1,0 +1,163 @@
+제1부 계약 속 협상 상황
+Chapter 1 협상의 진수, 계약 협상
+1 협상 일반론과 계약 협상의 흐름 이해
+2 계약 협상의 승패를 가르는 배경 요인
+Chapter 2 계약 협상 준비
+1 이메일과 회의록의 힘
+2 쟁점 & 의제의 설정과 그룹화
+3 협상의 우선순위 미리 챙기기
+4 계약서 검토를 위한 기술
+Chapter 3 계약 협상 본 단계
+1 서식 전쟁에서 기선 잡기
+2 거래 조건별 협상 리스트
+3 계약 협상의 10가지 포인트
+4 Minutes of Meeting(MOM), 회의록 작성
+Chapter 4 돌발 변수와 대처 방법
+1 계약 내용을 바꾸어야 할 때
+2 영문 계약서에 자국어 번역본이 첨부되어야 한다고 할 때
+3 우리 계약서에 상대측의 표준 거래 조건을 함께 붙이자고 요구할 때
+4 현재 상황에서 어떻게 하는 것이 유리할지 불분명할 때
+5 거래처의 계약 이행 태만을 꼬집고 싶을 때
+6 소송 서류가 접수될 때
+7 계약 대금 인하 요청이 올 때
+8 전략 물자의 수출과 수입에서 겪는 상황
+9 협상이 교착 상태에 있을 때
+10 고객이 터무니없이 높은 지연 배상액을 요구할 때
+11 독점권을 주장해올 때
+
+제2부 협상의 열매, 계약서
+Chapter 1 계약서 구성
+1 Agreement가 좋을까, Contract가 좋을까
+2 당사자 표시
+3 계약서 첫 문장부터 괴롭히는 Whereas와 Witnesseth
+4 용어의 통일, 정의 조항 활용
+5 계약 기간의 설정 방법
+6 통지 조항의 체크포인트
+7 계약의 소멸, 정상 종료와 해제
+8 불가항력의 상황
+9 정부 승인
+10 계약 내용의 이행을 강제하는 수단
+11 조세 문제
+12 지적재산권의 보호
+13 계약의 유효성을 보장하는 조항
+14 계약 종료 후에도 살아남는 조항
+15 완전 합의 조항
+16 A/S의 뜻에 더 가까운 Warranty
+17 보증 책임을 부인하는 조항
+18 통화 조항
+19 지불 조건
+20 양도 조항
+21 첨부 문서
+22 협상의 여지가 많은 기타 조항
+Chapter 2 실무 속 다양한 계약 서식
+1 위임장의 작성
+2 Term Sheet
+3 Letter of Comfort(LOC), Comfort Letter
+4 Letter of Commitment(LOC)
+5 Letter of Awareness
+6 Authorization To Proceed(ATP)
+7 Form printed on letterhead
+
+제3부 계약 불이행과 분쟁의 해결
+Chapter 1 계약 불이행과 손해배상
+1 계약 이행 과정에서 등장하는 불이행의 만상과 구제
+2 손해배상액의 일반적인 구성 방법
+3 손해배상액의 예정 조항을 구성하는 주요 포인트
+4 직접 손해 vs. 간접 손해(통상 손해 vs. 특별 손해)
+5 징벌적 손해배상
+6 Penalty와 Liquidated Damages는 완전히 다르다
+7 의도하지 않은 계약 불이행을 미리 피하는 유예 기간 조항
+Chapter 2 건너서는 안 될 강, 분쟁과 해결
+1 어느 나라 법원에서 다툴 것인가, 재판관할 합의(Jurisdiction)
+2 어느 나라 법에 따라 해석할 것인가 (Applicable law)
+3 외국 판결의 국내 집행 (Enforcement)
+Chapter 3 새로운 형태의 분쟁 해결, 중재와 ADR
+1 중재지의 선택
+2 중재 비용 및 기타 사항
+3 중재의 한계
+
+제4부 특수한 계약과 주요 이슈
+Chapter 1 계약서 종류와 주요 이슈
+1 일반 구매 계약(Purchasing Agreement/Purchase Order)
+2 VMI(Vendor Managed Inventory)
+3 고용 계약(Employment Agreement)
+4 대리점 계약(Agency / Distributorship / Reseller Agreement)
+5 기술 실시 계약(License Agreement)
+6 개발 용역 계약(Development Agreement)
+7 자문 계약(Consulting Agreement)
+8 OEM vs. ODM 계약
+9 임대차 계약(Lease Agreement)
+10 국제 운송 계약
+11 공동 사업 발굴 계약(Teaming Agreement)
+12 주식 배분 계약(Shareholder Agreement)
+13 산학연 공동 연구 계약(미국 정부 CRADA 계약)
+14 산학연 위탁 연구 계약(미국 WFO 계약)
+15 계약 협의 단계에서의 신사 협정, MOU
+16 Letter of Intent(LOI)
+17 협상을 비밀로 하는 NDA
+Chapter 2 국제 조달의 주요 이슈
+1 국제 조달
+2 국제 조달 계약의 주요 이슈 (1) : 강력한 이행 담보 조건
+3 국제 조달 계약의 주요 이슈 (2) : 인증
+4 이행 담보 관련, 보증 계약의 종류와 방법
+Chapter 3 국제 무역의 주요 이슈
+1 우리 회사도 수출할 수 있을까
+2 전세계 장사꾼들의 표준 거래 조건, 인코텀즈(Incoterms)
+3 안전한 대금 수령을 위한 장사꾼들의 고민, 대금 지급의 다양한 조건
+4 신용장은 안전하다는 편견
+5 신용장의 검토를 위한 포인트
+6 카멜레온 문서, 인보이스(Invoice)
+
+제5부 영문 계약의 표현 기법
+Chapter 1 계약서 작성, 이런 표현 이런 영어로
+1 ‘권리’에 관한 다양한 표현
+2 as 구문의 해석과 활용
+3 쉽고도 어려운 including의 사용
+4 ‘가정’의 다양한 표현
+5 단서 조항과 예외 조항
+6 달리 정하지 않는 한
+7 시간 개념이 두 개 이상일 때
+8 상대(Counter)를 사용한 몇 가지 용어
+9 사전 통지, 승인, 협의 없이는
+10 시점과 기간의 표시
+11 기한을 표시하는 다양한 표현
+12 상술의 의미를 갖는 aforementioned와 비슷한 표현
+13 정확한 대금 수령을 위한 표현
+Chapter 2 관용어구를 이용한 문장 구성
+1 act or comission/omission
+2 at arm’s length
+3 at the risk and for the account of
+4 without prejudice to A
+5 in consideration of
+6 breach, infringement, indemnification
+7 notwithstanding
+8 here+전치사
+9 there+전치사
+10 remuneration vs. reimbursement
+11 recoupment vs. deduction
+12 subject to ~
+Chapter 3 계약서 작성에 꼭 필요한, 하지만 사전에는 안 나오는 상식 영어
+1 라틴어 관용어구를 이용한 문장 구성
+2 제대로 쓰면 상대를 긴장시키는 구두점 표기법
+Chapter 4 계약 협상에서 마주하는 영어 표현
+1 엔지니어링 프로젝트에서 등장하는 전문 용어
+2 경영 용어
+3 우리나라 법, 영어로 표현하기
+
+제6부 알아 두면 든든한 계약법 상식
+Chapter 1 국제 거래법 에센스
+1 국제 거래법이란?
+2 국제 계약의 법원칙
+3 계약 불이행과 상대방 권리의 구제
+4 국제 거래, 비즈니스의 영역과 법의 영역
+Chapter 2 계약법 에센스
+1 계약법 기초
+2 영미 계약법의 법원과 성립 요건
+3 영문 계약서 작성을 위한 배경 상식
+4 계약서 해석의 원칙
+
+제7부 영문 계약서 통으로 참고하기
+Chapter 1 구매 계약서 (국제 연합 UN 표준 서식)
+Chapter 2 인터넷은 계약서의 보고(寶庫)
+
+Index

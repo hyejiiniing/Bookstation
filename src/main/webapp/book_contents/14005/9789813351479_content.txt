@@ -1,0 +1,17 @@
+CHAPTER 1 생물공정공학자란?
+CHAPTER 2 생물학 기초원리의 개관
+CHAPTER 3 효소
+CHAPTER 4 세포의 작용
+CHAPTER 5 주요 대사 경로
+CHAPTER 6 세포의 생장
+CHAPTER 7 미생물 생장과 산물 생성에 관한 양론
+CHAPTER 8 세포 정보의 변경
+CHAPTER 9 현탁배양과 고정화배양을 위한 생물반응기 운전에 대한 고찰
+CHAPTER 10 생물반응기의 선택, 대규모화, 운전 그리고 제어
+CHAPTER 11 생성물의 회수와 정제
+CHAPTER 12 동물세포 배양 시의 생물공정에 대한 고찰
+CHAPTER 13 식물세포 배양 시의 생물공정에 대한 고찰
+CHAPTER 14 유전자 조작된 생체의 이용
+CHAPTER 15 생물공정공학의 의학적 응용
+CHAPTER 16 혼합배양을 이용한 생물공정
+부록 전통적 산업 생물공정

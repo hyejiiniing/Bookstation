@@ -1,0 +1,72 @@
+Chapter 1 알파벳
+Day 01 알파벳 A, B, C
+Day 02 알파벳 D, E, F
+Day 03 알파벳 G, H, I
+Review 1
+
+Day 04 알파벳 J, K, L
+Day 05 알파벳 M, N, O
+Day 06 알파벳 P, Q, R
+Review 2
+
+Day 07 알파벳 S, T, U, V
+Day 08 알파벳 W, X, Y, Z
+Review 3
+
+Chapter 2 단모음
+Day 09 단모음 a - at, an, ad
+Day 10 단모음 a - ap, am, ag
+Day 11 단모음 e - ed, en, et
+Day 12 단모음 i - ig, ix, ip
+Review 4
+
+Day 13 단모음 i - it, id, in
+Day 14 단모음 o - ot, op, og
+Day 15 단모음 u - ug, un, ut
+Day 16 단모음 u - up, ud, ub
+Review 5
+
+Chapter 3 장모음
+Day 17 장모음 a - ake, ame, ave
+Day 18 장모음 a - ane, ape, ate
+Day 19 장모음 i - ike, ite, ine
+Review 6
+
+Day 20 장모음 i - ive, ide, ice
+Day 21 장모음 o - ose, one, ope
+Day 22 장모음 u - ube, ute, une
+Review 7
+
+Chapter 4 이중자음
+Day 23 이중자음 bl, cl, fl
+Day 24 이중자음 gl, pl, sl
+Day 25 이중자음 br, fr, tr
+Day 26 이중자음 dr, gr, pr
+Review 8
+
+Day 27 이중자음 sn, sm, sw
+Day 28 이중자음 st, sk
+Day 29 이중자음 sp, sc, sq
+Review 9
+
+Day 30 이중자음 sh, ch, ph
+Day 31 이중자음 wh, th[thㅆ], th[thㄷ]
+Day 32 이중자음 ng, nk, ck
+Review 10
+
+Chapter 5 이중모음
+Day 33 이중모음 ai, ay, aw
+Day 34 이중모음 ee, ea, ew
+Day 35 이중모음 ow[오우], oa, ou
+Day 36 이중모음 ow[아우], oi
+Review 11
+
+Day 37 이중모음 oy, oo[우], oo[우-]
+Day 38 이중모음 ue, ui
+Day 39 이중모음 er, ar, ur
+Day 40 이중모음 ir, or
+Review 12
+
+- 정답
+- 한눈에 보는 파닉스
+- 단어 리스트

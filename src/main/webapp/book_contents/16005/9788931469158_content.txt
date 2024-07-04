@@ -1,0 +1,28 @@
+구매자 혜택 BIG 6
+이기적 200% 활용 가이드
+차례
+시험 출제 경향
+시험의 모든 것
+저자 소개
+
+PART 01 SQL Developer
+Section 01 Oracle Database 사용
+Section 02 Toad
+Section 03 Oracle SQL Developer
+Section 04 MySQL
+Section 05 Live SQL
+
+PART 02 데이터 모델링의 이해
+Section 01 데이터 모델링
+Section 02 데이터 모델과 SQL
+합격을 다지는 예상문제
+
+PART 03 SQL 기본 및 활용
+Section 01 SQL 기본
+Section 02 SQL 활용
+Section 03 SQL 관리구문
+합격을 다지는 예상문제
+
+PART 04 SQLD 과목별 핵심 150제
+
+PART 05 SQLD 최신 기출문제 (7회)

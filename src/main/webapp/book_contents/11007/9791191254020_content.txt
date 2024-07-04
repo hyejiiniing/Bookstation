@@ -1,0 +1,74 @@
+〔후지필름 화질 철학의 모든 것 목차〕
+
+HIDEAKI HAMADA HANDS-ON GFX100
+First Contact of 100,000,000 PIXELS
+008 GALLERY Hideaki Hamada×Mayu Hotta
+016 SPECIAL INTERVIEW "라지 포맷 1억 화소가 사진에 미치는 영향”
+022 MANUAL OF FILM SIMULATION : 컬러 편
+- Classic Neg | 인기 있는 입문용 필름의 색을 느낄 수 있는 NEW 모드
+- ETERNA BLEACH BYPASS | 영화 촬영에서 사용되던 '블리치 바이패스'기법을 추구한 저채도 & 고대비
+- PROVIA/스탠다드 | 후지필름의 '기억색'을 경험할 수 있는 표준 모드
+- Velvia/선명 | 풍경ㆍ자연 사진의 정석으로 사랑받는 화사한 모드
+- ASTIA/소프트 | 선명함과 온화함이 공존하는 인기 모드
+- CLASSIC CHROME | 오래된 다큐멘터리 사진집 느낌의 중후한 분위기
+- PRO Neg. Hi | 평면광으로 음영을 만들면서 자연스럽게 발색
+- PRO Neg. Std | 조명을 사용한 인물 사진 전용 모드
+- ETERNA | 영상용 표준 모드. 넓은 노출 관용도가 주는 부드러움
+044 컬러 계열 FILM SIMULATION 비교
+* BLUE　* RED　* GREEN　* YELLOW　* SKIN
+049 More Setting 기타 이미지 품질 설정
+- 컬러 크롬 효과 / 컬러크롬 FX 블루 / 그레인 효과 / 다이내믹 레인지
+- 톤 곡선 / 색농도 / 사프니스 / 선명도 / 노이즈 리덕션 / 회절현상 보정
+- 화이트발란스 [AUTO 화이트 우선] [AUTO 분위기 우선] / 커스텀 화이트발란스
+- 장노출 노이즈 리덕션 / 화이트발란스 미세 조정 / 픽셀 매핑 / 컬러 스페이스
+- 피부 보정 효과
+058 개발자 이야기
+1 화질 설계자가 말하는 [필름 시뮬레이션]
+2 센서 프로세서 기술자가 말하는 [디바이스의 진화]
+3 후지논 렌즈 설계자가 말하는 [렌즈와 화질]
+4 디자이너가 말하는 [화질에 기여하는 디자인]
+'색' 전문가에게 묻는다
+062 1 사진가 아이하라 마사아키 "풍경 사진에 있어서 후지필름의 색이란?”
+066 2 사진가 다카쿠와 세이기 "뷰티 & 인물 사진에 있어서 후지필름의 색이란?”
+070 3 영상 디렉터 에나츠 요시히로 "동영상에 있어서 후지필름의 색이란?”
+074 Movie Setting 편리한 동영상 활용법
+* 필름 시뮬레이션 * 고속 녹화 * 손떨림 보정 모드 3종류 * 웹 카메라
+076 MANUAL OF FILM SIMULATION : 흑백 편
+* ACROS｜질감, 샤프니스, 톤을 고차원으로 조화시킨다 * 모노크롬 * 세피아
+P007
+082 흑백 계열 FILM SIMULATION 비교
+* SNAP * SKIN
+084 SPECIAL INTERVIEW
+배우 사노 시로 "흑백 사진에 있어서 후지필름의 색이란?”
+088 화질에 얽힌 8가지 사소한 이야기
+1 AUTO 화이트 밸런스에 진짜 맡겨도 될까?!
+2 화질을 결정하는 핵심 키는 '해상감'만이 아니다
+3 그레인 효과 & ACROS 모드가 만드는 입자감
+4 인화지에 프린트하면 보이는 것들
+5 X 마운트 대구경 렌즈의 설계 사상
+6 타임 슬립! 추억의 필름
+7 GFX100, 1억 화소 카메라가 실현하는 해상과 계조
+8 필름 시뮬레이션 열전
+사진가가 말하는 X & GFX를 사용하는 이유
+102 1 사진가 가사이 치카시 "후지필름은 필름에 대한 애착이 있다”
+106 2 사진가 미나카와 사토시 "미러리스로 작업하는 데 있어서 불안을 불식시켜준 GFX100”
+110 3 사진가 와다타쿠미 "X는심도있게한가지주제를찍는다큐멘터리사진에있어강력한무기다”
+114 SPECIAL INTERVIEW
+- X & GFX 상품 기획 담당 우에노 타카시 "상품 기획자로서, 사진 마니아로서, 촬영자로서"
+118 INSTRUCTION of X & GFX CAMERA SERIES
+인기 X & GFX 시리즈 소개
+* X-T4　* X-Pro3　* X100V　* X-T30　* X-T200　* X-A7
+* GFX100　* GFX 50S　* GFX 50R
+126 X MOUNT LENSES & G MOUNT LENSES
+추천 X & G 마운트 렌즈 소개
+- XF16mmF1.4 R WR　/ XF35mmF1.4 R　/ XF56mmF1.2 R
+- XF80mmF2.8 R LM OIS WR Macro　/ XF90mmF2 R LM WR
+- XF200mmF2 R LM OIS WR　/ XF8-16mmF2.8 R LM WR
+- XF16-55mmF2.8 R LM WR　/ XF50-140mmF2.8 R LM OIS WR
+- GF30mmF3.5 R LM WR　/ GF50mmF3.5 R LM WR
+- GF110mmF2 R LM WR　/ GF45-100mmF4 R LM OIS WR
+- GF100-200mmF5.6 R LM OIS WR
+136 X & GFX SHOOTING GUIDE
+찍는 순간을 소중히 하는 'X 철학'에 관련된 설정
+* 촬영 설정 * 포커싱 * 브라케팅
+* 올드 렌즈 * 스마트폰 접속 * 사용자지정 설정

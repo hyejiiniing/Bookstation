@@ -1,0 +1,51 @@
+■ PART 1 데이터 모델링의 이해
+CHAPTER 1 데이터 모델링의 이해
+01 데이터 모델의 이해
+02 엔터티(Entity)
+03 속성(Attribute)
+04 관계(Relationship)
+05 식별자(Identifiers)
+적중예상문제
+
+CHAPTER 2 데이터 모델과 SQL
+01 정규화(Normalization)
+02 반정규화(De-Normalization)
+03 트랜잭션(Transaction)
+적중예상문제
+
+■ PART 2 SQL 기본 및 활용
+CHAPTER 1 SQL 기본
+01 관계형 데이터베이스 개요
+02 SELECT 문
+03 함수
+04 WHERE 절
+05 GROUP BY, HAVING 절
+06 ORDER BY 절
+07 JOIN
+08 STANDARD JOIN
+적중예상문제
+
+CHAPTER 2 SQL 활용
+01 서브쿼리(Subquery)
+02 뷰(View)
+03 집합 연산자
+04 그룹 함수
+05 윈도우 함수
+06 Top-N 쿼리
+07 셀프 조인(Self Join)
+08 계층 쿼리
+적중예상문제
+
+CHAPTER 3 관리 구문
+01 DML
+02 TCL
+03 DDL
+04 DCL
+적중예상문제
+
+■ PART 3 기출변형 모의고사
+CHAPTER 1 기출변형 모의고사 1회
+CHAPTER 2 기출변형 모의고사 2회
+CHAPTER 3 기출변형 모의고사 3회
+CHAPTER 4 기출변형 모의고사 4회
+CHAPTER 5 기출변형 모의고사 5회

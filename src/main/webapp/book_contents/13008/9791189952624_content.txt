@@ -1,0 +1,67 @@
+PART 1 이탈리아어 알파벳
+*알파벳 / 모음 / 자음
+
+PART 2 이탈리아어 첫걸음
+1° giorno Buon giorno. 안녕하세요.
+Corpo 몸, 신체 / Viso, Faccia 얼굴
+2° giorno Come stai? 어떻게 지내니?
+Famiglia 가족
+3° giorno Sono Marco. 나는 마르코야.
+Casa 집
+4° giorno Che lavoro fa? 무슨 일을 하십니까?
+Occupazione 직업
+5° giorno Chi ? lui? 그는 누구니?
+Bagno 욕실
+6° giorno Quanti anni ha? 몇 살인가요?
+Numero 숫자
+7° giorno Chi accompagna Marco? 누가 마르코와 함께 갈 거니?
+Numeri ordinali 서수
+8° giorno Che data ? oggi? 오늘은 며칠입니까?
+Calendario 달력
+9° giorno Che ora sono? 지금 몇 시니?
+Tempo 시간
+10° giorno Cosa ti piace fare? 넌 뭘 하는 걸 좋아하니?
+Hobby 취미
+11° giorno Che programmi hai per domenica? 일요일에 무슨 계획이 있니?
+Sport 스포츠, 운동
+12° giorno Che autobus devo prendere? 어떤 버스를 타야 하나요?
+Preposizioni di luogo 장소 전치사
+13° giorno Che tempo fa? 날씨가 어때요?
+Tempo 날씨
+14° giorno Maria ? una degli studenti pi? intelligenti. 마리아는 가장 똑똑한 학생들 중 하나야.
+Contrario 반대말 1
+15° giorno Quale vestito compri? 어떤 옷을 살 거니?
+Abito, Vestito 옷
+16° giorno A che ora ti svegli? 몇 시에 일어나니?
+Contrario 반의어 2
+17° giorno Come hai passato il fine settimana? 주말 어떻게 보냈니?
+Citt? 도시
+18° giorno Che tipo ?? 어떤 타입이야?
+Malattia 질병
+19° giorno Stai scherzando? 농담하고 있는 거야?
+Vita quotidiana 일상생활
+20° giorno Com’? Francesca? Bella? 프란체스카는 어때? 예뻐?
+Colore 색상
+21° giorno Dov'? la stazione? 역은 어디에 있습니까?
+Mezzi di trasporto 교통수단
+22° giorno Qual'e il piatto del giorno? 오늘의 요리는 무엇입니까?
+Cibi Italiani 이탈리아 음식
+23° giorno Vorrei una camera singola. 1인실을 원합니다.
+Aeroporto 공항
+24° giorno Rester? a casa con la mia famiglia. 난 가족과 함께 집에 있을 거야.
+Paesaggio 풍경
+25° giorno Tocca a lei. 당신 차례입니다.
+Sinonimi 동의어 1
+26° giorno Ho perso la borsa. 가방을 잃어버렸어요.
+Sinonimi 동의어 2
+27° giorno Vorrei spedire questo pacco. 소포를 보내고 싶습니다.
+Denaro Italiano 이탈리아 화폐
+28° giorno Vorrei usare internet. 인터넷을 사용하고 싶은데요.
+Caff? 카페
+29° giorno Vorrei noleggiare una bici. 자전거를 빌리고 싶은데요.
+Pianta 식물
+30° giorno A che ora vuole partire? 몇 시에 출발하기 원하세요.
+Animale 동물
+
+PART 3 부 록
+관사 / 명사 / 형용사 / 동사변형표

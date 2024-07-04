@@ -1,0 +1,101 @@
+UNIT 01 #공항에서 #체크인할 때
+Can I change my seat by any chance? 혹시 좌석을 바꿀 수 있을까요?
+UNIT 02 #공항에서 #가방을 봐 달라고 할 때
+Can you please watch my bag for a minute? 제 가방 좀 봐 주시겠어요?
+UNIT 03 #공항에서 #비행기를 바꿔야 할 때
+I was wondering if it’s possible to change my flight. 제 비행기를 바꿀 수 있을까 해서요.
+UNIT 04 #공항에서 #비행기가 취소되었을 때
+I just found out my flight has been canceled. 제 항공편이 방금 취소됐다고 나왔어요.
+UNIT 05 #호텔에서 #체크인하며 모닝콜 요청하기
+Can I request a wake-up call? 모닝콜을 요청할 수 있을까요?
+UNIT 06 #호텔에서 #뷔페에서 계란 프라이를 부탁할 때
+Sunny side up, please. 계란 반숙으로 주세요.
+UNIT 07 #호텔에서 #에어컨 수리를 요청할 때
+The air conditioner isn’t working properly. 에어컨이 고장 났어요.
+UNIT 08 #호텔에서 #체크아웃 시간을 늦출 때
+I’m wondering if I can delay my check-out. 체크아웃 시간을 늦출 수 있을까 해서요.
+UNIT 09 #호텔에서 #방에서 물건을 분실했을 때
+I might have left my calendar in my room. 방에 달력을 두고 온 것 같아요.
+UNIT 10 #음식점에서 #원하는 시간에 예약하기
+Can I make a reservation for two tonight? 오늘 밤에 두 명 예약할 수 있을까요?
+UNIT 11 #음식점에서 #못 먹는 재료를 빼 달라고 할 때
+Can you please take out the cilantro? 고수를 빼 주시겠어요?
+UNIT 12 #음식점에서 #메뉴를 고를 때
+What are you feeling? 어떤 음식이 당겨?
+UNIT 13 #음식점에서 #스테이크 주문하기
+I would like it medium rare. 미디엄 레어로 해 주세요.
+UNIT 14 #음식점에서 #서브웨이 샌드위치 주문하기
+Can I get a footlong turkey sub, please? 30cm짜리 터키 샌드위치로 주시겠어요?
+UNIT 15 #음식점에서 #음식에서 머리카락이 나왔을 때
+There’s a hair in my food. 음식에 머리카락이 들어 있어요.
+UNIT 16 #음식점에서 #해피아워에 친구와 만날 때
+When and where should we meet? 우리 몇 시에 어디서 만날까?
+UNIT 17 #카페에서 #스타벅스에서 주문하기
+The largest one, please. 제일 큰 사이즈로 주세요.
+UNIT 18 #카페에서 #내가 사겠다고 말할 때
+Dessert is on me! 디저트는 내가 살게!
+UNIT 19 #카페에서 #찾는 메뉴가 다 팔렸을 때
+We just sold out of that. 그건 방금 다 팔렸어요.
+UNIT 20 #카페에서 #현금 결제가 가능한지 물어볼 때
+It’s cool if I pay with cash? 현금으로 계산해도 되는 거죠?
+UNIT 21 #쇼핑하기 #시리얼 코너를 찾을 때
+Where can I find the cereal aisle? 시리얼 코너는 어디에 있나요?
+UNIT 22 #쇼핑하기 #베스트셀러 구입하기
+I’m looking for a book called Outliers. 〈아웃라이어〉라는 책을 찾고 있는데요.
+UNIT 23 #쇼핑하기 #백화점에서 옷을 살 때
+Can I try this on? 이 옷 입어 봐도 돼요?
+UNIT 24 #쇼핑하기 #둘러보는 중이라고 말할 때
+I’m just browsing. 그냥 둘러보는 거예요.
+UNIT 25 #쇼핑하기 #환불을 요청할 때
+I would like to return this, please. 이거 환불 받고 싶어요.
+UNIT 26 #쇼핑하기 #할인하는 제품을 찾을 때
+Do you have any bags on sale? 할인하는 가방들이 있나요?
+UNIT 27 #쇼핑하기 #친구 선물을 고를 때
+I’m looking for shoes for my friend.
+친구에게 사 줄 신발을 찾고 있어요.
+UNIT 28 #일상에서 #처음 만나는 사람과 인사할 때
+What do you do for a living? 무슨 일을 하세요?
+UNIT 29 #일상에서 #호감 가는 이성에게 말을 걸 때
+Can I buy you a drink? 제가 한 잔 사 드려도 될까요?
+UNIT 30 #일상에서 #로컬 음식점 추천 받기
+There are plenty of great places nearby. 근처에 좋은 음식점들이 굉장히 많아요.
+UNIT 31 #일상에서 #엘리베이터 문을 잡아 줄 때
+Thank you for holding the elevator! 엘리베이터를 잡아 주셔서 감사합니다!
+UNIT 32 #일상에서 #친구와의 약속을 미룰 때
+I’m going to have to take a raincheck. 약속을 다음으로 미뤄야 할 것 같아.
+UNIT 33 #일상에서 #도보로 가는 길을 찾을 때
+Is it within walking distance? 걸어서 갈 수 있는 거리인가요?
+UNIT 34 #일상에서 #대중교통으로 가는 길을 물을 때
+Do you know how to get to Universal Studios? 유니버설 스튜디오까지 어떻게 가는지 아세요?
+UNIT 35 #일상에서 #택시에서 목적지 설명하기
+Can you turn right here? 여기서 우회전해 주시겠어요?
+UNIT 36 #일상에서 #우버 기사에게 소요 시간을 물을 때
+What’s our ETA? 언제쯤 도착할까요?
+UNIT 37 #일상에서 #환전소에서 환전을 할 때
+I would like to exchange Korean won for US dollars. 원화를 달러로 환전하고 싶어요.
+UNIT 38 #운전하기 #차를 렌트할 때
+I have a reservation for a rental car. 렌터카를 예약했어요.
+UNIT 39 #운전하기 #주유소에서 기름을 넣을 때
+I’ve never fueled up at a self-service station before. 셀프 주유소를 처음 이용해요.
+UNIT 40 #운전하기 #주차할 때
+Finding parking around here is tough. 여기 주차하기 좀 힘들 것 같아 보여.
+UNIT 41 #여가시간 #미용실에서 머리를 자를 때
+I just want to tidy it up a bit. 머리숱만 좀 치려고요.
+UNIT 42 #여가시간 #헬스장에서 친구를 사귈 때
+How long have you been hitting the gym? 헬스하신 지 얼마나 되셨어요?
+UNIT 43 #여가시간 #헬스장에서 운동을 할 때
+How many sets do you have left? 몇 세트 남으셨어요?
+UNIT 44 #여가시간 #영화관에서 표를 구매할 때
+I’d like to buy a ticket for the movie. 영화 표를 좀 사고 싶은데요.
+UNIT 45 #여가시간 #영화관에서 자리를 바꿀 때
+I think you’re in my seat. 제 자리에 앉으신 것 같아요.
+UNIT 46 #여가시간 #놀이공원에서 티켓을 구매할 때
+What are my options? 티켓 종류가 어떻게 되나요?
+UNIT 47 #여가시간 #사진을 찍어 달라고 부탁할 때
+Can you make my legs look long? 다리가 길어 보이게 찍어 주시겠어요?
+UNIT 48 #응급상황 #911에 도움을 요청할 때
+I need to call an ambulance for my friend. 친구를 위해 구급차를 불러야 해요.
+UNIT 49 #응급상황 #약국에서 약을 처방 받을 때
+I’m here to pick up my prescription. 처방약을 받으러 왔어요.
+UNIT 50 #응급상황 #카드를 도난 당했을 때
+I’d like to report my credit card stolen. 신용카드 도난 신고를 하려고요.

@@ -1,0 +1,131 @@
+[I’m / Are you 패턴]
+Day 1 I’m used to ~ 나는 ~에 익숙해
+Day 2 I’m afraid ~ (유감이지만) ~인 것 같아
+Day 3 I’m sure ~ ~라고 확신해
+Day 4 I’m not sure ~ ~인지 잘 모르겠어
+Day 5 Are you sure ~? 너 ~인 거 확실해?
+Day 6 I’m saying ~ ~라고 말하는 거야
+Day 7 I’m not saying ~ ~라고 말하는 게 아니야
+Day 8 I’m (not) talking about ~ ~에 대해 얘기하고 있어(있는 게 아니야)
+Day 9 Are you talking about ~? 너 ~에 대해 얘기하는 거야?
+Day 10 Are you planning to ~? 너 ~할 계획이야?
+
+[I was 패턴]
+Day 11 I was no longer ~ 나 더 이상 ~이지 않았어
+Day 12 I was asked to ~ 나 ~해 달라고 요청받았어
+Day 13 I was supposed to ~ 나 ~하기로 되어 있었어
+Day 14 I wasn’t supposed to ~ 나 ~하면 안 되는 거였어
+Day 15 I was thinking about ~ 나 ~할까 생각했어
+Day 16 I wish I were ~ 내가 ~라면 좋겠어
+
+[It’s / That’s / This is 패턴]
+Day 17 It’s important to ~ ~하는 것은 중요해
+Day 18 It’s about how ~ 어떻게/얼마나 ~하는지가 중요해
+Day 19 It was too late to ~ ~하기엔 너무 늦었었어
+Day 20 It’s possible ~ ~할 가능성이 있어
+Day 21 That’s because ~ 그건 ~때문이야
+Day 22 This is the first ~ 이번/이것이 처음 ~야
+Day 23 This is one of ~ 이건 ~중에 하나야
+
+[There’s 패턴]
+Day 24 There’s been ~ ~가 있었어
+Day 25 There’s no need to ~ ~할 필요 없어
+Day 26 There’s no reason to ~ ~할 이유가 없어
+Day 27 There was no way to ~ ~할 방법이 없었어
+Day 28 There’s something ~ ~인 게 있어
+
+[I have 패턴]
+Day 29 I’ve seen ~ 나 ~ 봤어
+Day 30 I haven’t seen ~ 나 ~ 못 봤어
+Day 31 I’ve come to ~ 나 ~하러 왔어
+Day 32 I’ve decided to ~ 나 ~하기로 했어
+Day 33 You’d better ~ 너 ~하는 게 좋을 거야
+Day 34 You’d better not ~ 너 ~하지 않는 게 좋을 거야
+Day 35 I had no idea ~ 나 ~인지 전혀 몰랐어
+Day 36 It has nothing to do with ~ ~과는 상관없어
+
+[Let me 패턴]
+Day 37 Let me know ~ ~인지 알려줘
+Day 38 Let me see ~ ~를 확인해 볼게
+Day 39 Let me tell you ~ 너에게 ~을 말해줄게
+Day 40 I’ll let you know ~ 너한테 ~ 알려줄게
+
+[I want/know 패턴]
+Day 41 I want you to ~ 네가 ~하면 좋겠어
+Day 42 I don’t want you to ~ 네가 ~하지 않으면 좋겠어
+Day 43 Do you want me to ~? 내가 ~하면 좋겠어?
+Day 44 I know how to ~ 나 ~하는 방법을 알아
+Day 45 Do you know how to ~? 너 ~하는 방법 알아?
+Day 46 Do you know what ~? 너 ~ (무엇)인지 알아?
+Day 47 Did you know ~? 너 ~ 알고 있었어?
+
+[I think 패턴]
+Day 48 I think I should ~ 나 ~해야 할 것 같아
+Day 49 I don’t think I should ~ 나 ~하면 안 될 것 같아
+Day 50 I never thought ~ 나 ~거라고 생각도 못했어
+Day 51 I thought it was ~ ~였다고 생각했어
+Day 52 Don’t even think about ~ ~할 생각도 하지 마
+
+[Who / What 패턴]
+Day 53 Who’s going to ~? 누가 ~할까?
+Day 54 Who would ~? 누가 ~하겠어?
+Day 55 What if ~? 만약 ~하면 어떨까/어쩌지?
+Day 56 What kind of ~? ~은 어떤 유형이야/종류야?
+Day 57 What do you say to ~? ~은 어때?
+Day 58 What makes you ~? 무엇이 너를 ~하게 해?
+
+[How / When / Why 패턴]
+Day 59 How come ~? 어째서 ~일 수 있어?
+Day 60 How do you know ~? 어떻게 ~를 알아?
+Day 61 How do you like ~? ~이 맘에 들어?
+Day 62 How long have you been ~? ~인지 얼마나 됐어?
+Day 63 When was the last time ~? 마지막으로 ~한 게 언제야?
+Day 64 Why do you think ~? 왜 ~라고 생각해?
+
+[I will/would 패턴]
+Day 65 You’ll be able to ~ 너는 ~ 할 수 있을 거야
+Day 66 I’d rather ~ 차라리 ~할래
+Day 67 I would say ~ ~라고 할 수 있어
+Day 68 I wouldn’t mind ~ 나는 ~ 상관없어
+Day 69 I wouldn’t be surprised if ~ ~라고 해도 놀라지 않을 거야
+Day 70 You would have to ~ 너는 ~해야 할 거야
+Day 71 You wouldn’t believe ~ 너는 ~을 믿지 않을 거야
+
+[I can/could 패턴]
+Day 72 Can you help me ~? ~ 좀 도와줄래?
+Day 73 Can you tell me ~? ~를 알려 줄래?
+Day 74 I can’t say ~ ~라고는 못하겠어
+Day 75 I can’t believe ~ ~을 믿을 수 없어
+Day 76 I can’t tell ~ ~를 말할 수 없어
+Day 77 I can’t imagine ~ ~을 상상할 수 없어
+Day 78 I can’t help but ~ ~하지 않을 수 없어
+Day 79 I can’t afford to ~ ~할 여유가 없어
+Day 80 I could tell ~ 나는 ~을 알 수 있었어
+Day 81 I could have been ~ 나는 ~일수도 있었어
+
+[I may/might 패턴]
+Day 82 May I help you ~ 제가 ~을 도와드릴까요?
+Day 83 You might have ~ 너는 ~이었을지도 몰라
+Day 84 You might think ~ 너는 ~라고 생각할지도 몰라
+Day 85 I might be able to ~ 나는 ~할 수 있을지도 몰라
+
+[I should/must 패턴]
+Day 86 I should be able to ~ 나는 꼭 ~할 수 있을 거야
+Day 87 I should have known ~ 나는 ~을 알았어야 했어
+Day 88 You should know ~ 너는 ~ 알아야 해
+Day 89 You should have seen ~ 너는 ~을 봤어야 했어
+Day 90 I must say ~ 나는 ~라고 꼭 말해야겠어
+Day 91 I must admit ~ 나는 ~을 인정해야겠어
+
+[표현이 더 풍부해지는 추가 패턴]
+Day 92 I feel like ~ ~인 것 같은 기분이야
+Day 93 It seems like ~ ~인듯해
+Day 94 I like the way ~ 나는 ~ 그대로가 좋아
+Day 95 I wonder if ~ 나는 ~인지 궁금해
+Day 96 Do you mind if I ~? 내가 ~해도 괜찮을까?
+Day 97 I used to ~ 나 예전에 ~했어
+Day 98 I look forward to ~ 나는 ~이 기대돼
+Day 99 I came up with ~ 내가 ~을 생각해냈어
+Day 100 Make sure ~ 절대 ~하지 마 / 꼭 ~해
+
+별책 [10분 스피킹 핸드북]

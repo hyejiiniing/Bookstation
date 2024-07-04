@@ -1,0 +1,154 @@
+1. 경상도의 촌캉스
+군위
+Stay
+Spot
+Food
+Cafe
+군위 가볼 만한 곳
+
+함양
+Stay
+Spot
+Food
+Cafe
+함양 가볼 만한 곳
+
+밀양
+Stay
+Spot
+Food
+밀양 가볼 만한 곳
+
+울진
+Stay
+Spot
+울진 가볼 만한 곳
+
+산청
+Stay
+Spot
+산청 가볼 만한 곳
+
+영천
+Stay
+Spot
+영천 가볼 만한 곳
+
+하동
+Stay
+Spot
+Food
+Cafe
+하동 가볼 만한 곳
+
+경주
+Stay
+Spot
+Food
+Cafe
+경주 가볼 만한 곳
+
+포항
+Stay
+Spot
+
+포항 가볼 만한 곳
+
+대구
+Stay
+대구 가볼 만한 곳
+
+2. 전라도의 촌캉스
+구례
+Stay
+Spot
+구례 가볼 만한 곳
+
+완주
+Stay
+Spot
+완주 가볼 만한 곳
+
+전주
+Stay
+Spot
+전주 가볼 만한 곳
+
+장수
+Stay
+Cafe
+장수 가볼 만한 곳
+
+임실
+Stay
+Spot
+Cafe
+임실 가볼 만한 곳
+
+3. 강원도의 촌캉스
+인제
+Stay
+Spot
+인제 가볼 만한 곳
+
+평창
+Stay
+Spot
+Cafe
+평창 가볼 만한 곳
+
+춘천
+Stay
+Spot
+춘천 가볼 만한 곳
+
+영월
+Stay
+Spot
+Cafe
+영월 가볼 만한 곳
+
+양양
+Stay
+Food
+양양 가볼 만한 곳
+
+원주
+Stay
+Cafe
+원주 가볼 만한 곳
+
+삼척
+Stay
+Spot
+삼척 가볼 만한 곳
+
+4. 충청도의 촌캉스
+부여
+Stay
+Spot
+부여 가볼 만한 곳
+
+옥천
+Stay
+Spot
+옥천 가볼 만한 곳
+
+보령
+Stay
+Spot
+보령 가볼 만한 곳
+
+5. 경기도와 제주도의 촌캉스
+양평
+Stay
+Cafe
+양평 가볼 만한 곳
+
+이천
+Stay
+이천 가볼 만한 곳
+제주
+Stay
+Food
+제주 가볼 만한 곳

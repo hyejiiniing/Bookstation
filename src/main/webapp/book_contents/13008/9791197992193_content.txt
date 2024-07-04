@@ -1,0 +1,72 @@
+01. ¡Hola! 안녕, 안녕하세요!
+02. Soy Antonio. 나는 안또니오야.
+03. ¿Cómo es Antonio? 안또니오는 어떤 사람이야?
+04. ¡Encantad@! 만나서 반갑습니다!
+05. ¿Cómo estás Sofía? 소피아 잘 지내지?
+06. ¿Dónde estás Sofía? 소피아 너는 어디니?
+07. ¿Qué día es hoy? 오늘은 무슨 요일이니?
+08. Hasta pronto. 또 보자, 잘 가!
+09. El número1 숫자 배우기
+10. ¿Hablas español? 스페인어 (말) 할 수 있어?
+11. Hablar동사의 친구들
+12. Mi amiga Sofía. 내 친구 소피아
+13. Deseo estudiar contigo. 너와 공부하고 싶어.
+14. Comer동사의 친구들
+15. Vivir동사의 친구들
+16. El número2 ~100까지
+17. ¿Qué hora es? 지금 몇 시야?
+18. Hoy es mi cumpleaños. 오늘은 내 생일이야.
+19. Tener동사
+20. Tengo sueño. 나 졸려.
+21. Tener que+동사원형 ~을 해야만 해
+22. ¿Qué quiere? 무얼 원하세요?
+23. Quiero vivir contigo. 너와 함께 살고 싶어.
+24. Querer동사의 친구들
+25. Vamos a mi casa. 우리 집에 가자.
+26. ¿Qué vas a hacer ahora? 지금 뭐 할 거야?
+27. Hoy hace mucho calor. 오늘은 날씨가 무척 더워.
+28. Las estaciones de Corea 한국의 계절
+29. Hace 3 meses que vivo en Seúl. 서울에 산 지 3개월 되었어요.
+30. ¿Cómo es tu vida en Corea? 한국에서의 생활은 어때?
+31. ¿Puedes cocinar la comida coreana? 너는 한국 음식 요리할 수 있니?
+32. Poder동사의 친구들
+33. ¿Jugamos al fútbol? 우리 축구 할래?
+34. ¿Sabes tocar la guitarra? 기타 칠 줄 아니?
+35. ¿Sabes dónde está Antonio? 안또니오가 어디에 있는지 알아?
+36. Estoy de vacaciones. 나 휴가중이야.
+37. ¿Qué prefieres tomar? 어떤 걸 마실래?
+38. Este finde semana voy a visitar a mis padres. 이번 주말에 나의 부모님을 찾아뵐 거야.
+39. Mañana llueve mucho. 내일은 비가 많이 온대.
+40. Yo te quiero. 너를 좋아해.
+41. No te amo. 너를 사랑하지 않아.
+42. Yo te regalo este libro. 이 책을 너에게 선물할게.
+43. Yo voy a regalárte. 너에게 이것을 줄게.
+44. Me gusta el verano. 나는 여름을 좋아해.
+45. Me duele la cabeza. 나 머리가 아파.
+46. Mi madre 나의 어머니
+47. Mi padre 나의 아버지
+48. ¿Qué estás haciendo? 지금 뭐하고 있니?
+49. yo estudio escuchando (la) música. 나는 음악을 들으면서 공부해.
+50. Me levanto a las 6 de la mañana. 나는 아침 6시에 일어나.
+51. Los domingos no me lavo la cara. 일요일에(일요일마다) 나는 세수를 안 해.
+52. ¡Tienes que lavarte las manos antes de comer! 식사 전에는 손을 닦아야 해!
+53. ¿Cómo es tu horario? 너의 하루 일과는 어떠니?
+54. ¿Te vas? 너 가니?
+55. ¿Se puede entrar? 들어가도 될까요?
+56. 강세가 도대체 어디에 있는 거야?
+57. 그럼 aeropuerto는 어딜 올려야 하지?
+58. ¿Qué te parece tomar café? 커피 한 잔 어때?
+59. ¿A quién te pareces? 넌 누구를 닮았니?
+60. ¿Qué es lo que necesitas ahora? 지금 필요한게 뭐야?
+61. Vorónica es más guapa que Ana. 베로니카가 아나보다 미녀야.
+62. ¿Has estado alguna vez en México? 멕시코에 가 본 적 있니?
+63. Hoy he roto con mi novio. 오늘 남친이랑 끝났어.
+64. Pretérito perfecto simple indicativo 단순과거란?
+65. 단순과거 -er형 규칙동사
+66. 단순과거 -ir형 규칙동사
+67. 단순과거 불규칙 동사1 ser, ir, dar, ver
+68. 단순과거 불규칙 동사2 estar, tener, poder, venir, hacer, poner, querer
+69. 단순과거 불규칙 동사3 leer, creer, oír, reír
+70. 단순과거 불규칙 동사4 sentir, pedir, dormir
+71. 단순과거 불규칙 동사5 buscar, pagar, empezar
+72. Hoy 그리고 Ayer 현재완료와 단순과거의 차이점

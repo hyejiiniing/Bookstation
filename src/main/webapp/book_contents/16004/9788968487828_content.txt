@@ -1,0 +1,78 @@
+Part 1 버프스위트 알아보기
+chapter 1 버프스위트 개요
+1.1 버프스위트 설치
+1.2 버프스위트 실행
+1.3 프락시 서버 설정
+1.4 버프스위트 디스플레이 설정
+chapter 2 테스트 환경 구축
+2.1 윈도우 환경
+2.2 리눅스 환경
+2.3 DVWA 소스 코드
+
+Part 2 버프스위트 기본 기능 활용
+chapter 3 Target
+chapter 4 Proxy
+chapter 5 Spider
+chapter 6 Scanner
+6.1 Active scanning
+6.2 Passive scanning
+6.3 Live Scanning
+6.4 Scanning Result
+6.5 Options
+chapter 7 Intruder
+7.1 작동 방식
+7.2 기능과 구성
+chapter 8 Repeater
+chapter 9 Sequencer
+9.1 Live capture
+9.2 Manual load
+9.3 Analysis options
+9.4 분석 결과
+chapter 10 Decoder
+chapter 11 Comparer
+chapter 12 Extender
+12.1 Extensions
+12.2 BApp Store
+12.3 APIs
+12.4 Options
+12.5 확장 플러그인
+chapter 13 Options
+13.1 Connections
+13.2 HTTP
+13.3 SSL
+13.4 Sessions
+13.5 Display
+13.6 MISC
+chapter 14 Alerts
+
+Part 3 버프스위트를 활용한 웹 모의해킹
+chapter 15 Brute Force 취약점 진단
+15.1 Brute Force 소스 분석
+15.2 침투 테스트
+chapter 16 Command Execution 취약점 진단
+16.1 Command Execution 소스 분석
+16.2 침투 테스트
+chapter 17 CSRF 공격 진단
+17.1 CSRF 소스 분석
+17.2 침투 테스트
+chapter 18 File Inclusion 취약점 진단
+18.1 File Inclusion 소스 분석
+18.2 침투 테스트
+chapter 19 SQL Injection 취약점 진단
+19.1 SQL Injection 소스 분석
+19.2 침투 테스트
+chapter 20 Blind SQL Injection 취약점 진단
+20.1 Blind SQL Injection 소스 분석
+20.2 침투 테스트
+chapter 21 File Upload 취약점 진단
+21.1 File Upload 소스 분석
+21.2 침투 테스트
+chapter 22 Stored XSS 취약점 진단
+22.1 Stored XSS 소스 분석
+22.2 침투 테스트
+chapter 23 Reflected XSS 취약점 진단
+23.1 Reflected XSS 소스 분석
+23.2 침투 테스트
+
+마무리하며
+참고자료
