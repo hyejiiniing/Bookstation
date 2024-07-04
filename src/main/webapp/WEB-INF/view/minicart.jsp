@@ -1,14 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
-<%@ page import="com.member.domain.LoginVO" %>
-<%
-    String member_id = null;
-    if (session.getAttribute("loginMember") != null) {
-        member_id = ((LoginVO) session.getAttribute("loginMember")).getMember_id();
-    }
-    request.setAttribute("member_id", member_id);
-%>
 <!-- minicart -->
 <div class="wrap-header-cart js-panel-cart">
     <div class="s-full js-hide-cart"></div>
@@ -70,3 +62,4 @@
     </div>
 </div>
 <script src="js/script.js"></script>
+

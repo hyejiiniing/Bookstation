@@ -64,6 +64,7 @@ public class CartController {
         cartVO.setMember_id(member_id);
         cartDAO.addCart(cartVO);
 
+        // 현재 페이지로 리다이렉트하면서 메시지를 전달합니다.
         ModelAndView mav = new ModelAndView("redirect:" + request.getHeader("Referer"));
         mav.addObject("message", "장바구니에 상품을 담았습니다.");
         return mav;
@@ -130,19 +131,19 @@ public class CartController {
     }
     
     /* 장바구니 수량 표시 */
-    @RequestMapping(value = "/cartCount", method = RequestMethod.GET)
-    @ResponseBody
-    public int getCartCount(HttpSession session) {
-        String member_id = getMemberId(session);
-        if (isNotLoggedIn(member_id)) {
-            log.debug("Member not logged in or session expired.");
-            return 0;
-        }
-
-        int count = cartDAO.getCartCountByMember_id(member_id);
-        log.debug("Cart count for member_id " + member_id + ": " + count); // 디버그용 로그 추가
-        return count;
-    }
+//    @RequestMapping(value = "/cartCount", method = RequestMethod.GET)
+//    @ResponseBody
+//    public int getCartCount(HttpSession session) {
+//        String member_id = getMemberId(session);
+//        if (isNotLoggedIn(member_id)) {
+//            log.debug("Member not logged in or session expired.");
+//            return 0;
+//        }
+//
+//        int count = cartDAO.getCartCountByMember_id(member_id);
+//        log.debug("Cart count for member_id " + member_id + ": " + count); // 디버그용 로그 추가
+//        return count;
+//    }
 
     @RequestMapping(value = "/increaseCartItemCount.do", method = RequestMethod.POST)
     public ModelAndView increaseCartItemCount(HttpServletRequest request, HttpSession session) {
@@ -165,6 +166,4 @@ public class CartController {
 
         return new ModelAndView("redirect:/cart.do");
     }
-
-
 }
