@@ -12,7 +12,7 @@ import com.member.domain.CartVO;
 
 public interface CartDAO {
 		
-	/* 책 정보 */
+	/* 장바구니 책 정보 */
     @Select("SELECT c.cart_id, c.member_id, c.isbn, c.bookCount, b.book_name, b.book_price, b.book_discount " +
             "FROM cart c " +
             "JOIN book b ON c.isbn = b.isbn " +

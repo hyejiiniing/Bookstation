@@ -10,13 +10,9 @@ import com.member.domain.BookVO;
 import com.member.domain.ReviewVO;
 import com.member.domain.weeksVO;
 
-/*
- * 작성자 - 이지은
- * 해당 페이지 - top, main, bottom, category, bestseller, newbook, searchbook
- */
-
 public interface BookDAO {
 	
+	// 리뷰 데이터 가져오기 
 	@Select("SELECT review.review_id, review.review_content, review.review_score " +
 	        "FROM review " +
 	        "JOIN book ON review.isbn = book.isbn " +
@@ -25,17 +21,18 @@ public interface BookDAO {
 	
 	@Select("SELECT * FROM book WHERE category = #{category}")
     List<BookVO> getBooksByCategory(String category); 
-	/////////////////////////////////////////////////////////////////
 	
-	// 한 권 가져오기
+	
+		// 한 권 가져오기
 		@Select("select * from book where isbn=#{isbn}")
 		public BookVO getOneBook(String isbn);
 		
+		// 같이 구매한 책 
 		@Select("select * from ("
 				+ "    select book.isbn, book_name, book_author, book_publisher"
 				+ "    from ("
 				+ "        select * from book"
-				+ "        where category_id=#{category_id}" // 수정된 부분
+				+ "        where category_id=#{category_id}"
 				+ "    ) book, ("
 				+ "        SELECT isbn, sum(ordersPrint_count) as cnt"
 				+ "        FROM ordersprint"
@@ -48,6 +45,8 @@ public interface BookDAO {
 				+ ")"
 				+ "where rownum<=8")
 		public List<BookVO> getdetailbookList(@Param("category_id") String category_id);
+		
+		/////////////////////////////////////////////////////////////////
 
 		// 전체 책 수
 		@Select("selct count(*) from book")

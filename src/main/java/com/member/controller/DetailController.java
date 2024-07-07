@@ -42,7 +42,7 @@ public class DetailController {
             log.debug("bookDAO=" + bookDAO);
         }
 
-        // ISBN을 사용하여 해당 책의 카테고리 ID를 가져옴
+        // ISBN을 사용하여 책의 카테고리 ID 가져오기
         String category_id = bookDAO.getCategoryIdByIsbn(isbn);
 
         String contentRelativePath = "/book_contents/" + category_id + "/" + isbn + "_content.txt";
@@ -82,7 +82,7 @@ public class DetailController {
         BookVO onebook = bookDAO.getOneBook(isbn);
         List<ReviewVO> reviews = bookDAO.getDetailReviewsByIsbn(isbn);
 
-        // 카테고리 정보 추가
+        // 카테고리 정보
         BookCategoryVO categoryInfo = bookCategoryDAO.getCategoryMainAndSubByIsbn(isbn);
         log.debug("categoryInfo=" + categoryInfo);
         String category_main = null;
@@ -96,14 +96,14 @@ public class DetailController {
 
         List<BookVO> detailBookList = bookDAO.getdetailbookList(category_id);
 
-        ModelAndView mav = new ModelAndView("detail"); // JSP 파일 이름 설정 (detail.jsp)
+        ModelAndView mav = new ModelAndView("detail");
         mav.addObject("detailBookList", detailBookList);
         mav.addObject("onebook", onebook);
-        mav.addObject("content", contentBuilder.toString()); // 책 내용 전달
-        mav.addObject("info", infoBuilder.toString()); // 책 정보 전달
-        mav.addObject("category_main", category_main); // 카테고리 메인 전달
-        mav.addObject("category_sub", category_sub); // 카테고리 서브 전달
-        mav.addObject("reviews", reviews); // 리뷰 전달
+        mav.addObject("content", contentBuilder.toString()); // 책 내용
+        mav.addObject("info", infoBuilder.toString()); // 책 정보
+        mav.addObject("category_main", category_main); // 카테고리 메인
+        mav.addObject("category_sub", category_sub); // 카테고리 서브
+        mav.addObject("reviews", reviews); // 리뷰
 
         return mav;
     }
